@@ -82,6 +82,10 @@ categories = [
 ]
 
 for i in range(1, 201):
+    
+    cost_price = round(random.uniform(5, 100), 2)
+    selling_price = round(cost_price * random.uniform(1.2, 2.5), 2)
+
     products.append({
         "product_id": i,
         "product_name": fake.word().title() + " " + random.choice([
@@ -91,11 +95,10 @@ for i in range(1, 201):
             "Standard"
         ]),
         "category": random.choice(categories),
-        "cost_price": round(random.uniform(5, 100), 2),
-        "selling_price": round(random.uniform(10, 200), 2),
+        "cost_price": cost_price,
+        "selling_price": selling_price,
         "supplier_id": random.randint(1, 20)
     })
-
 
 products_df = pd.DataFrame(products)
 
@@ -171,7 +174,7 @@ for i in range(1, 1001):
 
     orders.append({
         "order_id": i,
-        "customer_id": random.randint(1, 100),
+        "customer_id": random.randint(1, number_of_customers),
         "order_date": order_date,
         "warehouse": random.choice(warehouses),
         "order_status": random.choice(order_statuses),
@@ -221,34 +224,4 @@ order_items_df.to_csv(
 )
 
 print("Order Items dataset created successfully!")
-print(order_items_df.head())
-# Generate Order Items Dataset
-
-order_items = []
-
-for order_id in range(1, 1001):
-
-    number_of_items = random.randint(1, 5)
-
-    selected_products = random.sample(
-        range(1, 201),
-        number_of_items
-    )
-
-    for product_id in selected_products:
-        order_items.append({
-            "order_id": order_id,
-            "product_id": product_id,
-            "quantity": random.randint(1, 5)
-        })
-
-
-order_items_df = pd.DataFrame(order_items)
-
-order_items_df.to_csv(
-    "data/order_items.csv",
-    index=False
-)
-
-print("Order Items dataset created successfully!")
-print(order_items_df.head())
+print(order_items_df.head()) 

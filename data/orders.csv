@@ -1,1001 +1,1001 @@
 order_id,customer_id,order_date,warehouse,order_status,payment_method,delivery_date
-1,51,2026-02-21,Edinburgh,Cancelled,Card,2026-07-09
-2,55,2026-03-15,London,Cancelled,Card,2026-05-24
-3,79,2026-05-11,Edinburgh,Cancelled,Card,2026-07-03
-4,58,2025-12-30,Birmingham,Returned,PayPal,2026-01-30
-5,84,2025-11-19,Birmingham,Delivered,Card,2026-01-02
-6,35,2025-07-21,Manchester,Returned,Card,2026-03-10
-7,75,2026-01-11,Manchester,Returned,PayPal,2026-05-13
-8,83,2025-11-10,London,Returned,Bank Transfer,2026-01-04
-9,18,2025-11-10,Birmingham,Returned,Bank Transfer,2026-03-31
-10,72,2026-06-21,Birmingham,Processing,Bank Transfer,2026-07-13
-11,47,2026-01-29,Birmingham,Returned,Card,2026-02-11
-12,7,2026-04-19,Manchester,Cancelled,PayPal,2026-05-08
-13,11,2025-07-19,Edinburgh,Cancelled,Card,2025-11-17
-14,80,2025-10-01,Birmingham,Cancelled,Card,2026-07-18
-15,23,2026-04-24,Edinburgh,Delivered,PayPal,2026-05-23
-16,42,2025-09-13,Edinburgh,Delivered,PayPal,2026-07-24
-17,34,2025-08-25,Manchester,Processing,Card,2026-05-07
-18,83,2026-04-04,London,Processing,Bank Transfer,2026-04-21
-19,8,2026-05-08,London,Cancelled,PayPal,2026-07-25
-20,48,2025-09-19,Birmingham,Processing,Bank Transfer,2026-03-04
-21,65,2026-01-28,London,Delivered,PayPal,2026-07-09
-22,86,2025-11-24,London,Delivered,Card,2026-01-31
-23,14,2025-07-01,London,Cancelled,Bank Transfer,2025-08-21
-24,4,2025-09-14,Birmingham,Processing,Bank Transfer,2026-05-12
-25,92,2025-07-01,Manchester,Delivered,Card,2026-01-22
-26,70,2026-05-10,London,Processing,Card,2026-07-19
-27,39,2025-07-07,Birmingham,Delivered,Card,2026-04-21
-28,51,2025-10-10,London,Processing,Bank Transfer,2025-11-15
-29,17,2025-09-28,Edinburgh,Cancelled,Bank Transfer,2025-12-13
-30,69,2025-07-02,Manchester,Cancelled,PayPal,2025-11-01
-31,41,2026-05-06,Edinburgh,Cancelled,Bank Transfer,2026-05-21
-32,4,2025-09-18,London,Returned,Card,2026-04-18
-33,88,2025-08-13,Manchester,Returned,Card,2026-07-14
-34,69,2026-02-21,Manchester,Returned,PayPal,2026-03-02
-35,74,2025-10-11,London,Returned,PayPal,2026-01-01
-36,32,2025-08-08,Manchester,Processing,PayPal,2026-07-28
-37,71,2025-09-16,Edinburgh,Processing,PayPal,2026-04-05
-38,19,2026-05-29,London,Processing,PayPal,2026-06-08
-39,26,2025-08-20,Birmingham,Returned,PayPal,2026-07-11
-40,25,2026-04-05,Manchester,Delivered,Bank Transfer,2026-04-23
-41,69,2025-12-29,Edinburgh,Cancelled,Card,2026-07-10
-42,82,2025-11-22,Manchester,Processing,PayPal,2026-01-16
-43,74,2026-04-24,London,Processing,Bank Transfer,2026-05-13
-44,98,2025-10-25,Birmingham,Cancelled,Card,2026-04-05
-45,45,2026-03-27,Manchester,Processing,Bank Transfer,2026-06-26
-46,47,2026-03-10,Manchester,Processing,PayPal,2026-05-01
-47,79,2025-08-16,Manchester,Delivered,Bank Transfer,2026-04-13
-48,13,2025-11-09,London,Delivered,PayPal,2025-12-12
-49,20,2025-08-08,London,Processing,PayPal,2026-03-17
-50,30,2026-05-31,Manchester,Processing,Bank Transfer,2026-07-19
-51,66,2025-11-01,Birmingham,Processing,Bank Transfer,2025-11-18
-52,63,2025-10-22,London,Delivered,Bank Transfer,2025-11-18
-53,40,2025-10-29,London,Cancelled,Card,2026-03-08
-54,65,2026-05-20,Manchester,Delivered,PayPal,2026-07-23
-55,58,2025-12-01,London,Cancelled,Card,2026-03-30
-56,29,2026-05-04,Edinburgh,Cancelled,Card,2026-07-15
-57,77,2026-01-22,Birmingham,Processing,PayPal,2026-02-27
-58,73,2026-04-14,London,Returned,Bank Transfer,2026-07-26
-59,74,2025-12-14,Edinburgh,Returned,PayPal,2026-04-06
-60,71,2026-03-01,London,Processing,Card,2026-07-10
-61,44,2025-09-03,London,Returned,Bank Transfer,2026-04-04
-62,57,2025-12-17,Birmingham,Cancelled,PayPal,2026-06-23
-63,41,2025-12-20,London,Processing,Bank Transfer,2026-02-15
-64,50,2025-09-23,Edinburgh,Delivered,Card,2026-04-19
-65,32,2026-06-13,Edinburgh,Processing,Bank Transfer,2026-06-26
-66,29,2025-07-05,Manchester,Cancelled,PayPal,2026-04-04
-67,88,2026-04-07,London,Processing,Card,2026-05-06
-68,61,2026-06-21,London,Returned,PayPal,2026-07-21
-69,73,2026-02-09,Edinburgh,Delivered,PayPal,2026-06-18
-70,60,2026-02-19,Edinburgh,Cancelled,Card,2026-03-05
-71,72,2026-02-25,London,Cancelled,PayPal,2026-07-23
-72,63,2025-09-03,Edinburgh,Processing,Card,2026-03-10
-73,28,2025-09-11,London,Returned,Card,2026-06-17
-74,52,2026-06-23,Edinburgh,Returned,PayPal,2026-07-05
-75,59,2026-04-23,Manchester,Processing,PayPal,2026-05-01
-76,23,2026-01-29,London,Delivered,Card,2026-03-05
-77,65,2026-04-28,Birmingham,Cancelled,Card,2026-06-03
-78,6,2025-12-16,Manchester,Processing,PayPal,2026-04-07
-79,48,2025-12-12,Birmingham,Processing,Card,2026-01-08
-80,34,2025-11-01,Birmingham,Processing,Card,2026-02-18
-81,95,2025-07-30,Birmingham,Cancelled,Card,2026-03-30
-82,65,2025-08-06,London,Delivered,Card,2026-03-01
-83,83,2026-03-04,Birmingham,Delivered,Card,2026-04-18
-84,97,2025-08-31,Manchester,Returned,Bank Transfer,2026-07-11
-85,97,2025-12-12,Birmingham,Delivered,Bank Transfer,2026-04-05
-86,30,2025-12-25,London,Delivered,Bank Transfer,2025-12-31
-87,81,2026-01-17,London,Cancelled,Card,2026-06-28
-88,11,2026-05-31,London,Delivered,Card,2026-06-15
-89,41,2026-02-28,Edinburgh,Returned,Bank Transfer,2026-03-14
-90,75,2026-01-08,London,Processing,Card,2026-07-14
-91,32,2026-04-23,Edinburgh,Returned,PayPal,2026-07-23
-92,89,2026-03-04,Manchester,Returned,PayPal,2026-04-16
-93,97,2025-11-01,Edinburgh,Returned,Bank Transfer,2026-07-05
-94,88,2026-01-22,Birmingham,Cancelled,Card,2026-05-04
-95,53,2026-01-30,London,Processing,Card,2026-02-05
-96,14,2026-06-06,Manchester,Processing,PayPal,2026-06-28
-97,12,2026-03-03,London,Processing,Card,2026-04-23
-98,8,2026-06-05,London,Cancelled,PayPal,2026-07-26
-99,60,2025-09-16,Birmingham,Cancelled,PayPal,2026-07-20
-100,45,2025-07-02,Birmingham,Cancelled,Bank Transfer,2025-10-01
-101,24,2025-07-28,London,Delivered,Bank Transfer,2025-10-03
-102,82,2026-02-16,London,Delivered,Bank Transfer,2026-06-02
-103,87,2026-04-14,Manchester,Cancelled,Card,2026-05-22
-104,77,2026-01-24,Birmingham,Returned,PayPal,2026-03-07
-105,42,2026-01-23,Edinburgh,Returned,PayPal,2026-03-17
-106,72,2025-08-16,London,Returned,Bank Transfer,2026-01-10
-107,100,2025-07-16,Birmingham,Cancelled,PayPal,2026-03-29
-108,89,2026-01-04,London,Returned,Card,2026-07-06
-109,44,2026-01-09,London,Returned,Card,2026-07-08
-110,18,2026-04-13,London,Returned,PayPal,2026-07-06
-111,22,2026-04-18,Edinburgh,Returned,Bank Transfer,2026-06-13
-112,98,2025-10-28,Edinburgh,Cancelled,PayPal,2026-03-12
-113,26,2026-06-24,Birmingham,Processing,Bank Transfer,2026-07-29
-114,96,2025-07-24,Manchester,Processing,PayPal,2025-09-12
-115,95,2025-09-02,Birmingham,Processing,PayPal,2026-01-16
-116,67,2026-05-03,Birmingham,Delivered,PayPal,2026-05-06
-117,96,2025-10-26,Manchester,Cancelled,Card,2026-07-28
-118,7,2025-08-12,Manchester,Cancelled,Bank Transfer,2026-01-28
-119,47,2026-03-19,Manchester,Delivered,Bank Transfer,2026-06-24
-120,68,2026-04-25,London,Processing,Bank Transfer,2026-07-14
-121,56,2026-05-07,London,Processing,Card,2026-06-22
-122,77,2025-11-27,London,Processing,Bank Transfer,2026-01-06
-123,84,2025-10-04,London,Returned,PayPal,2025-11-08
-124,53,2025-08-18,Manchester,Cancelled,PayPal,2026-06-19
-125,38,2026-04-18,Manchester,Returned,PayPal,2026-07-14
-126,30,2026-03-17,Birmingham,Cancelled,Card,2026-03-25
-127,66,2026-01-01,London,Returned,Card,2026-07-22
-128,97,2025-07-20,Manchester,Returned,PayPal,2026-06-24
-129,97,2026-01-14,Manchester,Delivered,PayPal,2026-06-06
-130,55,2026-02-03,Edinburgh,Returned,Bank Transfer,2026-06-22
-131,29,2025-08-10,Manchester,Cancelled,Card,2026-07-03
-132,60,2025-11-06,Manchester,Cancelled,Bank Transfer,2026-05-13
-133,89,2025-11-03,Edinburgh,Returned,PayPal,2025-12-21
-134,59,2025-08-05,Birmingham,Returned,Bank Transfer,2025-09-15
-135,80,2026-04-14,Edinburgh,Processing,PayPal,2026-06-26
-136,98,2026-02-10,Manchester,Delivered,PayPal,2026-07-09
-137,44,2025-08-06,Manchester,Delivered,PayPal,2026-01-07
-138,12,2025-09-21,Birmingham,Cancelled,PayPal,2026-02-06
-139,13,2026-03-22,Manchester,Returned,Card,2026-07-22
-140,32,2025-07-28,Manchester,Delivered,PayPal,2025-11-21
-141,71,2026-05-30,Birmingham,Returned,Bank Transfer,2026-06-30
-142,69,2025-12-12,Edinburgh,Cancelled,Bank Transfer,2026-05-08
-143,87,2026-01-12,London,Cancelled,Card,2026-02-06
-144,82,2026-03-17,Edinburgh,Cancelled,Bank Transfer,2026-07-11
-145,53,2026-06-13,Birmingham,Returned,Card,2026-07-20
-146,26,2026-06-01,Edinburgh,Processing,Bank Transfer,2026-07-28
-147,8,2025-12-15,Birmingham,Delivered,Card,2026-01-27
-148,34,2026-01-23,Manchester,Cancelled,Bank Transfer,2026-07-22
-149,11,2026-05-18,Birmingham,Cancelled,Card,2026-07-15
-150,5,2026-03-12,Edinburgh,Processing,Card,2026-06-12
-151,86,2026-05-22,London,Cancelled,Card,2026-07-25
-152,23,2026-03-21,London,Processing,Bank Transfer,2026-05-29
-153,77,2025-12-09,Edinburgh,Cancelled,Bank Transfer,2026-04-23
-154,46,2026-01-07,Edinburgh,Processing,PayPal,2026-02-21
-155,61,2026-03-22,London,Returned,Card,2026-04-13
-156,66,2026-02-12,Edinburgh,Processing,PayPal,2026-07-06
-157,87,2025-07-05,Edinburgh,Cancelled,Card,2026-04-15
-158,30,2026-03-24,London,Returned,PayPal,2026-05-09
-159,39,2025-10-26,Manchester,Cancelled,Card,2026-02-23
-160,21,2026-03-07,Edinburgh,Returned,Card,2026-03-30
-161,5,2026-04-01,London,Processing,Bank Transfer,2026-04-09
-162,9,2025-10-16,Edinburgh,Cancelled,PayPal,2026-06-22
-163,69,2026-04-01,Edinburgh,Processing,Bank Transfer,2026-04-26
-164,57,2025-08-09,London,Processing,Bank Transfer,2026-06-05
-165,95,2026-05-14,Manchester,Returned,Bank Transfer,2026-07-27
-166,7,2026-02-25,Birmingham,Returned,PayPal,2026-04-26
-167,49,2025-09-27,Edinburgh,Delivered,Bank Transfer,2026-01-07
-168,57,2025-10-01,Edinburgh,Returned,PayPal,2026-02-01
-169,96,2025-10-02,Birmingham,Returned,PayPal,2025-12-13
-170,39,2025-07-08,London,Cancelled,Bank Transfer,2025-09-30
-171,68,2025-11-07,London,Processing,Card,2026-01-03
-172,35,2025-12-30,London,Delivered,Card,2026-05-16
-173,2,2025-11-12,Manchester,Returned,Card,2026-04-29
-174,24,2025-10-25,London,Cancelled,Bank Transfer,2026-04-13
-175,52,2025-11-24,London,Cancelled,Card,2026-01-21
-176,29,2025-10-01,Birmingham,Cancelled,Bank Transfer,2026-03-11
-177,43,2025-10-25,Birmingham,Processing,PayPal,2026-07-25
-178,12,2025-09-26,Edinburgh,Cancelled,Card,2026-07-12
-179,80,2025-09-20,Manchester,Delivered,Card,2026-05-29
-180,15,2026-03-31,Edinburgh,Delivered,PayPal,2026-07-15
-181,58,2025-11-01,Birmingham,Cancelled,Card,2026-06-15
-182,96,2025-10-07,London,Processing,Card,2026-04-23
-183,54,2026-05-23,Manchester,Returned,Card,2026-07-29
-184,91,2025-12-24,Edinburgh,Processing,Card,2026-04-08
-185,17,2025-08-26,London,Processing,Card,2026-06-05
-186,70,2026-06-08,London,Cancelled,Card,2026-06-15
-187,94,2026-02-02,Edinburgh,Cancelled,Card,2026-05-26
-188,9,2025-08-15,Edinburgh,Processing,Card,2026-01-09
-189,63,2025-12-31,Birmingham,Delivered,Card,2026-04-25
-190,35,2025-08-09,Manchester,Processing,Card,2025-12-31
-191,81,2026-01-30,Manchester,Delivered,PayPal,2026-05-21
-192,43,2025-08-19,Edinburgh,Delivered,PayPal,2026-01-19
-193,5,2026-05-22,London,Cancelled,Card,2026-06-28
-194,65,2026-03-25,Manchester,Delivered,Card,2026-06-14
-195,40,2026-04-22,Manchester,Returned,Bank Transfer,2026-07-16
-196,12,2026-03-15,Birmingham,Returned,Bank Transfer,2026-07-27
-197,43,2025-07-31,Birmingham,Cancelled,Card,2026-02-14
-198,40,2026-03-27,London,Cancelled,Card,2026-06-12
-199,22,2026-05-13,Edinburgh,Returned,PayPal,2026-05-17
-200,21,2026-01-16,London,Returned,PayPal,2026-07-10
-201,92,2026-01-31,London,Delivered,Bank Transfer,2026-06-20
-202,6,2025-07-05,London,Delivered,Card,2025-11-04
-203,1,2026-03-29,London,Delivered,Card,2026-07-26
-204,66,2025-12-20,Manchester,Delivered,Card,2026-06-14
-205,68,2025-11-24,London,Processing,Bank Transfer,2026-03-18
-206,4,2026-06-21,London,Cancelled,PayPal,2026-07-27
-207,96,2026-03-13,Birmingham,Delivered,Bank Transfer,2026-04-15
-208,25,2026-01-24,Manchester,Returned,Card,2026-02-11
-209,69,2025-09-26,London,Returned,Card,2026-07-03
-210,33,2025-11-15,Edinburgh,Returned,Bank Transfer,2026-02-26
-211,87,2026-02-18,Manchester,Processing,Card,2026-03-30
-212,1,2026-01-07,Edinburgh,Processing,Bank Transfer,2026-03-31
-213,29,2025-10-25,London,Delivered,PayPal,2025-12-26
-214,23,2025-10-17,London,Returned,Card,2026-05-24
-215,55,2026-03-04,Birmingham,Cancelled,PayPal,2026-04-20
-216,38,2026-04-05,Edinburgh,Returned,Card,2026-04-24
-217,25,2025-09-03,Edinburgh,Cancelled,Card,2025-11-05
-218,88,2025-09-12,Birmingham,Returned,Card,2026-03-10
-219,4,2026-04-17,Birmingham,Processing,Card,2026-06-20
-220,64,2026-05-09,Birmingham,Cancelled,Card,2026-05-14
-221,14,2026-04-23,Edinburgh,Returned,Bank Transfer,2026-07-25
-222,13,2026-01-22,Birmingham,Cancelled,PayPal,2026-03-11
-223,94,2025-12-17,Edinburgh,Returned,Bank Transfer,2026-07-26
-224,31,2025-07-13,Manchester,Delivered,Card,2025-09-09
-225,93,2026-01-02,Edinburgh,Cancelled,Card,2026-06-06
-226,19,2026-05-25,Manchester,Delivered,PayPal,2026-07-20
-227,16,2026-01-26,Manchester,Processing,Bank Transfer,2026-04-23
-228,44,2026-04-11,London,Returned,Card,2026-07-05
-229,35,2026-06-12,Manchester,Cancelled,Bank Transfer,2026-07-05
-230,17,2025-09-23,Manchester,Returned,Bank Transfer,2026-05-15
-231,50,2025-07-16,London,Returned,Bank Transfer,2025-10-06
-232,10,2026-01-11,Edinburgh,Cancelled,Card,2026-05-09
-233,96,2025-08-11,Birmingham,Returned,Bank Transfer,2026-04-03
-234,48,2025-10-17,Edinburgh,Processing,Card,2026-03-10
-235,11,2026-04-04,Manchester,Returned,Bank Transfer,2026-05-19
-236,56,2025-08-20,Manchester,Returned,Card,2026-06-05
-237,92,2026-03-12,Birmingham,Returned,Bank Transfer,2026-05-02
-238,9,2025-10-21,Edinburgh,Cancelled,Bank Transfer,2026-03-26
-239,15,2025-08-24,Manchester,Delivered,PayPal,2025-08-30
-240,13,2026-01-02,Birmingham,Returned,Bank Transfer,2026-06-13
-241,44,2026-04-05,Birmingham,Cancelled,PayPal,2026-06-16
-242,100,2025-11-07,London,Returned,PayPal,2026-01-07
-243,41,2026-01-20,Edinburgh,Returned,Card,2026-02-04
-244,21,2025-09-08,Edinburgh,Returned,Bank Transfer,2025-10-13
-245,97,2026-01-16,Edinburgh,Returned,Card,2026-05-14
-246,59,2026-01-04,London,Cancelled,Card,2026-07-18
-247,73,2025-09-03,Edinburgh,Cancelled,Bank Transfer,2026-05-28
-248,66,2026-05-29,London,Delivered,Bank Transfer,2026-06-18
-249,18,2025-09-15,Manchester,Cancelled,Bank Transfer,2026-03-05
-250,64,2025-08-01,Edinburgh,Processing,Card,2026-06-18
-251,84,2026-05-24,London,Delivered,Card,2026-07-07
-252,59,2026-02-11,Edinburgh,Delivered,Bank Transfer,2026-05-18
-253,16,2025-08-31,Birmingham,Processing,Bank Transfer,2026-03-17
-254,54,2026-01-16,Manchester,Cancelled,Bank Transfer,2026-04-14
-255,76,2025-08-05,Manchester,Processing,PayPal,2026-03-12
-256,46,2025-10-10,Birmingham,Returned,Bank Transfer,2026-07-20
-257,72,2026-05-14,Edinburgh,Returned,Bank Transfer,2026-06-04
-258,15,2025-10-29,Birmingham,Cancelled,Card,2026-07-15
-259,77,2025-06-29,Birmingham,Returned,Card,2026-07-12
-260,89,2026-06-19,Birmingham,Cancelled,Card,2026-07-13
-261,68,2026-01-23,Manchester,Returned,Bank Transfer,2026-03-02
-262,23,2026-04-27,Birmingham,Processing,Card,2026-06-10
-263,69,2026-05-11,Manchester,Processing,PayPal,2026-06-05
-264,13,2025-08-02,Edinburgh,Returned,PayPal,2026-06-14
-265,12,2025-08-23,London,Processing,Bank Transfer,2026-06-07
-266,16,2025-11-04,Edinburgh,Returned,PayPal,2026-05-25
-267,14,2025-07-21,Edinburgh,Delivered,Bank Transfer,2026-06-04
-268,48,2026-03-02,Manchester,Delivered,Card,2026-05-27
-269,90,2025-11-09,London,Cancelled,PayPal,2026-07-13
-270,15,2026-03-29,Edinburgh,Returned,Bank Transfer,2026-04-04
-271,14,2025-11-21,Manchester,Delivered,Bank Transfer,2026-03-12
-272,88,2025-12-05,London,Returned,Bank Transfer,2025-12-10
-273,43,2025-12-25,Manchester,Returned,Card,2026-07-17
-274,43,2025-09-19,London,Returned,Bank Transfer,2025-12-12
-275,14,2026-04-14,Edinburgh,Returned,PayPal,2026-04-22
-276,97,2025-08-26,Edinburgh,Returned,Card,2026-03-10
-277,11,2026-02-24,London,Processing,Bank Transfer,2026-03-02
-278,65,2026-05-01,London,Cancelled,Bank Transfer,2026-05-26
-279,92,2026-05-09,London,Processing,Card,2026-07-21
-280,94,2025-10-11,Edinburgh,Cancelled,Bank Transfer,2025-12-06
-281,25,2026-01-30,Birmingham,Delivered,PayPal,2026-05-19
-282,88,2025-09-10,Manchester,Delivered,Bank Transfer,2025-10-10
-283,71,2026-02-13,Manchester,Returned,Bank Transfer,2026-04-16
-284,51,2025-10-25,Manchester,Returned,Bank Transfer,2025-10-28
-285,3,2026-03-10,Edinburgh,Cancelled,Bank Transfer,2026-07-22
-286,7,2026-02-21,London,Delivered,Bank Transfer,2026-03-22
-287,79,2025-12-03,Birmingham,Processing,Card,2026-06-05
-288,72,2025-07-24,Manchester,Processing,Bank Transfer,2025-07-27
-289,63,2026-06-09,London,Delivered,Card,2026-07-12
-290,100,2025-09-07,London,Delivered,PayPal,2026-04-16
-291,74,2026-04-10,Edinburgh,Cancelled,Bank Transfer,2026-05-08
-292,66,2025-09-16,London,Delivered,Bank Transfer,2026-07-13
-293,9,2025-06-29,Birmingham,Delivered,Bank Transfer,2025-07-01
-294,64,2025-08-08,Birmingham,Processing,PayPal,2025-09-29
-295,25,2025-07-18,London,Returned,Bank Transfer,2026-02-18
-296,99,2026-02-10,London,Returned,Bank Transfer,2026-07-07
-297,45,2025-09-12,London,Delivered,Bank Transfer,2026-03-26
-298,91,2026-06-10,Manchester,Cancelled,Card,2026-06-29
-299,84,2026-01-23,London,Processing,Bank Transfer,2026-02-04
-300,42,2025-11-10,London,Processing,PayPal,2026-04-05
-301,92,2025-12-11,Birmingham,Delivered,Card,2026-04-06
-302,70,2026-01-13,Birmingham,Delivered,Bank Transfer,2026-06-09
-303,87,2025-11-10,Birmingham,Delivered,Card,2025-11-15
-304,29,2026-03-27,Birmingham,Returned,PayPal,2026-05-13
-305,17,2025-09-04,Manchester,Returned,Bank Transfer,2026-04-27
-306,48,2025-07-13,Manchester,Cancelled,Card,2025-10-15
-307,89,2025-09-07,Manchester,Returned,Card,2026-04-28
-308,37,2025-09-08,Edinburgh,Returned,PayPal,2026-06-28
-309,83,2026-02-05,Manchester,Returned,Bank Transfer,2026-02-11
-310,72,2025-07-11,Birmingham,Cancelled,PayPal,2026-07-07
-311,69,2025-07-22,London,Returned,Bank Transfer,2026-04-09
-312,52,2026-02-22,London,Returned,Bank Transfer,2026-07-24
-313,38,2025-11-12,Manchester,Delivered,PayPal,2026-01-02
-314,34,2026-04-05,Manchester,Returned,Card,2026-06-20
-315,37,2026-05-10,London,Processing,Bank Transfer,2026-07-19
-316,52,2026-01-16,London,Delivered,Bank Transfer,2026-01-18
-317,62,2025-09-30,Edinburgh,Returned,Card,2026-02-19
-318,84,2026-03-02,Birmingham,Returned,PayPal,2026-05-18
-319,94,2026-06-02,Birmingham,Returned,Card,2026-06-10
-320,45,2026-02-21,Birmingham,Processing,Bank Transfer,2026-06-13
-321,17,2025-10-21,London,Delivered,PayPal,2026-04-25
-322,72,2025-10-11,London,Returned,PayPal,2025-11-28
-323,29,2025-08-05,Birmingham,Delivered,Card,2026-07-05
-324,15,2025-08-22,Edinburgh,Cancelled,Bank Transfer,2026-02-20
-325,89,2026-03-02,Manchester,Processing,Bank Transfer,2026-07-12
-326,63,2026-06-16,Birmingham,Returned,Card,2026-07-15
-327,64,2025-09-04,London,Cancelled,PayPal,2026-05-08
-328,47,2025-08-18,Birmingham,Delivered,Card,2026-02-20
-329,69,2025-10-06,Edinburgh,Returned,Bank Transfer,2026-07-11
-330,92,2026-02-04,Edinburgh,Returned,PayPal,2026-06-13
-331,93,2025-08-01,Birmingham,Returned,PayPal,2026-05-13
-332,84,2026-03-24,Manchester,Returned,Card,2026-05-21
-333,4,2026-05-10,Manchester,Delivered,Bank Transfer,2026-07-03
-334,4,2025-08-12,Edinburgh,Delivered,PayPal,2026-03-22
-335,98,2026-02-02,Edinburgh,Returned,PayPal,2026-02-12
-336,10,2025-06-29,Birmingham,Processing,Card,2025-07-21
-337,24,2025-11-26,London,Processing,PayPal,2026-06-18
-338,14,2026-03-02,London,Processing,PayPal,2026-04-06
-339,92,2026-06-14,Manchester,Delivered,Bank Transfer,2026-07-02
-340,44,2026-05-22,London,Delivered,PayPal,2026-06-23
-341,71,2026-04-28,London,Returned,Card,2026-05-22
-342,17,2025-12-28,Edinburgh,Returned,PayPal,2026-03-30
-343,99,2025-12-25,Edinburgh,Processing,Bank Transfer,2026-05-15
-344,96,2025-10-12,Manchester,Processing,Card,2026-07-12
-345,95,2025-09-13,Edinburgh,Delivered,PayPal,2025-10-13
-346,73,2025-10-12,Edinburgh,Cancelled,Bank Transfer,2026-04-01
-347,56,2026-05-26,Manchester,Delivered,Card,2026-07-05
-348,24,2026-04-08,London,Cancelled,PayPal,2026-04-27
-349,29,2026-01-30,Birmingham,Delivered,PayPal,2026-05-19
-350,85,2025-11-03,Edinburgh,Cancelled,Bank Transfer,2026-03-07
-351,12,2025-10-02,Manchester,Delivered,Card,2026-03-01
-352,73,2026-04-18,Edinburgh,Delivered,Card,2026-06-02
-353,54,2026-04-14,Manchester,Returned,Card,2026-04-14
-354,57,2025-08-28,London,Returned,Bank Transfer,2026-03-26
-355,76,2025-12-31,Edinburgh,Processing,Card,2026-04-12
-356,54,2025-12-07,Birmingham,Cancelled,Card,2026-06-16
-357,92,2026-01-31,Edinburgh,Delivered,PayPal,2026-04-21
-358,97,2025-12-26,Manchester,Delivered,Card,2026-01-15
-359,79,2026-06-27,Edinburgh,Processing,Bank Transfer,2026-07-17
-360,19,2026-06-21,Edinburgh,Processing,Card,2026-07-22
-361,30,2025-07-22,London,Returned,Card,2025-08-25
-362,17,2025-08-18,London,Returned,Bank Transfer,2026-07-12
-363,27,2025-10-10,Birmingham,Delivered,PayPal,2025-11-22
-364,77,2025-10-18,London,Delivered,Bank Transfer,2026-04-23
-365,22,2025-07-03,Birmingham,Processing,PayPal,2025-07-28
-366,82,2026-06-03,Edinburgh,Processing,Bank Transfer,2026-06-23
-367,78,2025-09-04,Manchester,Returned,Card,2025-11-21
-368,96,2026-03-13,Manchester,Delivered,Bank Transfer,2026-07-06
-369,26,2026-01-04,Manchester,Returned,Card,2026-06-13
-370,47,2026-02-01,Edinburgh,Delivered,PayPal,2026-03-16
-371,78,2025-10-19,Edinburgh,Delivered,Card,2026-05-12
-372,17,2026-05-11,London,Processing,Card,2026-06-15
-373,79,2025-10-10,Edinburgh,Cancelled,PayPal,2026-03-01
-374,16,2025-12-24,Birmingham,Delivered,Card,2026-05-06
-375,91,2026-04-25,Manchester,Processing,PayPal,2026-06-05
-376,51,2026-01-06,Manchester,Delivered,PayPal,2026-02-18
-377,87,2025-09-02,Birmingham,Processing,Card,2026-01-26
-378,76,2026-01-13,London,Processing,Bank Transfer,2026-06-13
-379,68,2025-11-10,London,Cancelled,Bank Transfer,2025-12-19
-380,20,2025-10-25,Edinburgh,Processing,Card,2026-04-05
-381,25,2026-04-29,Manchester,Processing,PayPal,2026-07-28
-382,1,2025-10-17,Birmingham,Cancelled,Card,2025-12-16
-383,77,2026-05-10,Edinburgh,Cancelled,Bank Transfer,2026-06-15
-384,20,2025-08-16,Manchester,Cancelled,Card,2026-04-15
-385,89,2025-11-29,Edinburgh,Returned,Bank Transfer,2026-02-12
-386,52,2025-09-29,London,Cancelled,PayPal,2026-06-19
-387,57,2025-10-07,Manchester,Delivered,Bank Transfer,2026-06-17
-388,32,2026-03-04,Manchester,Delivered,Bank Transfer,2026-04-03
-389,18,2025-12-30,Manchester,Returned,Card,2026-01-26
-390,38,2025-12-16,Manchester,Cancelled,Card,2026-07-29
-391,29,2026-01-19,Edinburgh,Returned,Card,2026-02-07
-392,6,2026-01-30,Edinburgh,Processing,PayPal,2026-02-04
-393,15,2025-10-31,Birmingham,Delivered,Card,2026-02-17
-394,81,2026-01-19,London,Returned,PayPal,2026-03-07
-395,54,2026-04-19,London,Returned,PayPal,2026-05-07
-396,82,2025-09-26,Manchester,Returned,PayPal,2026-03-19
-397,21,2026-05-27,Birmingham,Delivered,Bank Transfer,2026-06-16
-398,8,2026-03-27,London,Returned,PayPal,2026-03-31
-399,54,2026-05-14,Manchester,Returned,PayPal,2026-06-06
-400,29,2026-05-19,Manchester,Delivered,Bank Transfer,2026-05-27
-401,26,2025-11-25,Edinburgh,Processing,PayPal,2026-03-28
-402,82,2025-12-04,Edinburgh,Cancelled,Bank Transfer,2026-01-20
-403,100,2025-08-11,Birmingham,Delivered,Card,2026-02-10
-404,63,2026-05-21,Birmingham,Returned,PayPal,2026-06-03
-405,48,2025-08-11,Manchester,Cancelled,PayPal,2026-04-10
-406,84,2025-11-08,Edinburgh,Delivered,Card,2026-01-02
-407,84,2025-10-02,London,Processing,Card,2025-10-27
-408,11,2025-09-23,Manchester,Returned,Card,2026-02-25
-409,41,2026-04-26,Birmingham,Processing,PayPal,2026-05-04
-410,49,2026-01-31,London,Returned,PayPal,2026-04-20
-411,27,2025-08-25,Edinburgh,Returned,PayPal,2025-11-19
-412,85,2025-07-16,Birmingham,Returned,Card,2025-10-19
-413,13,2025-12-20,Manchester,Cancelled,PayPal,2026-02-24
-414,29,2025-08-25,Birmingham,Returned,PayPal,2026-05-09
-415,1,2026-05-05,London,Delivered,Card,2026-06-01
-416,93,2025-08-26,Birmingham,Returned,PayPal,2025-10-24
-417,6,2025-09-26,Birmingham,Processing,PayPal,2025-12-02
-418,90,2026-05-28,London,Processing,PayPal,2026-06-27
-419,60,2025-07-18,London,Processing,Bank Transfer,2025-08-23
-420,12,2025-09-09,Edinburgh,Delivered,Bank Transfer,2025-11-05
-421,18,2025-07-26,Birmingham,Processing,Bank Transfer,2026-05-06
-422,60,2025-10-31,London,Processing,Bank Transfer,2026-03-26
-423,73,2026-04-05,Edinburgh,Cancelled,Card,2026-05-12
-424,15,2025-11-02,Edinburgh,Delivered,PayPal,2026-03-18
-425,1,2026-06-01,Edinburgh,Delivered,Card,2026-06-06
-426,57,2025-07-06,Birmingham,Cancelled,Bank Transfer,2026-04-02
-427,38,2026-01-07,Edinburgh,Delivered,Bank Transfer,2026-04-19
-428,90,2026-04-14,London,Processing,PayPal,2026-07-28
-429,60,2026-03-21,Birmingham,Returned,Card,2026-07-22
-430,77,2025-11-04,Manchester,Delivered,PayPal,2026-04-23
-431,83,2025-12-20,London,Processing,Bank Transfer,2026-07-06
-432,49,2025-07-27,London,Delivered,PayPal,2025-08-25
-433,34,2026-06-14,Birmingham,Delivered,PayPal,2026-07-20
-434,5,2026-06-23,Edinburgh,Delivered,PayPal,2026-07-20
-435,7,2026-04-18,Manchester,Returned,Card,2026-06-18
-436,26,2025-10-11,Birmingham,Delivered,Bank Transfer,2026-04-26
-437,10,2026-01-13,Manchester,Cancelled,Card,2026-02-26
-438,28,2026-01-14,Birmingham,Returned,Card,2026-05-03
-439,66,2025-09-17,Manchester,Processing,PayPal,2026-05-17
-440,23,2026-03-27,Manchester,Returned,PayPal,2026-04-18
-441,72,2025-08-14,London,Delivered,Bank Transfer,2026-01-23
-442,96,2025-11-05,Birmingham,Processing,Bank Transfer,2026-06-08
-443,78,2026-06-06,Manchester,Delivered,Card,2026-07-11
-444,81,2025-10-15,Edinburgh,Cancelled,Card,2025-12-05
-445,74,2026-05-18,Manchester,Returned,Bank Transfer,2026-05-25
-446,99,2025-08-20,Manchester,Delivered,PayPal,2026-06-13
-447,41,2026-06-08,London,Processing,Card,2026-06-24
-448,87,2026-04-23,Edinburgh,Delivered,Bank Transfer,2026-05-01
-449,47,2026-02-16,London,Processing,Bank Transfer,2026-05-07
-450,83,2025-12-03,Manchester,Processing,Card,2026-04-19
-451,63,2025-08-11,Manchester,Processing,PayPal,2025-12-08
-452,14,2026-04-08,London,Delivered,Bank Transfer,2026-04-30
-453,3,2026-01-10,Manchester,Returned,Card,2026-04-13
-454,94,2026-02-07,Manchester,Delivered,PayPal,2026-04-16
-455,3,2025-07-05,Birmingham,Delivered,Bank Transfer,2026-02-16
-456,53,2026-05-04,London,Processing,Card,2026-07-08
-457,42,2025-09-04,London,Delivered,PayPal,2026-05-27
-458,42,2026-04-19,Birmingham,Returned,PayPal,2026-05-12
-459,28,2025-10-23,Manchester,Returned,Card,2026-05-05
-460,32,2025-10-01,London,Returned,PayPal,2026-07-07
-461,17,2026-04-29,Manchester,Delivered,PayPal,2026-06-07
-462,63,2025-12-23,Birmingham,Cancelled,Bank Transfer,2026-01-24
-463,65,2026-02-05,Edinburgh,Delivered,Card,2026-04-19
-464,37,2025-09-17,Edinburgh,Delivered,Card,2026-05-06
-465,2,2026-01-30,Manchester,Returned,Bank Transfer,2026-06-14
-466,92,2026-03-27,London,Returned,Bank Transfer,2026-04-11
-467,55,2026-02-19,Edinburgh,Delivered,PayPal,2026-05-04
-468,18,2026-06-04,Birmingham,Processing,PayPal,2026-07-06
-469,90,2025-09-25,Birmingham,Returned,PayPal,2026-06-22
-470,70,2026-02-21,Edinburgh,Cancelled,Card,2026-03-06
-471,63,2026-01-17,Edinburgh,Returned,Card,2026-04-17
-472,97,2026-03-17,Manchester,Processing,Bank Transfer,2026-05-28
-473,84,2026-02-08,Edinburgh,Delivered,Card,2026-06-25
-474,57,2026-03-13,Birmingham,Cancelled,Bank Transfer,2026-07-21
-475,45,2025-12-19,Birmingham,Processing,Bank Transfer,2026-06-22
-476,62,2026-06-15,Manchester,Cancelled,Card,2026-07-02
-477,26,2026-06-01,London,Processing,Bank Transfer,2026-07-15
-478,73,2025-09-16,Birmingham,Returned,Bank Transfer,2026-03-21
-479,91,2025-11-25,Birmingham,Cancelled,PayPal,2026-01-06
-480,72,2025-11-16,Birmingham,Processing,PayPal,2026-06-02
-481,61,2025-10-08,Manchester,Delivered,Card,2026-07-22
-482,56,2026-01-11,Manchester,Cancelled,Card,2026-06-02
-483,93,2026-06-18,London,Cancelled,Bank Transfer,2026-07-27
-484,75,2025-11-20,Edinburgh,Processing,Card,2026-04-27
-485,28,2025-11-19,Manchester,Cancelled,PayPal,2026-03-06
-486,68,2026-05-25,Manchester,Cancelled,Bank Transfer,2026-07-14
-487,97,2025-12-08,Manchester,Cancelled,Bank Transfer,2026-06-02
-488,52,2026-05-08,Birmingham,Returned,PayPal,2026-07-27
-489,13,2025-07-07,London,Processing,Bank Transfer,2026-01-08
-490,40,2026-05-14,Edinburgh,Returned,Card,2026-06-26
-491,2,2025-11-04,Manchester,Returned,Card,2025-12-01
-492,11,2025-08-08,Edinburgh,Processing,Card,2026-02-06
-493,28,2026-06-23,Edinburgh,Delivered,PayPal,2026-07-01
-494,94,2026-06-18,Edinburgh,Cancelled,Bank Transfer,2026-07-22
-495,60,2025-09-01,Manchester,Cancelled,PayPal,2025-12-19
-496,40,2026-02-14,London,Returned,Bank Transfer,2026-05-31
-497,74,2026-02-28,London,Delivered,PayPal,2026-06-21
-498,41,2026-02-10,London,Processing,Card,2026-03-26
-499,100,2025-07-08,London,Delivered,Bank Transfer,2026-02-16
-500,83,2026-06-18,London,Delivered,Card,2026-06-30
-501,22,2026-01-13,Birmingham,Delivered,Bank Transfer,2026-04-07
-502,53,2026-03-23,Manchester,Cancelled,PayPal,2026-07-24
-503,26,2025-11-19,Birmingham,Returned,Card,2026-05-04
-504,31,2026-03-12,London,Delivered,Bank Transfer,2026-04-04
-505,10,2025-11-09,Birmingham,Returned,Bank Transfer,2026-02-01
-506,42,2025-07-30,Edinburgh,Cancelled,Card,2026-07-29
-507,1,2026-04-10,Birmingham,Returned,PayPal,2026-07-23
-508,93,2026-06-26,Birmingham,Cancelled,Bank Transfer,2026-07-24
-509,92,2025-09-29,Edinburgh,Delivered,PayPal,2025-11-17
-510,28,2025-12-09,Edinburgh,Processing,PayPal,2026-01-13
-511,34,2025-11-05,Birmingham,Delivered,Bank Transfer,2025-12-31
-512,29,2025-11-29,London,Processing,Bank Transfer,2026-01-07
-513,78,2025-08-12,Manchester,Processing,Card,2026-06-10
-514,75,2026-04-14,London,Delivered,PayPal,2026-07-21
-515,87,2025-07-19,Edinburgh,Returned,Bank Transfer,2026-01-03
-516,20,2026-03-15,Manchester,Returned,Card,2026-04-29
-517,76,2026-02-13,Manchester,Cancelled,Card,2026-06-17
-518,34,2026-06-23,Manchester,Cancelled,Bank Transfer,2026-06-24
-519,64,2026-01-01,Birmingham,Returned,PayPal,2026-02-26
-520,18,2026-02-02,London,Processing,Card,2026-02-08
-521,44,2026-03-06,Edinburgh,Returned,Card,2026-07-14
-522,53,2026-06-13,Birmingham,Returned,Card,2026-07-29
-523,48,2025-08-01,Birmingham,Delivered,PayPal,2025-12-17
-524,7,2026-01-04,Manchester,Delivered,Bank Transfer,2026-06-20
-525,3,2026-03-21,Manchester,Processing,PayPal,2026-05-11
-526,5,2026-01-06,Manchester,Returned,PayPal,2026-05-31
-527,33,2026-05-20,London,Cancelled,Card,2026-06-21
-528,36,2026-02-20,Manchester,Returned,PayPal,2026-03-29
-529,46,2026-03-18,London,Returned,Bank Transfer,2026-06-18
-530,36,2026-06-06,London,Processing,PayPal,2026-07-17
-531,70,2025-08-12,London,Processing,Bank Transfer,2025-11-02
-532,70,2025-12-31,Edinburgh,Cancelled,PayPal,2026-03-07
-533,25,2026-01-11,London,Returned,Card,2026-06-01
-534,91,2025-11-04,Edinburgh,Delivered,PayPal,2026-04-06
-535,70,2026-06-10,Edinburgh,Processing,Card,2026-06-30
-536,60,2026-06-26,London,Processing,Bank Transfer,2026-07-27
-537,90,2026-02-04,London,Cancelled,Card,2026-04-05
-538,42,2025-09-21,Edinburgh,Cancelled,PayPal,2025-11-08
-539,33,2025-10-22,Edinburgh,Cancelled,Bank Transfer,2026-07-05
-540,31,2025-08-11,London,Delivered,Card,2026-01-04
-541,74,2026-01-10,London,Delivered,Bank Transfer,2026-01-17
-542,59,2026-02-19,Manchester,Processing,Card,2026-04-10
-543,43,2026-03-29,London,Delivered,Card,2026-06-25
-544,88,2026-03-30,Manchester,Cancelled,PayPal,2026-05-14
-545,36,2026-02-28,London,Returned,Bank Transfer,2026-05-28
-546,72,2025-10-27,Manchester,Processing,PayPal,2026-03-18
-547,1,2025-11-23,London,Processing,PayPal,2026-04-12
-548,61,2026-02-18,Birmingham,Returned,PayPal,2026-06-03
-549,73,2025-11-04,Edinburgh,Returned,PayPal,2026-07-08
-550,64,2026-01-10,Birmingham,Returned,PayPal,2026-03-16
-551,80,2025-10-07,Edinburgh,Delivered,PayPal,2026-02-12
-552,14,2025-08-27,Edinburgh,Cancelled,Card,2026-04-07
-553,51,2026-01-16,Manchester,Processing,Bank Transfer,2026-04-09
-554,7,2025-12-23,London,Cancelled,PayPal,2026-03-20
-555,51,2025-12-04,London,Cancelled,Card,2026-04-17
-556,13,2025-10-10,Edinburgh,Delivered,Card,2025-12-08
-557,45,2025-10-22,Manchester,Processing,Bank Transfer,2026-02-21
-558,89,2026-05-28,London,Cancelled,PayPal,2026-07-02
-559,64,2025-10-22,London,Processing,Card,2026-02-02
-560,16,2025-07-29,Manchester,Processing,Bank Transfer,2025-11-24
-561,84,2026-03-02,Birmingham,Processing,Bank Transfer,2026-05-28
-562,38,2025-07-30,Birmingham,Processing,PayPal,2025-12-15
-563,64,2026-04-17,London,Delivered,Bank Transfer,2026-07-14
-564,31,2025-12-23,Birmingham,Processing,Card,2026-03-23
-565,60,2026-06-09,Edinburgh,Processing,Bank Transfer,2026-06-27
-566,14,2026-04-12,London,Processing,PayPal,2026-05-31
-567,75,2025-12-19,Edinburgh,Processing,Card,2026-07-05
-568,61,2026-05-19,London,Cancelled,PayPal,2026-07-25
-569,65,2026-01-25,Manchester,Returned,Bank Transfer,2026-05-23
-570,14,2026-05-08,Birmingham,Delivered,PayPal,2026-05-19
-571,97,2025-07-26,Birmingham,Delivered,Card,2026-06-06
-572,36,2025-12-15,Edinburgh,Returned,Card,2026-01-03
-573,26,2025-11-07,Edinburgh,Cancelled,Bank Transfer,2026-02-04
-574,24,2025-10-30,Edinburgh,Processing,Bank Transfer,2025-12-08
-575,75,2026-06-02,Manchester,Delivered,PayPal,2026-06-18
-576,25,2026-03-20,Edinburgh,Cancelled,Card,2026-07-26
-577,44,2025-11-20,Edinburgh,Cancelled,Card,2026-03-30
-578,64,2025-07-08,London,Returned,PayPal,2026-01-22
-579,36,2026-05-11,Edinburgh,Cancelled,Card,2026-05-25
-580,78,2026-04-04,London,Delivered,Card,2026-07-24
-581,56,2025-10-08,London,Cancelled,Bank Transfer,2025-10-23
-582,42,2025-12-31,Edinburgh,Processing,Bank Transfer,2026-06-18
-583,99,2026-03-17,Manchester,Cancelled,Card,2026-03-29
-584,11,2026-04-28,Birmingham,Delivered,Bank Transfer,2026-05-27
-585,81,2025-10-10,Manchester,Processing,Card,2026-03-31
-586,34,2025-07-06,Edinburgh,Returned,Bank Transfer,2026-02-05
-587,50,2026-05-27,London,Processing,Card,2026-06-25
-588,58,2025-10-31,Birmingham,Returned,Bank Transfer,2026-05-31
-589,82,2025-10-04,Birmingham,Delivered,Bank Transfer,2026-06-16
-590,36,2025-08-12,Manchester,Returned,Bank Transfer,2025-09-08
-591,72,2026-02-14,Manchester,Returned,Card,2026-07-19
-592,22,2026-03-17,Manchester,Cancelled,PayPal,2026-05-04
-593,54,2025-12-30,Manchester,Processing,Card,2026-01-28
-594,71,2025-08-18,Birmingham,Cancelled,PayPal,2026-02-20
-595,73,2025-09-30,Edinburgh,Returned,Card,2026-02-28
-596,69,2025-07-25,Birmingham,Delivered,Card,2026-03-17
-597,29,2026-04-07,Edinburgh,Processing,Bank Transfer,2026-05-07
-598,43,2025-07-30,Edinburgh,Returned,Card,2026-01-26
-599,59,2025-12-30,Manchester,Returned,PayPal,2026-04-24
-600,97,2026-05-07,Edinburgh,Processing,Card,2026-06-05
-601,77,2025-10-01,London,Processing,PayPal,2026-03-23
-602,21,2026-02-27,Birmingham,Processing,Bank Transfer,2026-06-19
-603,14,2026-01-07,Manchester,Processing,Card,2026-03-11
-604,9,2025-07-04,London,Returned,Bank Transfer,2025-12-07
-605,67,2025-11-26,Edinburgh,Returned,Card,2026-01-09
-606,41,2025-11-25,Edinburgh,Cancelled,Bank Transfer,2026-05-20
-607,94,2025-07-09,Edinburgh,Processing,Bank Transfer,2025-08-17
-608,30,2026-03-21,Birmingham,Delivered,Bank Transfer,2026-04-20
-609,95,2025-11-28,Manchester,Cancelled,Card,2026-02-27
-610,19,2025-09-19,Birmingham,Returned,Card,2026-05-20
-611,2,2026-01-26,London,Delivered,PayPal,2026-02-04
-612,22,2025-10-27,London,Returned,Card,2026-02-04
-613,30,2026-05-04,Manchester,Cancelled,Bank Transfer,2026-05-12
-614,64,2025-07-18,Edinburgh,Cancelled,PayPal,2025-07-29
-615,61,2026-02-01,London,Cancelled,Card,2026-06-03
-616,40,2026-02-03,London,Cancelled,Card,2026-02-27
-617,64,2026-06-10,Birmingham,Delivered,Card,2026-06-30
-618,46,2025-12-20,London,Delivered,Card,2026-07-05
-619,86,2026-03-21,Edinburgh,Cancelled,Card,2026-07-18
-620,14,2025-07-16,London,Cancelled,PayPal,2026-01-19
-621,13,2025-07-17,Manchester,Returned,Card,2026-02-19
-622,45,2025-07-27,Edinburgh,Delivered,Card,2026-05-14
-623,78,2025-07-12,London,Processing,Bank Transfer,2026-02-28
-624,21,2026-02-08,London,Processing,Card,2026-04-26
-625,85,2025-10-28,Manchester,Returned,Card,2026-01-02
-626,44,2026-03-20,London,Returned,PayPal,2026-04-23
-627,20,2026-02-08,Birmingham,Cancelled,PayPal,2026-02-12
-628,66,2025-08-27,Edinburgh,Cancelled,Card,2025-10-27
-629,86,2026-05-11,London,Returned,Bank Transfer,2026-06-20
-630,41,2025-07-25,London,Returned,Card,2026-03-30
-631,5,2026-03-17,Manchester,Cancelled,Bank Transfer,2026-05-02
-632,69,2026-01-05,Birmingham,Cancelled,PayPal,2026-02-04
-633,28,2026-06-02,Birmingham,Returned,PayPal,2026-07-03
-634,26,2025-10-14,Manchester,Returned,Bank Transfer,2026-01-23
-635,49,2026-06-10,Edinburgh,Processing,Bank Transfer,2026-07-20
-636,15,2025-10-01,London,Returned,Bank Transfer,2025-12-26
-637,56,2026-03-04,Edinburgh,Processing,Card,2026-07-08
-638,92,2026-03-08,Birmingham,Processing,Bank Transfer,2026-03-17
-639,70,2025-10-15,Edinburgh,Processing,PayPal,2026-05-06
-640,14,2025-09-11,Manchester,Delivered,PayPal,2026-02-07
-641,71,2025-09-24,Edinburgh,Cancelled,Card,2026-04-29
-642,44,2025-07-04,Edinburgh,Delivered,PayPal,2026-02-09
-643,22,2025-08-28,Birmingham,Delivered,PayPal,2026-04-10
-644,73,2026-02-02,Manchester,Cancelled,Bank Transfer,2026-05-08
-645,56,2026-04-28,Edinburgh,Cancelled,PayPal,2026-06-20
-646,68,2025-11-12,Manchester,Returned,Bank Transfer,2025-12-17
-647,48,2026-01-06,Edinburgh,Cancelled,Card,2026-02-21
-648,45,2025-12-05,Edinburgh,Delivered,Card,2025-12-22
-649,5,2026-02-15,Manchester,Processing,PayPal,2026-03-28
-650,5,2026-01-13,Edinburgh,Processing,Bank Transfer,2026-07-19
-651,20,2026-01-14,Birmingham,Cancelled,Card,2026-04-23
-652,97,2025-08-07,Manchester,Returned,Bank Transfer,2026-01-29
-653,82,2025-07-25,Birmingham,Cancelled,PayPal,2025-11-21
-654,38,2026-05-04,Birmingham,Cancelled,Bank Transfer,2026-05-30
-655,45,2025-08-03,London,Processing,Card,2026-07-23
-656,100,2026-01-30,Edinburgh,Processing,PayPal,2026-07-25
-657,53,2025-07-23,Birmingham,Cancelled,PayPal,2025-11-27
-658,38,2026-01-20,Manchester,Delivered,Card,2026-02-14
-659,100,2026-03-23,Manchester,Processing,Card,2026-05-15
-660,78,2026-06-21,Manchester,Delivered,Card,2026-07-25
-661,76,2025-09-20,Edinburgh,Delivered,Card,2025-10-05
-662,91,2025-07-13,Edinburgh,Returned,PayPal,2025-11-01
-663,82,2026-02-02,London,Processing,Card,2026-05-26
-664,20,2025-10-26,London,Processing,Bank Transfer,2026-01-16
-665,71,2025-09-19,Manchester,Processing,PayPal,2026-07-21
-666,57,2026-01-27,Manchester,Processing,Card,2026-05-25
-667,19,2026-02-12,Edinburgh,Cancelled,PayPal,2026-07-16
-668,59,2026-02-22,Manchester,Returned,Card,2026-07-11
-669,26,2025-10-12,Manchester,Returned,PayPal,2025-12-30
-670,55,2025-12-16,London,Cancelled,PayPal,2026-01-09
-671,23,2025-08-14,Manchester,Delivered,Card,2026-02-04
-672,4,2026-03-26,London,Returned,Card,2026-04-08
-673,25,2025-08-01,Birmingham,Cancelled,Card,2026-06-29
-674,2,2025-09-18,London,Processing,Card,2026-01-04
-675,87,2025-07-25,Birmingham,Cancelled,Card,2026-05-17
-676,48,2026-01-13,Manchester,Returned,PayPal,2026-06-08
-677,94,2025-09-12,Birmingham,Processing,Card,2026-02-17
-678,75,2025-11-10,London,Cancelled,Bank Transfer,2026-01-02
-679,78,2025-12-01,Manchester,Delivered,Card,2025-12-22
-680,99,2025-10-08,Birmingham,Processing,PayPal,2025-10-18
-681,20,2025-10-24,Manchester,Cancelled,Card,2026-06-20
-682,76,2025-11-07,Manchester,Processing,Bank Transfer,2026-04-18
-683,83,2026-03-02,Manchester,Returned,PayPal,2026-03-05
-684,60,2025-09-20,Edinburgh,Delivered,PayPal,2026-03-08
-685,45,2026-01-30,Manchester,Cancelled,PayPal,2026-03-18
-686,93,2025-09-27,Birmingham,Delivered,Card,2026-04-22
-687,90,2025-09-05,London,Cancelled,Card,2025-11-04
-688,99,2025-12-06,Birmingham,Processing,Bank Transfer,2026-04-06
-689,8,2025-09-30,London,Returned,Bank Transfer,2026-07-24
-690,68,2025-07-04,Edinburgh,Processing,Bank Transfer,2025-12-16
-691,45,2026-05-20,London,Processing,Card,2026-07-11
-692,42,2025-07-06,Edinburgh,Processing,Bank Transfer,2025-08-26
-693,15,2025-07-10,Edinburgh,Processing,Bank Transfer,2026-06-09
-694,12,2026-02-25,Birmingham,Returned,Bank Transfer,2026-07-12
-695,34,2026-03-21,Birmingham,Returned,Bank Transfer,2026-07-25
-696,2,2026-02-09,London,Cancelled,PayPal,2026-07-22
-697,12,2026-05-23,Edinburgh,Processing,Bank Transfer,2026-06-15
-698,60,2025-09-20,Manchester,Processing,Card,2026-05-13
-699,47,2025-08-18,Edinburgh,Delivered,PayPal,2025-08-24
-700,58,2025-09-02,Manchester,Returned,Card,2026-01-26
-701,8,2026-01-11,Edinburgh,Returned,Bank Transfer,2026-06-21
-702,11,2025-10-19,London,Processing,PayPal,2026-03-05
-703,96,2026-01-06,Manchester,Returned,PayPal,2026-05-20
-704,74,2026-04-13,Manchester,Delivered,Card,2026-05-22
-705,92,2026-03-23,London,Delivered,Bank Transfer,2026-07-13
-706,60,2026-06-07,Edinburgh,Delivered,PayPal,2026-07-25
-707,5,2026-02-25,Manchester,Processing,Card,2026-03-10
-708,46,2026-05-31,Birmingham,Returned,PayPal,2026-06-17
-709,29,2025-09-11,Manchester,Processing,PayPal,2025-12-22
-710,10,2025-10-13,London,Processing,Bank Transfer,2026-03-13
-711,82,2025-07-26,Birmingham,Returned,Bank Transfer,2026-01-21
-712,50,2026-01-13,Manchester,Processing,Bank Transfer,2026-05-11
-713,51,2026-05-30,London,Cancelled,Bank Transfer,2026-06-06
-714,79,2025-07-10,Birmingham,Processing,Bank Transfer,2026-04-22
-715,54,2026-06-11,Birmingham,Delivered,Card,2026-06-25
-716,69,2025-11-06,Edinburgh,Returned,PayPal,2026-07-06
-717,19,2026-03-06,Edinburgh,Processing,Card,2026-04-20
-718,60,2025-09-22,Manchester,Cancelled,Card,2026-05-31
-719,47,2026-01-31,London,Returned,Bank Transfer,2026-07-11
-720,68,2025-09-13,Birmingham,Processing,Bank Transfer,2026-02-20
-721,41,2026-06-04,London,Returned,PayPal,2026-07-10
-722,31,2026-04-09,London,Delivered,Card,2026-06-06
-723,50,2026-05-22,Birmingham,Returned,Bank Transfer,2026-07-05
-724,20,2026-03-29,Birmingham,Delivered,PayPal,2026-06-18
-725,25,2026-04-14,Manchester,Cancelled,Card,2026-05-21
-726,31,2025-11-02,Manchester,Returned,PayPal,2026-06-12
-727,39,2026-06-29,London,Processing,Card,2026-07-15
-728,46,2026-01-19,Edinburgh,Cancelled,PayPal,2026-02-13
-729,57,2026-04-29,Manchester,Processing,Card,2026-07-04
-730,92,2025-10-26,Birmingham,Cancelled,Card,2025-11-30
-731,12,2026-03-13,London,Returned,Card,2026-04-21
-732,31,2026-06-15,Manchester,Cancelled,Card,2026-06-17
-733,64,2025-09-04,Manchester,Delivered,Bank Transfer,2026-04-04
-734,85,2025-07-10,Birmingham,Delivered,PayPal,2026-01-03
-735,88,2025-08-07,Manchester,Returned,Bank Transfer,2026-03-17
-736,47,2026-06-04,Manchester,Delivered,Card,2026-07-04
-737,37,2025-09-24,Edinburgh,Processing,PayPal,2026-06-08
-738,55,2026-01-19,Manchester,Processing,PayPal,2026-02-24
-739,73,2026-06-17,Manchester,Delivered,PayPal,2026-06-30
-740,80,2026-04-03,Birmingham,Processing,PayPal,2026-04-08
-741,44,2025-09-04,London,Delivered,PayPal,2026-05-19
-742,62,2025-10-18,Birmingham,Processing,PayPal,2026-01-16
-743,62,2026-04-13,Manchester,Cancelled,Bank Transfer,2026-06-28
-744,2,2026-02-27,Edinburgh,Processing,Bank Transfer,2026-03-14
-745,28,2026-05-20,Edinburgh,Cancelled,PayPal,2026-06-23
-746,86,2025-12-01,London,Returned,Card,2026-03-19
-747,39,2025-10-21,Birmingham,Delivered,Bank Transfer,2026-05-05
-748,70,2026-01-17,Manchester,Delivered,Bank Transfer,2026-06-10
-749,56,2025-11-17,Manchester,Cancelled,Bank Transfer,2026-07-04
-750,37,2025-07-28,Birmingham,Delivered,Card,2026-07-16
-751,81,2026-06-19,London,Delivered,PayPal,2026-07-08
-752,57,2026-06-20,London,Returned,Bank Transfer,2026-07-18
-753,33,2025-08-01,Birmingham,Returned,PayPal,2026-02-18
-754,77,2026-06-27,Manchester,Processing,PayPal,2026-07-22
-755,1,2025-12-09,Edinburgh,Processing,Bank Transfer,2026-02-01
-756,19,2025-11-20,London,Delivered,Card,2026-03-15
-757,55,2025-09-25,Manchester,Returned,Card,2026-02-06
-758,26,2025-08-13,Manchester,Returned,PayPal,2026-01-20
-759,53,2025-11-21,London,Cancelled,PayPal,2026-01-19
-760,37,2026-01-25,London,Returned,PayPal,2026-04-12
-761,88,2026-01-08,Birmingham,Delivered,PayPal,2026-04-15
-762,59,2026-06-09,Manchester,Returned,Card,2026-06-24
-763,39,2026-05-13,Edinburgh,Processing,PayPal,2026-07-05
-764,35,2025-09-15,Edinburgh,Delivered,Bank Transfer,2026-04-16
-765,38,2026-05-25,Edinburgh,Processing,Card,2026-06-08
-766,14,2025-08-20,Edinburgh,Cancelled,PayPal,2026-01-14
-767,77,2025-11-01,Manchester,Returned,Bank Transfer,2026-01-20
-768,33,2026-06-14,Manchester,Cancelled,Bank Transfer,2026-07-03
-769,36,2026-01-31,Birmingham,Returned,Bank Transfer,2026-06-11
-770,60,2025-07-12,Birmingham,Delivered,Card,2025-11-16
-771,60,2025-07-31,Edinburgh,Cancelled,Bank Transfer,2026-04-22
-772,31,2026-06-29,Birmingham,Returned,Bank Transfer,2026-07-17
-773,5,2026-03-30,Birmingham,Delivered,Bank Transfer,2026-07-25
-774,18,2026-06-29,Birmingham,Delivered,Bank Transfer,2026-07-28
-775,38,2025-09-30,Birmingham,Returned,PayPal,2025-10-05
-776,4,2026-06-10,Birmingham,Returned,PayPal,2026-07-02
-777,54,2026-05-15,Manchester,Returned,Card,2026-05-21
-778,11,2025-11-24,London,Processing,PayPal,2026-01-13
-779,3,2025-08-07,London,Delivered,Card,2025-08-21
-780,22,2025-10-03,Manchester,Cancelled,PayPal,2026-07-14
-781,42,2026-04-26,Manchester,Delivered,Card,2026-07-27
-782,46,2025-10-11,London,Delivered,PayPal,2026-04-03
-783,82,2025-10-06,London,Processing,Bank Transfer,2026-01-29
-784,27,2026-01-22,Birmingham,Cancelled,PayPal,2026-03-26
-785,64,2025-09-30,Birmingham,Delivered,PayPal,2026-07-22
-786,25,2026-02-07,London,Processing,Card,2026-03-22
-787,74,2025-08-01,Edinburgh,Processing,PayPal,2025-11-21
-788,11,2026-05-06,London,Cancelled,PayPal,2026-07-02
-789,81,2026-01-25,Birmingham,Delivered,PayPal,2026-02-11
-790,54,2025-12-13,Manchester,Delivered,Bank Transfer,2026-07-25
-791,11,2026-03-02,Manchester,Returned,Bank Transfer,2026-03-27
-792,22,2026-06-01,Manchester,Cancelled,PayPal,2026-06-25
-793,93,2026-04-13,Edinburgh,Delivered,Bank Transfer,2026-05-30
-794,73,2025-11-29,Birmingham,Delivered,Card,2026-01-06
-795,100,2026-03-14,Birmingham,Returned,Card,2026-06-16
-796,10,2025-11-21,Edinburgh,Processing,Card,2026-03-14
-797,2,2026-02-05,Birmingham,Processing,Bank Transfer,2026-07-28
-798,35,2026-03-20,Manchester,Delivered,Card,2026-06-30
-799,98,2025-09-23,Edinburgh,Delivered,Card,2026-01-21
-800,13,2025-07-20,Manchester,Returned,PayPal,2026-06-29
-801,28,2025-11-23,Birmingham,Returned,Bank Transfer,2026-01-08
-802,13,2026-02-04,London,Cancelled,Card,2026-07-28
-803,84,2026-06-12,Birmingham,Delivered,PayPal,2026-06-14
-804,46,2026-01-01,Manchester,Delivered,Bank Transfer,2026-07-22
-805,92,2025-09-04,Edinburgh,Processing,PayPal,2026-01-13
-806,57,2026-05-19,Edinburgh,Delivered,Card,2026-06-06
-807,67,2026-04-21,Birmingham,Delivered,Bank Transfer,2026-06-18
-808,60,2025-09-12,Edinburgh,Delivered,Card,2026-07-28
-809,75,2026-05-17,Birmingham,Returned,Card,2026-06-13
-810,18,2026-03-29,London,Returned,Card,2026-06-02
-811,64,2026-05-16,Manchester,Returned,PayPal,2026-06-01
-812,47,2025-10-25,Edinburgh,Processing,Bank Transfer,2026-04-11
-813,42,2025-12-01,Edinburgh,Returned,PayPal,2026-05-21
-814,83,2026-06-06,Edinburgh,Cancelled,Bank Transfer,2026-07-16
-815,10,2025-12-25,London,Processing,PayPal,2026-05-01
-816,13,2026-02-07,Birmingham,Processing,Bank Transfer,2026-05-12
-817,25,2025-12-01,Edinburgh,Cancelled,PayPal,2026-05-17
-818,80,2025-11-26,Manchester,Cancelled,Card,2026-03-04
-819,42,2025-10-15,Manchester,Delivered,Card,2025-11-21
-820,39,2025-11-21,Manchester,Returned,PayPal,2026-06-12
-821,55,2025-07-19,London,Cancelled,Bank Transfer,2026-02-09
-822,73,2026-06-01,Birmingham,Delivered,Bank Transfer,2026-07-07
-823,17,2025-11-26,Birmingham,Processing,Bank Transfer,2026-06-08
-824,31,2025-10-02,Manchester,Returned,PayPal,2026-06-30
-825,56,2026-05-16,Birmingham,Processing,Card,2026-07-09
-826,57,2025-10-20,Edinburgh,Delivered,PayPal,2026-02-16
-827,97,2026-02-18,Manchester,Processing,Card,2026-03-17
-828,38,2025-09-28,Edinburgh,Cancelled,PayPal,2026-03-17
-829,32,2025-07-31,Edinburgh,Cancelled,PayPal,2026-01-25
-830,83,2025-09-19,Edinburgh,Cancelled,Bank Transfer,2026-04-07
-831,62,2025-10-28,London,Delivered,Card,2026-02-12
-832,33,2026-03-08,Birmingham,Processing,PayPal,2026-07-21
-833,38,2026-01-03,Edinburgh,Cancelled,Bank Transfer,2026-05-22
-834,1,2026-02-21,Edinburgh,Cancelled,Card,2026-04-21
-835,53,2025-08-15,Edinburgh,Cancelled,PayPal,2026-03-07
-836,50,2026-04-25,Birmingham,Delivered,Bank Transfer,2026-06-29
-837,58,2026-01-25,Birmingham,Returned,Card,2026-07-08
-838,90,2026-03-09,Birmingham,Processing,PayPal,2026-06-16
-839,48,2026-05-09,Birmingham,Processing,Bank Transfer,2026-07-28
-840,89,2025-10-20,Manchester,Returned,PayPal,2025-12-12
-841,75,2025-10-09,Edinburgh,Returned,Card,2026-07-06
-842,66,2025-09-30,London,Cancelled,Card,2025-10-23
-843,64,2025-12-03,Birmingham,Returned,Card,2026-03-25
-844,37,2026-06-24,London,Cancelled,Bank Transfer,2026-07-15
-845,83,2026-04-13,London,Delivered,Bank Transfer,2026-07-17
-846,81,2026-02-11,Manchester,Cancelled,Card,2026-05-12
-847,38,2026-05-28,Birmingham,Cancelled,Card,2026-07-04
-848,65,2026-04-07,Birmingham,Cancelled,Bank Transfer,2026-07-21
-849,24,2025-12-17,Manchester,Processing,Bank Transfer,2026-07-03
-850,95,2025-09-18,Manchester,Returned,Bank Transfer,2026-02-11
-851,84,2025-09-08,Edinburgh,Cancelled,Bank Transfer,2025-11-30
-852,78,2025-12-27,Manchester,Delivered,Card,2026-03-14
-853,15,2025-11-01,Birmingham,Processing,PayPal,2025-11-18
-854,52,2026-01-17,Manchester,Processing,Card,2026-03-29
-855,97,2026-06-14,Manchester,Returned,Bank Transfer,2026-07-28
-856,36,2026-06-02,London,Returned,Card,2026-06-18
-857,48,2026-03-19,Manchester,Cancelled,Card,2026-04-22
-858,21,2026-04-06,Edinburgh,Processing,Card,2026-06-07
-859,99,2026-05-12,Birmingham,Returned,Card,2026-06-02
-860,68,2026-01-30,London,Delivered,Bank Transfer,2026-02-25
-861,22,2025-11-27,London,Cancelled,Card,2026-06-30
-862,49,2025-10-16,Edinburgh,Cancelled,PayPal,2025-11-21
-863,72,2026-02-17,Edinburgh,Processing,Card,2026-05-12
-864,78,2026-04-17,London,Processing,PayPal,2026-07-10
-865,80,2026-01-06,Manchester,Processing,PayPal,2026-02-28
-866,31,2026-05-01,Manchester,Processing,Card,2026-05-05
-867,80,2026-05-04,London,Cancelled,Bank Transfer,2026-05-31
-868,83,2025-07-07,Manchester,Cancelled,Bank Transfer,2025-10-19
-869,6,2025-10-29,Edinburgh,Delivered,PayPal,2026-04-26
-870,7,2026-06-06,London,Processing,Bank Transfer,2026-06-10
-871,40,2025-10-20,London,Returned,Card,2026-04-17
-872,89,2026-02-11,Manchester,Cancelled,Card,2026-07-07
-873,44,2025-12-17,Birmingham,Delivered,Card,2026-05-28
-874,1,2025-08-20,Edinburgh,Delivered,Bank Transfer,2026-06-04
-875,19,2025-09-20,Manchester,Cancelled,PayPal,2025-10-05
-876,12,2026-01-06,Edinburgh,Processing,Card,2026-04-10
-877,12,2025-07-07,London,Processing,Card,2025-12-26
-878,93,2026-05-14,Manchester,Cancelled,Bank Transfer,2026-07-05
-879,8,2026-03-05,Manchester,Cancelled,Bank Transfer,2026-05-06
-880,32,2025-07-17,Manchester,Returned,PayPal,2026-04-29
-881,76,2026-04-17,Manchester,Processing,PayPal,2026-07-24
-882,85,2025-12-24,Manchester,Returned,PayPal,2026-04-03
-883,7,2025-12-15,London,Returned,Card,2026-05-08
-884,8,2025-06-30,Edinburgh,Processing,Card,2026-05-05
-885,91,2025-07-06,Birmingham,Processing,PayPal,2026-04-16
-886,96,2026-05-11,Birmingham,Delivered,Bank Transfer,2026-07-26
-887,32,2026-03-16,Manchester,Cancelled,PayPal,2026-06-02
-888,3,2026-05-03,Birmingham,Delivered,Bank Transfer,2026-05-10
-889,70,2025-12-03,Edinburgh,Processing,Bank Transfer,2026-01-06
-890,42,2026-03-25,Manchester,Processing,Card,2026-07-29
-891,57,2026-01-10,Manchester,Returned,PayPal,2026-02-25
-892,44,2025-11-01,Manchester,Processing,PayPal,2026-01-05
-893,21,2026-05-02,Edinburgh,Returned,Bank Transfer,2026-07-01
-894,88,2025-10-06,Manchester,Returned,Bank Transfer,2026-06-05
-895,31,2025-10-18,Edinburgh,Returned,Card,2026-01-01
-896,35,2025-07-29,Manchester,Processing,Card,2025-10-11
-897,29,2025-09-09,Manchester,Cancelled,PayPal,2026-01-15
-898,35,2026-02-09,Manchester,Cancelled,Card,2026-05-09
-899,81,2026-02-13,Birmingham,Delivered,Bank Transfer,2026-03-06
-900,66,2025-12-23,Manchester,Cancelled,Card,2026-02-08
-901,61,2026-04-24,Birmingham,Cancelled,Card,2026-07-07
-902,10,2025-11-20,Birmingham,Processing,Bank Transfer,2025-12-03
-903,39,2026-04-17,Manchester,Processing,PayPal,2026-05-17
-904,54,2025-12-03,London,Returned,PayPal,2026-02-25
-905,91,2025-10-16,Birmingham,Cancelled,PayPal,2026-07-02
-906,2,2026-04-01,Birmingham,Returned,PayPal,2026-06-25
-907,24,2025-11-16,Edinburgh,Delivered,Bank Transfer,2026-01-24
-908,95,2025-11-20,London,Cancelled,Card,2026-07-12
-909,8,2026-02-28,London,Delivered,PayPal,2026-07-03
-910,63,2026-05-28,Manchester,Returned,Bank Transfer,2026-07-27
-911,37,2025-08-02,London,Cancelled,Bank Transfer,2025-12-20
-912,2,2025-12-21,Birmingham,Processing,Bank Transfer,2026-04-10
-913,9,2026-05-09,Birmingham,Cancelled,Bank Transfer,2026-06-16
-914,27,2026-04-07,London,Returned,Bank Transfer,2026-07-04
-915,1,2025-08-14,Edinburgh,Delivered,Bank Transfer,2025-10-28
-916,44,2025-12-18,London,Cancelled,Bank Transfer,2026-06-16
-917,37,2026-06-19,Birmingham,Delivered,PayPal,2026-07-02
-918,58,2025-09-17,Birmingham,Processing,Card,2025-11-03
-919,30,2025-10-23,Birmingham,Cancelled,Card,2026-01-07
-920,55,2026-01-14,Manchester,Processing,Bank Transfer,2026-07-21
-921,58,2025-09-23,Birmingham,Delivered,Card,2026-06-08
-922,50,2025-11-06,London,Returned,Card,2026-02-01
-923,31,2026-04-30,London,Cancelled,Bank Transfer,2026-07-02
-924,80,2026-05-23,London,Delivered,Card,2026-07-10
-925,27,2025-12-03,Edinburgh,Delivered,Bank Transfer,2026-07-15
-926,59,2025-10-25,London,Cancelled,PayPal,2026-05-30
-927,90,2025-12-11,Manchester,Processing,PayPal,2026-01-04
-928,31,2026-06-10,Birmingham,Delivered,Bank Transfer,2026-06-29
-929,5,2026-01-14,Manchester,Processing,PayPal,2026-06-03
-930,24,2026-02-23,Birmingham,Cancelled,Bank Transfer,2026-02-25
-931,57,2026-01-30,Manchester,Cancelled,PayPal,2026-04-04
-932,93,2026-01-03,Edinburgh,Returned,PayPal,2026-05-27
-933,66,2025-11-09,Edinburgh,Delivered,Bank Transfer,2025-12-02
-934,6,2025-12-21,Edinburgh,Delivered,Bank Transfer,2026-05-27
-935,65,2025-07-24,Edinburgh,Processing,PayPal,2026-03-03
-936,4,2025-07-03,Edinburgh,Processing,Card,2026-06-15
-937,38,2025-11-20,London,Cancelled,Card,2026-06-16
-938,10,2025-11-02,Birmingham,Delivered,PayPal,2026-01-03
-939,66,2025-09-26,London,Delivered,Card,2025-12-24
-940,42,2026-06-25,London,Returned,Card,2026-07-21
-941,16,2026-04-04,Birmingham,Delivered,Bank Transfer,2026-07-10
-942,18,2025-10-13,Manchester,Cancelled,Card,2026-02-17
-943,92,2026-02-23,Edinburgh,Processing,Bank Transfer,2026-04-21
-944,35,2025-07-03,Birmingham,Returned,Bank Transfer,2025-08-09
-945,25,2026-01-04,Edinburgh,Returned,PayPal,2026-01-11
-946,92,2025-07-20,Edinburgh,Delivered,Card,2026-01-02
-947,34,2026-01-16,Edinburgh,Processing,Bank Transfer,2026-06-09
-948,55,2026-06-14,Birmingham,Processing,PayPal,2026-06-21
-949,88,2025-08-26,Edinburgh,Delivered,Bank Transfer,2025-10-28
-950,73,2026-05-22,Edinburgh,Processing,Bank Transfer,2026-07-08
-951,30,2025-07-31,London,Cancelled,PayPal,2026-04-25
-952,82,2026-02-18,Edinburgh,Processing,Bank Transfer,2026-03-05
-953,51,2026-01-27,Manchester,Delivered,PayPal,2026-05-06
-954,52,2026-06-23,Birmingham,Delivered,PayPal,2026-07-07
-955,83,2026-05-14,Birmingham,Returned,Bank Transfer,2026-07-03
-956,28,2026-03-11,Birmingham,Returned,PayPal,2026-05-22
-957,67,2026-02-04,Edinburgh,Returned,Bank Transfer,2026-02-22
-958,44,2026-05-07,London,Cancelled,Bank Transfer,2026-06-05
-959,91,2026-05-05,Birmingham,Cancelled,PayPal,2026-05-19
-960,91,2025-10-03,Birmingham,Cancelled,Bank Transfer,2026-05-30
-961,94,2025-12-02,Edinburgh,Returned,Bank Transfer,2025-12-30
-962,46,2025-08-27,Edinburgh,Returned,Card,2026-04-10
-963,84,2026-05-13,Edinburgh,Processing,Card,2026-07-24
-964,26,2025-09-15,Manchester,Processing,Bank Transfer,2025-11-02
-965,67,2026-02-07,Birmingham,Processing,Card,2026-02-21
-966,53,2025-09-15,Edinburgh,Delivered,Card,2025-11-18
-967,50,2025-08-02,Birmingham,Returned,PayPal,2025-08-21
-968,28,2025-12-30,Edinburgh,Returned,Bank Transfer,2026-01-14
-969,92,2025-08-26,London,Returned,PayPal,2026-06-13
-970,23,2026-02-05,London,Processing,PayPal,2026-05-28
-971,27,2025-07-25,Manchester,Delivered,PayPal,2025-10-14
-972,70,2026-05-20,Birmingham,Delivered,PayPal,2026-07-11
-973,19,2025-10-09,Manchester,Cancelled,Bank Transfer,2026-05-02
-974,95,2025-07-10,Edinburgh,Processing,Card,2025-07-29
-975,74,2025-09-19,Edinburgh,Cancelled,PayPal,2026-05-15
-976,83,2025-09-08,Manchester,Delivered,PayPal,2026-06-09
-977,50,2026-04-30,Manchester,Delivered,PayPal,2026-06-27
-978,87,2025-09-07,Edinburgh,Delivered,Card,2026-06-03
-979,26,2026-04-04,Manchester,Delivered,Card,2026-05-29
-980,25,2025-12-13,Birmingham,Returned,PayPal,2026-03-21
-981,1,2025-09-05,London,Delivered,Card,2026-03-12
-982,73,2026-01-16,London,Delivered,Bank Transfer,2026-07-05
-983,27,2025-08-25,London,Delivered,Bank Transfer,2025-12-11
-984,45,2025-08-18,Manchester,Returned,PayPal,2026-07-27
-985,25,2025-12-12,Edinburgh,Processing,Bank Transfer,2026-05-25
-986,41,2026-01-13,London,Cancelled,PayPal,2026-02-12
-987,30,2026-02-17,Edinburgh,Processing,Card,2026-07-01
-988,65,2025-11-23,Birmingham,Processing,PayPal,2026-07-29
-989,96,2026-03-03,Edinburgh,Returned,Bank Transfer,2026-05-13
-990,96,2026-03-23,London,Returned,Card,2026-05-20
-991,58,2026-01-28,London,Delivered,Card,2026-06-21
-992,59,2026-03-28,Edinburgh,Returned,Card,2026-07-24
-993,68,2025-08-11,Edinburgh,Delivered,Bank Transfer,2026-01-18
-994,61,2025-09-11,London,Processing,PayPal,2026-06-25
-995,48,2025-08-24,Manchester,Delivered,Card,2025-11-25
-996,12,2026-05-03,Manchester,Returned,Card,2026-06-07
-997,85,2025-08-25,Manchester,Returned,Card,2025-10-13
-998,38,2025-10-12,Manchester,Returned,Bank Transfer,2026-06-01
-999,16,2025-09-04,Birmingham,Delivered,Card,2026-07-24
-1000,94,2026-02-24,Birmingham,Cancelled,PayPal,2026-03-30
+1,866,2026-04-12,Manchester,Returned,Card,2026-06-02
+2,915,2026-03-20,Edinburgh,Delivered,PayPal,2026-05-27
+3,350,2025-07-24,London,Cancelled,PayPal,2025-10-31
+4,909,2025-08-14,Edinburgh,Returned,Card,2026-02-18
+5,770,2025-11-03,Edinburgh,Processing,PayPal,2026-01-10
+6,762,2026-01-18,Edinburgh,Processing,Card,2026-02-14
+7,167,2026-05-29,Manchester,Processing,Bank Transfer,2026-06-16
+8,918,2025-08-31,Manchester,Processing,Bank Transfer,2025-11-18
+9,695,2026-04-16,Edinburgh,Delivered,Bank Transfer,2026-05-22
+10,403,2026-04-09,Edinburgh,Delivered,Bank Transfer,2026-06-12
+11,569,2025-07-25,Manchester,Processing,PayPal,2026-03-27
+12,975,2026-04-12,Manchester,Cancelled,PayPal,2026-06-16
+13,922,2025-11-22,Edinburgh,Delivered,Bank Transfer,2025-11-22
+14,123,2025-11-24,London,Processing,PayPal,2026-05-17
+15,414,2026-04-03,Manchester,Returned,Bank Transfer,2026-06-09
+16,753,2025-10-01,London,Returned,Bank Transfer,2026-07-21
+17,162,2025-10-12,Manchester,Delivered,Card,2026-07-25
+18,968,2025-09-27,London,Processing,Card,2025-11-06
+19,186,2026-06-05,Manchester,Delivered,Card,2026-06-17
+20,69,2025-07-27,Birmingham,Returned,Card,2025-08-20
+21,357,2026-01-15,Manchester,Cancelled,Card,2026-05-31
+22,800,2025-10-01,London,Processing,PayPal,2025-11-22
+23,177,2025-12-26,Edinburgh,Returned,PayPal,2026-01-19
+24,803,2026-05-18,Manchester,Processing,Bank Transfer,2026-06-04
+25,244,2026-03-11,Manchester,Cancelled,PayPal,2026-03-30
+26,196,2025-10-21,London,Processing,Card,2026-07-03
+27,313,2025-11-05,Manchester,Returned,PayPal,2026-05-28
+28,6,2025-12-13,Edinburgh,Delivered,Card,2026-07-15
+29,483,2026-05-30,Manchester,Cancelled,Bank Transfer,2026-07-29
+30,689,2026-01-10,London,Cancelled,Card,2026-04-09
+31,981,2026-06-24,Manchester,Delivered,PayPal,2026-07-29
+32,143,2026-05-13,London,Returned,Card,2026-05-23
+33,596,2025-10-17,London,Processing,PayPal,2026-04-30
+34,692,2025-10-26,Birmingham,Delivered,PayPal,2026-03-10
+35,782,2025-07-17,London,Returned,Bank Transfer,2025-11-07
+36,140,2026-05-11,Edinburgh,Processing,Card,2026-06-21
+37,312,2026-04-14,Manchester,Returned,Bank Transfer,2026-06-06
+38,721,2025-11-30,Birmingham,Processing,Card,2026-03-13
+39,954,2026-02-25,Birmingham,Delivered,Card,2026-07-18
+40,989,2025-09-23,Edinburgh,Delivered,Card,2026-02-04
+41,378,2026-03-30,Edinburgh,Cancelled,Bank Transfer,2026-07-22
+42,618,2026-05-17,Manchester,Cancelled,Card,2026-05-17
+43,496,2026-03-21,Birmingham,Processing,Bank Transfer,2026-04-26
+44,423,2026-04-20,Manchester,Delivered,Card,2026-07-09
+45,310,2026-01-15,Manchester,Cancelled,Card,2026-06-21
+46,595,2026-04-20,Manchester,Cancelled,PayPal,2026-06-11
+47,971,2026-01-09,Edinburgh,Cancelled,Bank Transfer,2026-02-24
+48,665,2025-12-16,Edinburgh,Cancelled,Card,2026-05-07
+49,370,2025-08-06,Birmingham,Delivered,PayPal,2026-07-10
+50,416,2026-01-05,Edinburgh,Delivered,PayPal,2026-06-14
+51,673,2025-11-01,Birmingham,Returned,Bank Transfer,2025-12-05
+52,830,2026-01-08,Edinburgh,Processing,Bank Transfer,2026-05-25
+53,168,2025-07-26,London,Returned,Card,2026-07-08
+54,940,2026-06-26,Edinburgh,Processing,Card,2026-07-15
+55,858,2026-01-18,Birmingham,Returned,Card,2026-07-05
+56,615,2025-08-30,Edinburgh,Processing,PayPal,2026-03-08
+57,133,2026-05-20,Edinburgh,Processing,Card,2026-05-30
+58,619,2026-06-10,Manchester,Returned,PayPal,2026-07-04
+59,167,2026-06-24,London,Processing,PayPal,2026-07-06
+60,914,2026-02-03,London,Returned,Bank Transfer,2026-04-09
+61,654,2026-06-15,Manchester,Processing,Bank Transfer,2026-07-20
+62,208,2025-09-05,Manchester,Delivered,Bank Transfer,2026-02-17
+63,187,2025-11-29,Manchester,Processing,PayPal,2026-06-08
+64,69,2026-03-11,Manchester,Delivered,PayPal,2026-07-20
+65,586,2025-10-03,Manchester,Delivered,Card,2026-05-29
+66,118,2026-01-27,Birmingham,Processing,PayPal,2026-02-27
+67,329,2025-09-19,Edinburgh,Processing,PayPal,2025-12-02
+68,631,2026-04-12,Birmingham,Processing,Bank Transfer,2026-06-13
+69,92,2025-08-29,London,Delivered,PayPal,2026-03-08
+70,408,2025-08-12,Edinburgh,Cancelled,Card,2026-04-18
+71,669,2025-11-20,London,Delivered,Card,2026-04-29
+72,629,2026-04-04,Edinburgh,Returned,PayPal,2026-05-25
+73,464,2026-06-26,Manchester,Processing,Card,2026-07-18
+74,15,2025-07-16,Manchester,Processing,Card,2026-02-04
+75,198,2026-01-16,Edinburgh,Delivered,Bank Transfer,2026-03-25
+76,346,2025-09-19,Manchester,Processing,Card,2026-01-16
+77,652,2026-02-13,Manchester,Delivered,PayPal,2026-04-10
+78,196,2025-10-17,London,Processing,Card,2026-07-11
+79,624,2025-10-01,Birmingham,Delivered,PayPal,2026-03-22
+80,376,2025-08-02,Birmingham,Delivered,Card,2026-04-23
+81,973,2025-09-27,Manchester,Cancelled,Card,2025-11-10
+82,580,2025-11-04,Birmingham,Returned,Bank Transfer,2026-05-05
+83,382,2026-06-05,Birmingham,Delivered,Bank Transfer,2026-06-19
+84,291,2025-08-26,Edinburgh,Returned,Bank Transfer,2026-03-15
+85,931,2025-10-10,Manchester,Delivered,Bank Transfer,2026-03-11
+86,434,2026-06-22,Birmingham,Delivered,PayPal,2026-06-24
+87,276,2025-09-04,Birmingham,Processing,PayPal,2025-11-20
+88,290,2026-05-05,Birmingham,Delivered,Bank Transfer,2026-06-18
+89,941,2025-10-13,Edinburgh,Processing,Card,2025-11-11
+90,133,2026-04-21,Manchester,Delivered,PayPal,2026-05-08
+91,779,2025-09-08,Birmingham,Cancelled,Bank Transfer,2026-06-05
+92,362,2025-08-17,Manchester,Processing,Card,2026-04-19
+93,451,2026-02-26,Manchester,Returned,PayPal,2026-05-12
+94,853,2025-08-30,Edinburgh,Cancelled,PayPal,2026-03-17
+95,101,2025-12-16,Manchester,Delivered,Bank Transfer,2026-02-03
+96,722,2026-06-17,Edinburgh,Returned,Card,2026-06-19
+97,440,2026-01-15,Edinburgh,Processing,Card,2026-07-25
+98,15,2026-05-07,London,Processing,Card,2026-05-16
+99,24,2026-01-08,Birmingham,Processing,Card,2026-02-03
+100,630,2026-01-06,Manchester,Cancelled,Card,2026-03-23
+101,71,2026-04-02,Edinburgh,Returned,PayPal,2026-04-02
+102,475,2025-12-24,Birmingham,Returned,Card,2026-07-26
+103,976,2026-01-03,Manchester,Returned,Card,2026-07-28
+104,295,2025-10-18,Manchester,Delivered,Bank Transfer,2026-04-25
+105,827,2025-08-21,London,Returned,Card,2025-12-10
+106,339,2025-12-14,Manchester,Cancelled,Card,2026-06-07
+107,476,2025-12-13,Edinburgh,Returned,PayPal,2026-03-07
+108,367,2025-08-07,Manchester,Delivered,Bank Transfer,2025-11-17
+109,651,2025-07-12,Manchester,Processing,PayPal,2025-12-07
+110,588,2026-05-10,Manchester,Processing,Bank Transfer,2026-07-21
+111,215,2025-11-01,Edinburgh,Delivered,Bank Transfer,2025-12-14
+112,147,2026-04-09,Birmingham,Cancelled,PayPal,2026-07-08
+113,668,2025-11-08,London,Delivered,Card,2026-03-18
+114,581,2026-06-22,Birmingham,Delivered,Bank Transfer,2026-07-20
+115,307,2026-05-07,London,Cancelled,Card,2026-06-06
+116,670,2025-08-07,Edinburgh,Cancelled,Bank Transfer,2026-01-22
+117,36,2025-07-16,Birmingham,Processing,Card,2025-08-22
+118,315,2026-06-16,London,Returned,Card,2026-06-18
+119,968,2025-12-08,Birmingham,Delivered,PayPal,2026-06-29
+120,241,2026-02-04,Edinburgh,Cancelled,PayPal,2026-07-12
+121,149,2025-10-02,London,Delivered,Card,2025-12-13
+122,62,2026-04-24,London,Returned,Card,2026-07-26
+123,859,2025-09-21,London,Returned,Card,2025-09-25
+124,738,2026-03-30,London,Processing,Card,2026-05-19
+125,88,2025-11-21,Birmingham,Delivered,PayPal,2026-07-13
+126,493,2026-05-23,Edinburgh,Delivered,Card,2026-06-28
+127,191,2025-09-17,Edinburgh,Delivered,PayPal,2026-07-09
+128,925,2026-05-28,Birmingham,Returned,Card,2026-06-28
+129,677,2026-06-04,Birmingham,Cancelled,Bank Transfer,2026-06-18
+130,990,2026-03-26,Edinburgh,Delivered,Card,2026-04-22
+131,537,2025-10-07,Edinburgh,Delivered,PayPal,2026-07-20
+132,524,2025-08-12,Birmingham,Cancelled,Card,2026-07-16
+133,675,2026-01-29,Manchester,Delivered,Card,2026-06-27
+134,404,2026-02-16,Birmingham,Delivered,Bank Transfer,2026-03-16
+135,261,2025-07-06,Manchester,Cancelled,Bank Transfer,2026-06-02
+136,772,2025-11-16,Birmingham,Processing,PayPal,2026-05-29
+137,580,2025-12-15,Birmingham,Returned,Bank Transfer,2026-01-17
+138,798,2025-07-19,Edinburgh,Delivered,Card,2025-09-06
+139,554,2025-08-09,London,Processing,PayPal,2026-05-01
+140,115,2026-03-01,Manchester,Delivered,Card,2026-05-07
+141,331,2025-11-13,Manchester,Returned,Bank Transfer,2026-06-30
+142,208,2025-09-22,London,Returned,Card,2026-01-02
+143,184,2026-01-07,Manchester,Cancelled,PayPal,2026-01-07
+144,503,2025-12-07,Birmingham,Delivered,PayPal,2026-05-30
+145,588,2025-10-22,Manchester,Returned,Card,2026-04-19
+146,907,2026-01-09,Birmingham,Cancelled,PayPal,2026-04-30
+147,570,2026-02-24,London,Processing,Card,2026-06-19
+148,471,2026-01-03,Birmingham,Processing,Card,2026-05-13
+149,634,2026-01-01,London,Processing,PayPal,2026-01-02
+150,519,2025-08-18,Edinburgh,Delivered,Bank Transfer,2026-01-27
+151,793,2026-02-03,London,Returned,Bank Transfer,2026-06-04
+152,103,2026-06-19,Manchester,Cancelled,PayPal,2026-07-16
+153,853,2026-05-20,Manchester,Delivered,Bank Transfer,2026-06-26
+154,764,2025-08-23,Manchester,Returned,Card,2026-01-31
+155,13,2025-08-02,Manchester,Delivered,Bank Transfer,2025-10-12
+156,156,2025-10-19,London,Cancelled,Bank Transfer,2026-06-05
+157,59,2025-10-11,Manchester,Cancelled,Card,2025-11-21
+158,73,2025-12-23,Edinburgh,Delivered,PayPal,2026-07-27
+159,357,2025-08-23,London,Delivered,Card,2026-03-09
+160,32,2025-10-20,Edinburgh,Cancelled,PayPal,2026-06-02
+161,781,2025-08-23,Birmingham,Returned,PayPal,2026-02-17
+162,396,2026-01-14,Manchester,Returned,Bank Transfer,2026-06-15
+163,28,2025-08-05,London,Cancelled,Card,2025-08-09
+164,691,2025-08-04,Birmingham,Cancelled,Card,2026-01-28
+165,97,2026-01-19,Manchester,Cancelled,Card,2026-05-31
+166,473,2025-10-03,Manchester,Delivered,Bank Transfer,2025-11-10
+167,199,2025-09-14,Edinburgh,Processing,PayPal,2026-03-02
+168,367,2025-11-22,Manchester,Delivered,PayPal,2026-01-03
+169,96,2026-03-16,Edinburgh,Returned,Card,2026-07-11
+170,537,2026-01-14,London,Delivered,PayPal,2026-01-21
+171,8,2026-06-10,London,Returned,PayPal,2026-07-04
+172,807,2026-06-09,Edinburgh,Returned,Card,2026-07-13
+173,835,2026-03-14,Birmingham,Delivered,PayPal,2026-04-22
+174,285,2025-10-03,Manchester,Delivered,Card,2025-10-06
+175,328,2026-03-06,Edinburgh,Cancelled,Card,2026-07-25
+176,3,2026-02-09,London,Delivered,Card,2026-07-06
+177,826,2026-01-31,Edinburgh,Returned,Card,2026-05-25
+178,965,2026-04-08,Birmingham,Delivered,Bank Transfer,2026-05-01
+179,286,2026-04-20,London,Delivered,Card,2026-06-10
+180,281,2026-05-07,London,Returned,Card,2026-05-23
+181,869,2025-09-09,Edinburgh,Returned,Bank Transfer,2026-01-28
+182,380,2026-04-18,Manchester,Processing,Bank Transfer,2026-04-30
+183,109,2025-10-10,London,Processing,PayPal,2025-11-27
+184,455,2025-08-05,London,Processing,Bank Transfer,2025-08-08
+185,546,2025-08-18,Edinburgh,Cancelled,Bank Transfer,2026-04-10
+186,70,2025-12-31,Birmingham,Delivered,Card,2026-07-10
+187,870,2026-01-19,Birmingham,Processing,Card,2026-05-21
+188,119,2025-12-23,Birmingham,Processing,Card,2026-07-26
+189,730,2026-06-29,Manchester,Cancelled,Card,2026-07-19
+190,497,2026-05-28,Manchester,Processing,Card,2026-06-01
+191,491,2025-08-31,Edinburgh,Returned,PayPal,2025-10-01
+192,97,2025-08-13,Manchester,Processing,Card,2026-01-21
+193,536,2025-11-01,Birmingham,Delivered,PayPal,2025-11-10
+194,354,2025-08-20,Birmingham,Cancelled,PayPal,2025-09-03
+195,839,2026-05-24,London,Processing,Card,2026-05-30
+196,869,2025-08-13,Edinburgh,Delivered,PayPal,2026-04-28
+197,106,2025-07-03,Edinburgh,Delivered,PayPal,2026-06-20
+198,447,2025-08-03,London,Returned,PayPal,2026-02-12
+199,18,2025-08-27,Edinburgh,Delivered,Card,2026-05-05
+200,961,2026-04-06,London,Cancelled,Card,2026-07-05
+201,925,2025-12-08,London,Delivered,Bank Transfer,2026-02-22
+202,799,2025-07-04,Manchester,Cancelled,PayPal,2025-07-27
+203,283,2026-06-20,Birmingham,Cancelled,Card,2026-07-08
+204,446,2025-07-27,London,Processing,Bank Transfer,2026-04-19
+205,622,2026-05-31,Manchester,Returned,Card,2026-07-23
+206,402,2025-10-01,Edinburgh,Processing,Bank Transfer,2025-11-08
+207,679,2025-12-30,Birmingham,Returned,Bank Transfer,2026-01-16
+208,519,2025-08-25,London,Cancelled,Card,2026-06-05
+209,579,2025-10-25,Edinburgh,Processing,Bank Transfer,2026-04-11
+210,66,2026-02-10,Birmingham,Delivered,Card,2026-04-26
+211,819,2026-01-19,Edinburgh,Returned,PayPal,2026-06-15
+212,90,2025-09-12,Manchester,Delivered,PayPal,2026-02-01
+213,885,2025-11-02,Edinburgh,Returned,PayPal,2025-11-09
+214,708,2025-07-25,London,Processing,Card,2026-07-12
+215,650,2025-08-29,Birmingham,Returned,Bank Transfer,2026-01-04
+216,355,2025-08-01,Birmingham,Delivered,PayPal,2026-04-20
+217,153,2025-10-04,London,Delivered,PayPal,2026-05-08
+218,545,2025-11-17,London,Returned,PayPal,2026-06-13
+219,415,2025-12-11,Manchester,Returned,Card,2026-03-30
+220,487,2026-06-15,Manchester,Cancelled,PayPal,2026-07-24
+221,508,2026-01-02,Manchester,Processing,Card,2026-01-16
+222,523,2026-04-04,London,Processing,Card,2026-04-07
+223,327,2025-09-11,Edinburgh,Returned,PayPal,2025-11-30
+224,66,2026-01-23,Birmingham,Processing,PayPal,2026-06-19
+225,675,2025-08-07,London,Delivered,Card,2025-09-24
+226,294,2026-04-30,Edinburgh,Returned,Bank Transfer,2026-05-02
+227,950,2025-07-04,London,Processing,Bank Transfer,2026-02-09
+228,912,2026-06-12,Manchester,Delivered,PayPal,2026-07-10
+229,821,2025-08-06,London,Returned,Bank Transfer,2026-02-21
+230,952,2026-06-18,London,Processing,Card,2026-07-18
+231,567,2026-03-05,Birmingham,Returned,Bank Transfer,2026-04-03
+232,377,2026-04-27,Edinburgh,Processing,PayPal,2026-06-04
+233,983,2026-05-10,London,Cancelled,Card,2026-07-24
+234,615,2026-03-17,Manchester,Cancelled,Bank Transfer,2026-05-11
+235,815,2025-12-19,Edinburgh,Cancelled,Card,2026-01-28
+236,431,2026-03-12,Manchester,Processing,Card,2026-06-06
+237,650,2025-10-21,Manchester,Processing,Card,2026-03-05
+238,132,2025-10-31,Birmingham,Processing,Bank Transfer,2026-07-19
+239,155,2026-03-18,Manchester,Processing,Card,2026-06-11
+240,911,2026-02-03,Edinburgh,Delivered,PayPal,2026-02-03
+241,635,2025-12-07,London,Cancelled,Bank Transfer,2026-06-17
+242,397,2025-10-27,Manchester,Returned,Card,2026-01-22
+243,792,2026-02-08,Manchester,Cancelled,PayPal,2026-03-26
+244,540,2025-11-19,Birmingham,Processing,Card,2025-12-14
+245,225,2025-07-29,Manchester,Returned,Bank Transfer,2025-10-18
+246,992,2026-04-02,Birmingham,Delivered,Bank Transfer,2026-06-15
+247,547,2026-03-06,Edinburgh,Cancelled,Bank Transfer,2026-03-06
+248,761,2026-05-20,Edinburgh,Returned,Card,2026-06-19
+249,314,2025-12-23,Manchester,Processing,PayPal,2026-01-28
+250,80,2025-12-22,Manchester,Returned,PayPal,2026-06-09
+251,457,2025-10-21,Edinburgh,Processing,Card,2026-06-10
+252,72,2026-02-11,Manchester,Delivered,Card,2026-07-20
+253,943,2025-10-18,Edinburgh,Processing,Card,2025-12-22
+254,277,2025-08-24,Birmingham,Cancelled,PayPal,2025-12-20
+255,605,2026-04-30,Birmingham,Delivered,Card,2026-06-06
+256,408,2026-02-07,Edinburgh,Processing,PayPal,2026-03-27
+257,443,2026-06-09,Edinburgh,Delivered,PayPal,2026-07-24
+258,591,2025-09-05,Birmingham,Processing,Card,2026-01-20
+259,945,2025-10-31,London,Returned,PayPal,2026-07-28
+260,284,2026-02-21,Birmingham,Delivered,Bank Transfer,2026-03-07
+261,315,2025-11-19,London,Cancelled,Bank Transfer,2026-07-28
+262,783,2026-02-17,Birmingham,Processing,Card,2026-04-28
+263,91,2026-03-05,London,Delivered,Bank Transfer,2026-04-24
+264,25,2026-05-15,Edinburgh,Processing,Bank Transfer,2026-07-19
+265,968,2026-03-01,Birmingham,Cancelled,PayPal,2026-03-17
+266,533,2025-07-29,Manchester,Delivered,Bank Transfer,2026-05-08
+267,44,2026-02-26,London,Delivered,Bank Transfer,2026-04-04
+268,895,2025-10-20,Birmingham,Cancelled,Card,2026-02-06
+269,410,2026-04-06,Edinburgh,Returned,Bank Transfer,2026-07-05
+270,109,2026-01-25,Edinburgh,Delivered,PayPal,2026-03-01
+271,366,2025-11-15,Birmingham,Cancelled,Card,2026-07-19
+272,339,2026-06-28,Edinburgh,Returned,Card,2026-07-24
+273,477,2026-06-05,Edinburgh,Processing,Bank Transfer,2026-06-27
+274,128,2026-03-26,London,Processing,PayPal,2026-07-17
+275,368,2025-07-23,Manchester,Delivered,PayPal,2025-08-14
+276,667,2025-11-30,London,Returned,Card,2026-02-21
+277,372,2025-08-19,London,Returned,Card,2026-04-05
+278,920,2026-04-27,Birmingham,Processing,PayPal,2026-05-09
+279,11,2025-12-10,Edinburgh,Processing,Card,2026-01-11
+280,315,2025-11-18,London,Returned,Bank Transfer,2026-02-08
+281,578,2025-07-08,Manchester,Processing,Bank Transfer,2026-07-02
+282,834,2025-10-28,Manchester,Processing,Bank Transfer,2026-07-12
+283,587,2026-04-06,Manchester,Cancelled,Bank Transfer,2026-07-15
+284,957,2025-09-12,London,Processing,PayPal,2026-03-24
+285,839,2026-03-18,Edinburgh,Processing,PayPal,2026-03-26
+286,246,2025-10-31,Manchester,Cancelled,PayPal,2025-12-16
+287,49,2026-05-16,London,Delivered,PayPal,2026-06-13
+288,627,2025-09-23,Birmingham,Processing,Card,2025-12-29
+289,401,2026-02-15,Manchester,Processing,PayPal,2026-05-02
+290,725,2026-03-13,London,Processing,Card,2026-06-11
+291,145,2025-10-15,London,Cancelled,PayPal,2025-12-19
+292,622,2026-04-09,London,Processing,Bank Transfer,2026-05-09
+293,803,2026-01-21,London,Processing,Card,2026-02-21
+294,686,2025-11-29,London,Delivered,Bank Transfer,2026-01-26
+295,607,2026-02-08,Birmingham,Returned,Bank Transfer,2026-02-15
+296,143,2026-03-06,Edinburgh,Delivered,PayPal,2026-05-18
+297,545,2025-10-08,Manchester,Delivered,PayPal,2025-12-30
+298,920,2026-05-13,Birmingham,Delivered,Card,2026-07-08
+299,368,2026-01-09,Birmingham,Delivered,Bank Transfer,2026-06-24
+300,238,2026-06-04,Edinburgh,Processing,PayPal,2026-06-18
+301,61,2026-06-20,London,Delivered,Bank Transfer,2026-07-17
+302,297,2025-08-16,Manchester,Returned,Bank Transfer,2026-03-31
+303,972,2026-02-16,Birmingham,Returned,Card,2026-03-14
+304,265,2025-07-08,Birmingham,Cancelled,PayPal,2025-09-25
+305,734,2025-09-20,Manchester,Cancelled,Card,2026-07-21
+306,999,2025-11-01,Edinburgh,Delivered,PayPal,2026-07-04
+307,475,2026-04-03,Birmingham,Cancelled,Bank Transfer,2026-05-28
+308,978,2025-12-29,London,Cancelled,PayPal,2026-05-08
+309,800,2026-03-06,Manchester,Delivered,PayPal,2026-05-12
+310,190,2025-08-17,London,Returned,Bank Transfer,2026-03-02
+311,923,2026-01-30,Edinburgh,Returned,Bank Transfer,2026-02-01
+312,775,2025-07-10,Edinburgh,Processing,Bank Transfer,2026-05-05
+313,423,2025-08-11,London,Processing,Card,2025-12-04
+314,59,2026-05-22,London,Cancelled,PayPal,2026-07-14
+315,229,2026-05-27,Edinburgh,Delivered,PayPal,2026-07-22
+316,361,2025-09-23,Edinburgh,Cancelled,PayPal,2026-03-02
+317,391,2025-10-31,Edinburgh,Processing,Card,2026-02-16
+318,984,2026-04-29,Birmingham,Returned,PayPal,2026-07-25
+319,552,2025-07-08,Manchester,Returned,PayPal,2025-12-15
+320,936,2025-07-30,Manchester,Processing,Bank Transfer,2026-07-15
+321,142,2026-05-19,London,Processing,Card,2026-07-11
+322,192,2025-09-15,Birmingham,Returned,PayPal,2026-01-22
+323,244,2025-10-11,Birmingham,Delivered,Bank Transfer,2026-02-21
+324,413,2025-07-23,London,Processing,Card,2025-10-13
+325,430,2026-03-15,Manchester,Returned,Card,2026-04-11
+326,66,2025-12-04,Edinburgh,Returned,PayPal,2026-02-10
+327,357,2025-09-09,Manchester,Returned,Bank Transfer,2026-02-13
+328,775,2026-01-25,Birmingham,Cancelled,Card,2026-06-17
+329,215,2025-08-10,London,Returned,Bank Transfer,2025-08-23
+330,196,2025-08-22,Birmingham,Delivered,Card,2025-08-29
+331,660,2026-06-20,London,Cancelled,PayPal,2026-07-16
+332,255,2026-04-25,Birmingham,Processing,PayPal,2026-06-21
+333,124,2025-11-12,Birmingham,Cancelled,PayPal,2026-01-20
+334,933,2025-12-17,London,Delivered,Card,2026-04-26
+335,149,2026-03-05,Edinburgh,Delivered,Bank Transfer,2026-07-13
+336,75,2026-04-23,Manchester,Delivered,Card,2026-05-25
+337,350,2026-03-14,Birmingham,Processing,Card,2026-07-07
+338,980,2025-08-25,London,Returned,Bank Transfer,2025-09-26
+339,247,2026-04-25,Edinburgh,Processing,PayPal,2026-07-29
+340,98,2026-04-22,Edinburgh,Cancelled,Card,2026-05-28
+341,978,2026-06-07,London,Cancelled,PayPal,2026-07-19
+342,925,2026-03-23,London,Processing,Bank Transfer,2026-06-19
+343,839,2025-08-17,Edinburgh,Delivered,Card,2026-04-10
+344,386,2026-06-17,London,Processing,Card,2026-06-26
+345,492,2025-10-19,Birmingham,Cancelled,Bank Transfer,2026-04-29
+346,903,2025-09-08,Birmingham,Processing,Card,2025-09-23
+347,436,2025-10-17,London,Cancelled,Card,2026-02-05
+348,436,2025-09-07,Manchester,Returned,PayPal,2025-11-24
+349,124,2025-08-22,London,Cancelled,Card,2026-03-24
+350,764,2026-03-11,Birmingham,Cancelled,Card,2026-06-15
+351,738,2026-02-02,Birmingham,Processing,Bank Transfer,2026-06-12
+352,384,2026-06-04,London,Delivered,Bank Transfer,2026-07-03
+353,539,2026-04-06,Manchester,Delivered,Bank Transfer,2026-06-18
+354,684,2025-11-05,Edinburgh,Processing,Card,2026-03-04
+355,99,2025-10-11,Manchester,Processing,Card,2026-03-26
+356,470,2026-05-08,Manchester,Delivered,Card,2026-07-16
+357,504,2025-08-04,Manchester,Processing,Bank Transfer,2025-08-23
+358,57,2025-08-28,Birmingham,Cancelled,Card,2026-03-15
+359,431,2025-12-22,Birmingham,Returned,PayPal,2026-04-14
+360,922,2025-08-24,Edinburgh,Returned,PayPal,2025-11-30
+361,243,2025-11-08,Manchester,Returned,Bank Transfer,2026-06-27
+362,64,2026-04-18,Birmingham,Processing,PayPal,2026-07-20
+363,246,2026-04-15,London,Processing,Card,2026-07-14
+364,568,2025-07-23,Manchester,Processing,PayPal,2026-02-06
+365,679,2026-05-09,London,Cancelled,Bank Transfer,2026-07-04
+366,775,2026-06-14,Manchester,Cancelled,Card,2026-07-03
+367,751,2026-05-09,Edinburgh,Processing,Bank Transfer,2026-06-28
+368,676,2026-03-28,Edinburgh,Returned,PayPal,2026-03-31
+369,886,2025-11-23,Birmingham,Returned,Card,2026-04-16
+370,681,2025-11-07,Edinburgh,Cancelled,Bank Transfer,2026-05-03
+371,570,2026-01-23,London,Returned,Bank Transfer,2026-05-25
+372,958,2026-03-28,London,Cancelled,Bank Transfer,2026-07-25
+373,437,2025-07-11,Manchester,Cancelled,Card,2025-10-23
+374,568,2025-10-27,Edinburgh,Delivered,Bank Transfer,2025-11-06
+375,768,2025-11-27,London,Returned,Card,2025-12-08
+376,482,2026-02-03,Birmingham,Returned,Card,2026-06-13
+377,401,2026-03-05,Manchester,Cancelled,Card,2026-07-29
+378,939,2025-08-26,Edinburgh,Cancelled,PayPal,2025-09-27
+379,46,2025-08-29,Edinburgh,Cancelled,Bank Transfer,2025-10-01
+380,312,2025-09-06,Birmingham,Cancelled,Card,2026-05-20
+381,370,2025-08-26,Birmingham,Returned,PayPal,2025-12-25
+382,369,2026-05-31,Birmingham,Processing,PayPal,2026-07-18
+383,418,2025-12-19,Birmingham,Delivered,Card,2026-05-18
+384,546,2025-09-19,London,Cancelled,Card,2025-12-05
+385,658,2025-11-14,Birmingham,Cancelled,Bank Transfer,2025-12-01
+386,210,2025-08-05,London,Processing,PayPal,2026-06-14
+387,70,2025-08-06,London,Delivered,Bank Transfer,2025-11-19
+388,289,2026-04-14,London,Processing,Bank Transfer,2026-05-31
+389,905,2025-11-04,London,Delivered,PayPal,2025-12-29
+390,634,2026-02-23,Birmingham,Processing,Card,2026-03-06
+391,580,2026-05-21,London,Processing,Card,2026-07-11
+392,717,2025-10-10,Edinburgh,Processing,Bank Transfer,2026-02-06
+393,270,2025-08-18,Manchester,Processing,Card,2025-08-18
+394,637,2025-08-10,London,Delivered,PayPal,2026-05-29
+395,742,2025-10-06,Manchester,Delivered,Bank Transfer,2026-05-26
+396,213,2025-07-06,London,Returned,Bank Transfer,2025-10-31
+397,133,2026-03-20,Birmingham,Processing,PayPal,2026-06-03
+398,5,2026-04-13,Manchester,Delivered,Bank Transfer,2026-04-23
+399,312,2025-09-17,Birmingham,Delivered,Card,2026-02-18
+400,139,2025-10-15,Manchester,Delivered,Bank Transfer,2025-11-03
+401,459,2026-04-22,London,Returned,Card,2026-04-27
+402,522,2026-02-01,London,Cancelled,Card,2026-07-25
+403,38,2026-01-14,Birmingham,Returned,Bank Transfer,2026-02-15
+404,761,2026-05-03,Edinburgh,Delivered,Card,2026-07-10
+405,684,2025-07-28,Manchester,Delivered,PayPal,2026-05-20
+406,186,2025-11-02,Manchester,Cancelled,Bank Transfer,2026-04-02
+407,626,2026-01-02,Birmingham,Returned,Card,2026-06-15
+408,244,2026-04-13,London,Cancelled,Card,2026-06-23
+409,699,2026-01-20,Birmingham,Processing,PayPal,2026-06-23
+410,877,2026-03-21,Birmingham,Delivered,Bank Transfer,2026-05-31
+411,209,2025-09-20,Manchester,Cancelled,Card,2026-02-07
+412,54,2026-02-14,London,Cancelled,PayPal,2026-04-22
+413,257,2026-03-26,Edinburgh,Returned,Card,2026-05-15
+414,24,2026-05-31,Edinburgh,Processing,PayPal,2026-07-15
+415,601,2025-07-03,Manchester,Cancelled,Card,2025-11-02
+416,339,2026-02-28,Edinburgh,Delivered,PayPal,2026-06-19
+417,138,2026-06-13,London,Processing,Bank Transfer,2026-07-20
+418,469,2025-12-18,Manchester,Delivered,Bank Transfer,2026-01-07
+419,765,2026-05-08,London,Delivered,Bank Transfer,2026-07-10
+420,136,2026-01-12,Birmingham,Delivered,Card,2026-06-14
+421,854,2025-08-31,Birmingham,Delivered,Card,2026-03-21
+422,590,2025-07-31,Birmingham,Processing,Card,2026-04-22
+423,383,2026-03-30,Manchester,Returned,Bank Transfer,2026-06-17
+424,494,2025-11-29,London,Cancelled,Card,2026-05-11
+425,480,2025-07-20,Birmingham,Returned,Card,2025-09-30
+426,279,2026-02-15,London,Processing,Bank Transfer,2026-05-07
+427,32,2025-08-10,Manchester,Delivered,Card,2025-08-24
+428,631,2026-02-06,London,Returned,PayPal,2026-04-15
+429,580,2025-12-23,Birmingham,Cancelled,Card,2026-04-21
+430,622,2026-06-27,Manchester,Cancelled,Card,2026-07-26
+431,852,2026-04-02,Manchester,Returned,Bank Transfer,2026-05-01
+432,28,2025-09-25,Edinburgh,Delivered,PayPal,2026-03-01
+433,593,2025-10-03,Birmingham,Returned,Bank Transfer,2025-11-23
+434,694,2026-04-13,Edinburgh,Returned,PayPal,2026-07-10
+435,605,2026-06-22,London,Delivered,Bank Transfer,2026-07-05
+436,277,2025-07-14,Edinburgh,Cancelled,Card,2026-02-27
+437,827,2026-01-06,London,Processing,Bank Transfer,2026-07-27
+438,856,2026-02-15,Birmingham,Cancelled,Bank Transfer,2026-05-12
+439,938,2025-09-13,Edinburgh,Delivered,PayPal,2026-01-10
+440,908,2026-04-26,Manchester,Processing,Card,2026-06-25
+441,723,2025-11-13,Edinburgh,Returned,Bank Transfer,2025-12-23
+442,870,2025-08-23,London,Processing,Card,2025-11-10
+443,760,2025-08-23,London,Returned,PayPal,2026-06-09
+444,605,2026-01-05,London,Returned,Bank Transfer,2026-03-26
+445,168,2025-08-28,Edinburgh,Delivered,PayPal,2025-12-23
+446,774,2025-07-22,London,Delivered,Card,2025-11-14
+447,663,2026-05-30,Birmingham,Returned,Bank Transfer,2026-06-10
+448,77,2025-09-16,London,Cancelled,PayPal,2026-03-14
+449,48,2026-05-09,Edinburgh,Returned,PayPal,2026-06-14
+450,117,2026-01-10,London,Processing,Bank Transfer,2026-04-03
+451,154,2025-09-12,Edinburgh,Cancelled,Card,2025-11-07
+452,486,2025-10-01,Edinburgh,Cancelled,Card,2026-04-17
+453,547,2026-04-11,Birmingham,Processing,PayPal,2026-07-17
+454,249,2025-07-18,London,Returned,PayPal,2026-04-01
+455,781,2026-02-25,Birmingham,Delivered,Bank Transfer,2026-05-28
+456,855,2025-11-02,Birmingham,Returned,Bank Transfer,2026-07-03
+457,618,2026-02-20,Birmingham,Processing,PayPal,2026-05-09
+458,957,2026-01-03,London,Cancelled,Card,2026-07-18
+459,828,2025-12-19,Birmingham,Cancelled,PayPal,2025-12-20
+460,775,2025-10-18,Edinburgh,Processing,Card,2026-06-23
+461,732,2026-06-10,Edinburgh,Cancelled,PayPal,2026-07-29
+462,923,2026-03-09,Edinburgh,Delivered,PayPal,2026-03-26
+463,991,2025-09-02,Birmingham,Cancelled,PayPal,2026-01-10
+464,206,2025-08-23,Manchester,Delivered,Card,2026-04-13
+465,321,2026-04-14,Manchester,Delivered,Card,2026-06-17
+466,647,2026-06-14,London,Cancelled,Card,2026-07-19
+467,521,2025-11-26,Edinburgh,Cancelled,PayPal,2026-01-13
+468,394,2026-04-07,London,Processing,PayPal,2026-05-21
+469,995,2026-06-19,Edinburgh,Processing,Bank Transfer,2026-07-22
+470,260,2026-04-03,Manchester,Cancelled,Card,2026-04-09
+471,261,2025-07-09,Edinburgh,Returned,Card,2026-07-11
+472,899,2026-02-26,Manchester,Delivered,PayPal,2026-06-17
+473,395,2025-11-18,Manchester,Returned,Card,2026-05-10
+474,814,2025-07-11,Edinburgh,Cancelled,PayPal,2026-04-07
+475,406,2026-04-08,Birmingham,Delivered,Card,2026-05-04
+476,243,2026-01-23,Manchester,Returned,PayPal,2026-06-22
+477,889,2026-03-12,Manchester,Cancelled,Card,2026-06-12
+478,885,2025-07-25,Edinburgh,Cancelled,Bank Transfer,2026-07-20
+479,660,2026-01-15,Manchester,Cancelled,PayPal,2026-05-15
+480,205,2026-04-01,Birmingham,Returned,PayPal,2026-05-18
+481,543,2025-12-10,Manchester,Cancelled,Bank Transfer,2026-05-30
+482,409,2025-09-29,Manchester,Processing,Card,2025-11-01
+483,917,2026-06-21,Manchester,Delivered,PayPal,2026-06-24
+484,344,2025-10-14,Edinburgh,Returned,Bank Transfer,2026-02-22
+485,110,2025-09-27,Birmingham,Delivered,PayPal,2026-02-27
+486,838,2026-05-22,Birmingham,Delivered,Card,2026-06-19
+487,764,2026-02-17,London,Processing,Card,2026-06-28
+488,898,2025-10-20,Birmingham,Returned,Card,2026-07-24
+489,538,2026-06-22,London,Returned,PayPal,2026-07-17
+490,161,2026-05-28,Birmingham,Returned,Card,2026-06-19
+491,320,2026-02-23,Manchester,Delivered,PayPal,2026-02-27
+492,99,2025-07-26,Manchester,Returned,Card,2026-05-12
+493,516,2025-10-17,Edinburgh,Returned,PayPal,2026-03-19
+494,255,2026-03-28,Edinburgh,Delivered,Bank Transfer,2026-06-09
+495,378,2026-02-28,London,Cancelled,Card,2026-04-23
+496,629,2026-06-27,Manchester,Delivered,Card,2026-07-25
+497,636,2025-12-18,Birmingham,Processing,Bank Transfer,2026-03-13
+498,418,2025-11-03,Birmingham,Delivered,PayPal,2026-04-27
+499,455,2026-05-24,Edinburgh,Cancelled,Bank Transfer,2026-06-28
+500,262,2025-09-08,Edinburgh,Returned,Card,2025-11-21
+501,800,2026-01-25,Edinburgh,Processing,Card,2026-04-29
+502,515,2026-01-10,London,Returned,PayPal,2026-05-11
+503,3,2025-07-20,Edinburgh,Processing,PayPal,2025-10-08
+504,837,2025-11-13,Edinburgh,Delivered,Bank Transfer,2025-12-29
+505,429,2026-02-04,Manchester,Delivered,Card,2026-07-24
+506,580,2026-06-29,Birmingham,Processing,PayPal,2026-07-14
+507,534,2025-09-10,Manchester,Processing,Card,2026-06-10
+508,452,2025-08-30,Birmingham,Processing,PayPal,2025-10-08
+509,674,2025-08-10,London,Delivered,PayPal,2026-03-13
+510,504,2026-01-26,Birmingham,Cancelled,PayPal,2026-04-03
+511,852,2025-07-19,Edinburgh,Returned,PayPal,2026-02-16
+512,910,2026-06-01,London,Processing,Bank Transfer,2026-07-19
+513,346,2026-04-30,Birmingham,Cancelled,PayPal,2026-07-25
+514,67,2025-10-12,Manchester,Processing,Card,2026-05-17
+515,705,2026-01-05,Birmingham,Returned,PayPal,2026-02-22
+516,476,2025-11-01,Birmingham,Processing,PayPal,2025-11-14
+517,513,2026-05-21,Birmingham,Processing,Card,2026-06-22
+518,173,2026-05-30,Birmingham,Returned,Card,2026-06-13
+519,852,2025-10-23,Edinburgh,Cancelled,PayPal,2026-07-05
+520,940,2026-01-07,Birmingham,Processing,Bank Transfer,2026-03-18
+521,448,2025-08-30,Edinburgh,Cancelled,PayPal,2025-09-20
+522,145,2026-01-06,Edinburgh,Processing,Bank Transfer,2026-01-08
+523,60,2026-06-18,Edinburgh,Processing,PayPal,2026-07-10
+524,373,2026-05-12,Manchester,Cancelled,PayPal,2026-06-11
+525,638,2025-12-11,Birmingham,Returned,Card,2026-05-14
+526,140,2025-10-22,Manchester,Returned,PayPal,2026-05-29
+527,88,2026-04-12,Birmingham,Returned,Bank Transfer,2026-07-16
+528,747,2025-11-17,Edinburgh,Returned,PayPal,2026-02-11
+529,894,2025-12-03,Edinburgh,Returned,Bank Transfer,2026-01-30
+530,482,2025-11-05,London,Cancelled,Bank Transfer,2026-01-28
+531,1,2026-02-28,Edinburgh,Processing,PayPal,2026-05-05
+532,913,2025-09-22,Manchester,Returned,Card,2025-12-14
+533,324,2025-07-03,Edinburgh,Cancelled,Card,2025-08-08
+534,602,2026-06-20,Manchester,Returned,Bank Transfer,2026-07-02
+535,312,2026-01-28,London,Delivered,Card,2026-03-01
+536,118,2025-09-18,London,Cancelled,PayPal,2026-03-14
+537,833,2026-06-08,Edinburgh,Cancelled,Bank Transfer,2026-07-09
+538,298,2026-05-12,Manchester,Cancelled,PayPal,2026-07-03
+539,727,2026-04-08,Edinburgh,Delivered,Bank Transfer,2026-06-28
+540,208,2026-02-10,Birmingham,Cancelled,PayPal,2026-03-23
+541,877,2026-04-27,Manchester,Returned,Card,2026-05-28
+542,221,2025-12-14,London,Processing,PayPal,2026-03-21
+543,524,2025-09-22,Manchester,Processing,Bank Transfer,2026-02-17
+544,766,2025-08-28,Manchester,Delivered,Card,2026-05-10
+545,616,2026-02-23,Manchester,Cancelled,Card,2026-05-31
+546,211,2025-11-15,Birmingham,Delivered,PayPal,2026-06-25
+547,592,2026-06-12,Edinburgh,Cancelled,Bank Transfer,2026-07-16
+548,395,2025-10-16,London,Delivered,Card,2025-10-29
+549,674,2025-08-17,Edinburgh,Returned,Bank Transfer,2026-05-04
+550,417,2026-05-27,Manchester,Processing,Card,2026-07-22
+551,212,2026-05-20,Edinburgh,Cancelled,Card,2026-07-25
+552,720,2026-06-17,London,Returned,Card,2026-07-04
+553,369,2026-05-16,Manchester,Cancelled,PayPal,2026-07-14
+554,993,2026-06-08,Birmingham,Delivered,PayPal,2026-07-19
+555,270,2026-02-04,Edinburgh,Cancelled,Card,2026-03-22
+556,981,2026-06-24,Edinburgh,Returned,Card,2026-07-14
+557,869,2026-01-01,London,Returned,PayPal,2026-06-04
+558,160,2025-11-22,Edinburgh,Delivered,Card,2026-03-23
+559,455,2025-10-12,Birmingham,Cancelled,PayPal,2026-04-23
+560,828,2025-12-10,Birmingham,Processing,Bank Transfer,2026-06-18
+561,10,2026-04-21,Birmingham,Returned,PayPal,2026-06-27
+562,958,2026-03-24,Birmingham,Delivered,PayPal,2026-04-24
+563,868,2025-08-13,London,Processing,Card,2025-09-19
+564,795,2025-11-09,Birmingham,Cancelled,Bank Transfer,2025-11-13
+565,310,2025-09-23,Manchester,Cancelled,Bank Transfer,2025-10-05
+566,640,2025-11-17,Manchester,Processing,PayPal,2026-03-04
+567,33,2025-08-06,Edinburgh,Returned,Card,2026-04-20
+568,10,2026-04-28,Birmingham,Processing,PayPal,2026-07-07
+569,10,2026-06-18,Manchester,Delivered,Bank Transfer,2026-07-28
+570,887,2026-05-11,Birmingham,Delivered,Card,2026-06-25
+571,73,2025-10-02,Birmingham,Returned,Card,2026-03-24
+572,462,2026-03-25,Edinburgh,Processing,Card,2026-05-03
+573,807,2026-03-07,Birmingham,Processing,Card,2026-07-17
+574,506,2025-07-11,Birmingham,Processing,PayPal,2025-07-30
+575,898,2026-01-23,Edinburgh,Processing,Bank Transfer,2026-03-01
+576,561,2025-09-21,Birmingham,Cancelled,PayPal,2025-12-01
+577,339,2025-10-14,London,Delivered,Card,2026-04-02
+578,212,2026-06-16,Edinburgh,Returned,PayPal,2026-07-25
+579,403,2025-10-28,Edinburgh,Processing,PayPal,2026-05-22
+580,85,2025-09-22,Edinburgh,Delivered,Card,2025-11-01
+581,680,2025-12-14,Edinburgh,Returned,Bank Transfer,2026-05-13
+582,40,2025-07-14,Manchester,Returned,PayPal,2026-04-17
+583,624,2026-02-24,Birmingham,Processing,Card,2026-03-06
+584,612,2025-11-21,London,Delivered,Bank Transfer,2026-02-14
+585,837,2025-11-23,Manchester,Cancelled,Bank Transfer,2025-12-31
+586,359,2026-05-09,Birmingham,Cancelled,Card,2026-07-25
+587,296,2025-08-17,Edinburgh,Cancelled,PayPal,2026-01-22
+588,576,2026-02-01,Birmingham,Delivered,Bank Transfer,2026-02-15
+589,301,2026-05-13,Birmingham,Cancelled,Bank Transfer,2026-06-06
+590,926,2026-05-20,Manchester,Returned,PayPal,2026-06-23
+591,837,2025-10-24,Edinburgh,Processing,PayPal,2026-01-28
+592,816,2026-06-15,Birmingham,Delivered,Card,2026-07-24
+593,606,2025-08-25,London,Cancelled,PayPal,2026-04-15
+594,891,2025-08-14,Manchester,Returned,PayPal,2025-09-12
+595,151,2026-01-27,Manchester,Cancelled,Bank Transfer,2026-06-05
+596,180,2025-09-30,Birmingham,Returned,Card,2026-01-26
+597,881,2026-03-13,Birmingham,Processing,Card,2026-04-12
+598,712,2026-03-11,London,Cancelled,Bank Transfer,2026-05-31
+599,551,2025-11-11,Birmingham,Processing,PayPal,2025-12-22
+600,448,2025-08-08,Manchester,Delivered,PayPal,2025-09-22
+601,824,2025-10-22,Manchester,Processing,PayPal,2026-02-19
+602,440,2025-07-06,Birmingham,Delivered,Card,2025-10-21
+603,464,2026-03-19,Edinburgh,Cancelled,Bank Transfer,2026-04-03
+604,627,2025-07-27,Edinburgh,Delivered,Card,2026-01-14
+605,216,2025-12-20,Manchester,Delivered,Bank Transfer,2026-06-17
+606,258,2025-11-06,Birmingham,Cancelled,Bank Transfer,2025-11-23
+607,575,2026-01-07,Birmingham,Delivered,Card,2026-03-31
+608,248,2025-12-07,Edinburgh,Processing,Card,2026-05-04
+609,472,2026-02-04,London,Processing,Card,2026-05-25
+610,96,2026-04-14,London,Processing,Card,2026-06-21
+611,644,2026-06-02,Birmingham,Delivered,Card,2026-06-02
+612,132,2025-10-12,London,Processing,Card,2026-03-07
+613,481,2026-04-23,Manchester,Delivered,Card,2026-07-19
+614,960,2026-01-07,London,Returned,PayPal,2026-03-02
+615,36,2025-12-22,London,Processing,PayPal,2026-01-15
+616,254,2025-10-01,Manchester,Delivered,Bank Transfer,2026-01-28
+617,600,2026-03-24,Birmingham,Processing,Bank Transfer,2026-06-17
+618,8,2026-03-08,London,Delivered,Bank Transfer,2026-06-15
+619,23,2025-07-24,Edinburgh,Returned,Card,2025-12-24
+620,489,2025-12-04,Edinburgh,Cancelled,PayPal,2026-02-20
+621,269,2026-04-21,Edinburgh,Delivered,Bank Transfer,2026-06-07
+622,34,2026-03-06,Manchester,Delivered,Card,2026-03-06
+623,841,2026-01-12,London,Delivered,PayPal,2026-01-19
+624,197,2026-06-18,Manchester,Processing,Bank Transfer,2026-07-21
+625,24,2026-02-26,Manchester,Delivered,PayPal,2026-07-17
+626,587,2025-08-03,London,Delivered,Bank Transfer,2026-04-20
+627,390,2025-08-20,Manchester,Delivered,Bank Transfer,2026-04-29
+628,414,2026-04-25,Manchester,Processing,Card,2026-07-24
+629,746,2026-04-08,Edinburgh,Delivered,Bank Transfer,2026-04-09
+630,942,2026-02-07,Birmingham,Cancelled,Bank Transfer,2026-03-23
+631,254,2026-04-07,Manchester,Returned,PayPal,2026-07-01
+632,385,2026-03-10,Edinburgh,Returned,Card,2026-07-18
+633,288,2026-04-17,Birmingham,Cancelled,Card,2026-07-11
+634,251,2026-06-27,Manchester,Cancelled,PayPal,2026-06-29
+635,103,2025-08-01,Manchester,Returned,Bank Transfer,2026-07-09
+636,556,2025-10-16,Birmingham,Processing,PayPal,2026-07-03
+637,982,2026-02-18,London,Processing,Bank Transfer,2026-06-12
+638,553,2026-05-13,London,Delivered,Bank Transfer,2026-07-05
+639,730,2025-08-19,Edinburgh,Delivered,Card,2026-06-05
+640,746,2026-05-04,Edinburgh,Processing,PayPal,2026-05-08
+641,884,2025-07-22,Birmingham,Processing,Bank Transfer,2026-02-17
+642,837,2026-04-07,London,Processing,Card,2026-07-21
+643,209,2025-10-01,Edinburgh,Returned,Card,2026-06-12
+644,259,2026-01-07,Edinburgh,Delivered,Card,2026-04-08
+645,134,2026-04-24,Edinburgh,Delivered,Card,2026-05-02
+646,693,2026-05-12,Manchester,Delivered,Bank Transfer,2026-06-23
+647,418,2026-02-09,London,Delivered,Bank Transfer,2026-07-04
+648,722,2025-12-03,Manchester,Processing,PayPal,2026-02-03
+649,657,2025-12-27,Edinburgh,Delivered,Bank Transfer,2026-07-23
+650,971,2026-03-24,London,Delivered,Card,2026-04-03
+651,323,2026-06-08,London,Cancelled,PayPal,2026-07-23
+652,885,2025-12-02,Edinburgh,Processing,PayPal,2026-02-28
+653,554,2026-05-09,Edinburgh,Cancelled,Card,2026-07-14
+654,743,2025-09-02,London,Processing,Bank Transfer,2025-09-15
+655,796,2025-10-31,Birmingham,Processing,Bank Transfer,2026-03-17
+656,645,2025-11-10,Edinburgh,Cancelled,Card,2026-03-08
+657,81,2025-08-23,Birmingham,Processing,Bank Transfer,2026-01-03
+658,663,2025-10-24,Manchester,Returned,Card,2026-06-13
+659,550,2025-08-18,Birmingham,Delivered,Card,2025-10-03
+660,669,2026-04-13,Birmingham,Delivered,Card,2026-05-21
+661,217,2025-11-29,Edinburgh,Returned,Bank Transfer,2026-04-26
+662,243,2025-12-29,London,Delivered,PayPal,2026-03-30
+663,123,2026-01-06,Birmingham,Processing,Bank Transfer,2026-01-23
+664,729,2025-08-23,Edinburgh,Delivered,Card,2025-09-18
+665,612,2026-06-04,Birmingham,Delivered,Bank Transfer,2026-06-06
+666,89,2026-05-08,Manchester,Processing,PayPal,2026-05-26
+667,785,2025-11-13,Birmingham,Delivered,PayPal,2026-05-25
+668,397,2025-09-08,Manchester,Returned,Card,2026-02-13
+669,51,2026-03-28,Birmingham,Cancelled,Card,2026-04-14
+670,939,2025-08-25,Manchester,Processing,PayPal,2026-03-19
+671,992,2025-12-20,Manchester,Cancelled,Card,2026-07-11
+672,896,2026-04-30,Edinburgh,Returned,Card,2026-07-16
+673,922,2026-06-12,Edinburgh,Delivered,Card,2026-07-14
+674,288,2025-10-31,London,Returned,Card,2026-01-28
+675,254,2026-02-14,Edinburgh,Processing,Bank Transfer,2026-07-21
+676,226,2025-10-28,Edinburgh,Cancelled,Bank Transfer,2026-06-11
+677,449,2025-10-20,London,Delivered,Card,2026-07-18
+678,863,2025-09-29,Birmingham,Delivered,Bank Transfer,2025-11-11
+679,611,2025-12-23,Manchester,Cancelled,Bank Transfer,2026-02-27
+680,547,2026-04-23,Edinburgh,Processing,Bank Transfer,2026-06-27
+681,405,2025-10-08,Birmingham,Processing,PayPal,2025-11-26
+682,343,2026-06-14,London,Delivered,Card,2026-06-28
+683,295,2026-06-02,London,Returned,Bank Transfer,2026-06-06
+684,952,2025-07-12,London,Returned,Bank Transfer,2026-03-19
+685,496,2025-07-03,Manchester,Cancelled,Card,2026-06-26
+686,109,2025-09-15,Manchester,Cancelled,Bank Transfer,2025-11-14
+687,497,2025-07-25,Manchester,Returned,Bank Transfer,2025-12-24
+688,123,2025-10-20,Manchester,Processing,Bank Transfer,2026-02-19
+689,287,2025-09-20,Manchester,Processing,Card,2026-01-15
+690,719,2026-06-26,London,Cancelled,Bank Transfer,2026-07-15
+691,262,2025-11-05,London,Processing,PayPal,2026-06-17
+692,560,2026-04-24,Edinburgh,Processing,PayPal,2026-06-12
+693,133,2026-01-13,London,Processing,Card,2026-03-03
+694,717,2026-04-28,Birmingham,Returned,Bank Transfer,2026-05-24
+695,854,2025-12-02,London,Cancelled,Bank Transfer,2026-06-15
+696,885,2025-09-17,Birmingham,Delivered,Bank Transfer,2026-04-12
+697,780,2026-04-08,Manchester,Processing,Bank Transfer,2026-05-25
+698,114,2026-02-25,Birmingham,Returned,Bank Transfer,2026-04-23
+699,734,2026-05-03,London,Processing,Bank Transfer,2026-06-02
+700,614,2025-10-16,Birmingham,Delivered,PayPal,2026-05-25
+701,429,2025-10-26,Manchester,Delivered,Card,2026-04-19
+702,448,2025-10-30,London,Cancelled,Card,2026-02-04
+703,149,2026-03-30,Edinburgh,Cancelled,Card,2026-05-06
+704,964,2025-08-07,Manchester,Delivered,PayPal,2026-03-23
+705,443,2025-09-19,Birmingham,Processing,Bank Transfer,2026-03-08
+706,707,2025-11-12,London,Cancelled,Bank Transfer,2026-01-13
+707,400,2026-05-24,Edinburgh,Delivered,Card,2026-06-13
+708,643,2026-05-25,Manchester,Processing,Card,2026-07-26
+709,679,2025-10-02,Birmingham,Delivered,Bank Transfer,2026-03-08
+710,86,2026-03-28,Manchester,Processing,Card,2026-06-26
+711,432,2026-03-02,Edinburgh,Delivered,PayPal,2026-05-20
+712,622,2025-08-29,London,Cancelled,Bank Transfer,2026-04-01
+713,934,2025-07-15,Birmingham,Processing,Card,2025-09-26
+714,736,2025-07-22,Birmingham,Processing,Bank Transfer,2026-01-29
+715,848,2026-03-05,London,Processing,Bank Transfer,2026-03-12
+716,854,2026-05-20,Manchester,Processing,PayPal,2026-07-27
+717,435,2026-01-03,London,Returned,Bank Transfer,2026-01-30
+718,210,2026-02-17,London,Cancelled,Card,2026-05-27
+719,876,2026-02-01,Manchester,Cancelled,Card,2026-07-10
+720,694,2025-08-28,Edinburgh,Delivered,Card,2026-04-06
+721,829,2025-11-21,Edinburgh,Processing,Bank Transfer,2026-03-11
+722,110,2025-09-10,Manchester,Cancelled,PayPal,2026-07-30
+723,530,2026-04-29,London,Returned,Bank Transfer,2026-06-03
+724,989,2025-07-30,London,Delivered,Card,2025-11-16
+725,998,2026-02-21,Birmingham,Cancelled,Card,2026-05-15
+726,428,2026-05-31,Edinburgh,Returned,Bank Transfer,2026-07-12
+727,930,2026-01-10,Birmingham,Processing,Card,2026-05-16
+728,56,2026-05-19,Birmingham,Delivered,Bank Transfer,2026-05-26
+729,925,2025-07-18,Edinburgh,Processing,Bank Transfer,2026-01-01
+730,213,2026-03-09,Edinburgh,Returned,Card,2026-05-29
+731,357,2026-02-05,London,Returned,Bank Transfer,2026-03-12
+732,266,2025-10-12,London,Processing,Card,2026-05-29
+733,585,2026-02-24,Edinburgh,Cancelled,PayPal,2026-07-22
+734,909,2025-11-21,Manchester,Returned,Card,2026-05-18
+735,865,2026-01-28,Edinburgh,Returned,Bank Transfer,2026-07-06
+736,430,2026-02-18,Manchester,Processing,PayPal,2026-02-19
+737,962,2025-10-30,Manchester,Returned,Card,2026-06-24
+738,896,2025-11-21,Edinburgh,Cancelled,Bank Transfer,2026-05-28
+739,662,2025-11-18,Edinburgh,Delivered,Bank Transfer,2025-12-15
+740,403,2025-07-01,London,Cancelled,Card,2025-10-25
+741,677,2025-09-05,London,Returned,PayPal,2026-05-28
+742,374,2026-06-19,Birmingham,Returned,Card,2026-06-23
+743,903,2026-01-13,London,Delivered,PayPal,2026-06-01
+744,296,2025-10-09,Manchester,Returned,Card,2026-04-13
+745,697,2026-01-18,London,Returned,PayPal,2026-07-03
+746,506,2025-10-22,Edinburgh,Delivered,PayPal,2026-02-26
+747,218,2025-09-13,London,Cancelled,PayPal,2026-06-28
+748,888,2026-05-19,London,Cancelled,Bank Transfer,2026-07-04
+749,914,2025-07-13,Manchester,Cancelled,Bank Transfer,2025-10-11
+750,340,2025-09-13,London,Delivered,Card,2026-02-09
+751,89,2025-10-02,Manchester,Delivered,Card,2026-07-29
+752,624,2026-06-08,Birmingham,Returned,Card,2026-07-02
+753,524,2025-12-20,Manchester,Cancelled,Bank Transfer,2026-02-07
+754,162,2025-10-07,Edinburgh,Returned,PayPal,2026-05-08
+755,147,2026-01-16,Birmingham,Delivered,Card,2026-03-21
+756,324,2025-08-08,London,Returned,Card,2026-07-21
+757,282,2026-06-10,Edinburgh,Processing,Bank Transfer,2026-07-01
+758,595,2025-08-16,London,Processing,Bank Transfer,2026-04-13
+759,744,2026-06-28,London,Returned,Bank Transfer,2026-07-22
+760,501,2025-11-30,London,Delivered,Card,2026-03-23
+761,384,2025-11-07,Birmingham,Processing,Card,2026-03-10
+762,155,2025-08-30,Edinburgh,Cancelled,Bank Transfer,2025-10-02
+763,592,2025-10-22,Manchester,Processing,PayPal,2026-04-16
+764,3,2025-09-05,London,Cancelled,Card,2025-11-10
+765,987,2026-04-19,London,Processing,Card,2026-06-03
+766,356,2026-06-02,London,Cancelled,Bank Transfer,2026-06-12
+767,938,2025-10-07,London,Delivered,Bank Transfer,2026-02-11
+768,239,2026-01-17,Edinburgh,Returned,Bank Transfer,2026-03-02
+769,863,2025-07-06,London,Processing,Card,2026-01-08
+770,889,2026-01-17,Edinburgh,Cancelled,PayPal,2026-01-31
+771,695,2025-07-15,London,Delivered,PayPal,2026-01-15
+772,131,2025-10-09,Birmingham,Processing,Bank Transfer,2026-06-24
+773,241,2026-05-19,Edinburgh,Returned,Bank Transfer,2026-07-30
+774,186,2026-01-13,Manchester,Delivered,PayPal,2026-01-28
+775,201,2025-11-23,London,Delivered,Bank Transfer,2026-02-04
+776,636,2026-01-12,Edinburgh,Processing,PayPal,2026-02-11
+777,558,2025-07-10,Birmingham,Cancelled,Card,2025-09-25
+778,64,2026-06-21,Birmingham,Processing,PayPal,2026-06-22
+779,394,2026-02-17,Edinburgh,Returned,Card,2026-07-17
+780,118,2025-11-25,London,Delivered,Card,2026-02-24
+781,628,2026-03-09,London,Delivered,Card,2026-04-15
+782,160,2026-01-29,Edinburgh,Cancelled,Bank Transfer,2026-07-13
+783,245,2025-09-23,Manchester,Returned,Bank Transfer,2026-05-16
+784,779,2026-01-20,London,Delivered,PayPal,2026-07-04
+785,105,2025-08-10,Edinburgh,Processing,Card,2026-03-08
+786,534,2025-10-30,Manchester,Cancelled,PayPal,2026-02-07
+787,77,2025-08-08,Edinburgh,Cancelled,Card,2026-01-08
+788,628,2026-03-23,Manchester,Processing,PayPal,2026-04-17
+789,681,2026-04-30,Manchester,Processing,Card,2026-07-17
+790,714,2025-07-15,London,Returned,Card,2026-03-31
+791,325,2025-07-09,London,Cancelled,Card,2026-06-19
+792,251,2026-04-03,Manchester,Cancelled,PayPal,2026-06-13
+793,260,2025-07-20,Edinburgh,Delivered,Card,2026-06-29
+794,610,2026-05-13,Birmingham,Processing,PayPal,2026-07-13
+795,414,2025-10-19,London,Cancelled,PayPal,2026-01-31
+796,333,2026-03-30,Manchester,Returned,Card,2026-06-16
+797,770,2025-11-17,Edinburgh,Cancelled,PayPal,2026-04-26
+798,454,2025-07-17,Manchester,Delivered,PayPal,2026-05-09
+799,404,2025-12-11,Birmingham,Returned,PayPal,2026-03-21
+800,178,2025-07-03,Birmingham,Delivered,Card,2025-09-05
+801,756,2026-04-10,Birmingham,Returned,Bank Transfer,2026-07-28
+802,647,2025-08-20,London,Delivered,Bank Transfer,2025-09-06
+803,462,2026-02-17,Manchester,Delivered,Bank Transfer,2026-05-24
+804,767,2025-07-30,Edinburgh,Delivered,Card,2026-05-25
+805,378,2025-08-02,Edinburgh,Cancelled,Card,2025-09-03
+806,372,2026-05-11,Edinburgh,Cancelled,PayPal,2026-05-19
+807,857,2026-05-19,London,Returned,Bank Transfer,2026-06-01
+808,272,2025-07-29,Edinburgh,Delivered,Card,2026-03-16
+809,325,2026-03-07,Edinburgh,Cancelled,Bank Transfer,2026-04-11
+810,859,2025-12-16,Manchester,Delivered,Card,2026-03-17
+811,555,2025-07-03,Birmingham,Cancelled,PayPal,2026-06-11
+812,881,2026-01-04,Birmingham,Processing,Card,2026-07-11
+813,642,2025-12-18,London,Cancelled,Bank Transfer,2026-02-08
+814,464,2026-02-12,Manchester,Cancelled,Card,2026-03-31
+815,581,2026-05-19,Edinburgh,Processing,Card,2026-07-21
+816,410,2025-12-14,Manchester,Returned,PayPal,2026-05-27
+817,214,2025-07-27,Birmingham,Processing,Card,2026-07-28
+818,24,2026-02-16,Birmingham,Delivered,PayPal,2026-06-02
+819,532,2026-02-17,Manchester,Processing,Bank Transfer,2026-03-15
+820,295,2026-03-05,Manchester,Processing,Bank Transfer,2026-07-03
+821,384,2026-05-26,Manchester,Returned,PayPal,2026-07-10
+822,846,2025-11-17,Birmingham,Returned,PayPal,2025-12-26
+823,86,2025-11-29,Manchester,Processing,Bank Transfer,2026-01-18
+824,445,2026-03-23,Manchester,Delivered,PayPal,2026-06-17
+825,863,2025-09-26,Birmingham,Cancelled,PayPal,2025-12-03
+826,444,2025-09-18,London,Processing,Card,2025-10-03
+827,986,2025-12-05,Birmingham,Returned,Bank Transfer,2026-01-17
+828,146,2026-02-13,Birmingham,Cancelled,PayPal,2026-02-24
+829,715,2025-09-01,Edinburgh,Returned,PayPal,2026-01-15
+830,892,2026-01-25,Manchester,Cancelled,PayPal,2026-07-06
+831,634,2025-09-05,London,Cancelled,PayPal,2025-11-22
+832,102,2026-01-18,Edinburgh,Cancelled,Card,2026-02-20
+833,583,2025-08-17,Manchester,Cancelled,PayPal,2026-06-12
+834,803,2026-04-22,Birmingham,Cancelled,PayPal,2026-06-22
+835,557,2025-09-11,Manchester,Returned,Bank Transfer,2026-06-30
+836,735,2025-10-30,Manchester,Returned,Bank Transfer,2026-05-21
+837,399,2026-03-31,Manchester,Cancelled,Card,2026-07-17
+838,758,2025-10-15,London,Returned,Bank Transfer,2025-12-12
+839,339,2026-04-27,Edinburgh,Returned,PayPal,2026-07-13
+840,80,2026-06-21,Edinburgh,Returned,Bank Transfer,2026-07-19
+841,534,2026-06-30,London,Processing,Card,2026-07-27
+842,557,2025-10-20,London,Returned,Bank Transfer,2026-03-05
+843,554,2025-11-17,Manchester,Cancelled,Card,2025-12-30
+844,645,2025-07-31,Edinburgh,Cancelled,PayPal,2025-10-12
+845,557,2026-05-07,Manchester,Processing,Card,2026-06-30
+846,664,2026-06-30,Birmingham,Returned,Bank Transfer,2026-07-09
+847,469,2026-01-08,Manchester,Cancelled,Card,2026-06-15
+848,572,2026-04-14,London,Delivered,Bank Transfer,2026-06-18
+849,120,2025-07-12,Birmingham,Cancelled,Bank Transfer,2026-05-28
+850,80,2026-05-19,Edinburgh,Delivered,Card,2026-06-22
+851,509,2026-05-11,Birmingham,Delivered,Card,2026-06-29
+852,633,2026-06-02,Birmingham,Returned,Card,2026-06-27
+853,238,2026-02-21,Manchester,Delivered,PayPal,2026-06-26
+854,471,2026-01-10,Manchester,Returned,Bank Transfer,2026-05-16
+855,919,2025-08-19,Manchester,Processing,PayPal,2025-10-26
+856,235,2026-06-01,London,Processing,PayPal,2026-07-04
+857,966,2025-10-15,Manchester,Processing,PayPal,2025-10-27
+858,402,2025-11-17,London,Returned,PayPal,2026-07-25
+859,95,2025-12-03,Birmingham,Delivered,Card,2026-05-01
+860,852,2026-06-09,Birmingham,Cancelled,Card,2026-07-30
+861,258,2025-12-24,Manchester,Cancelled,PayPal,2026-01-29
+862,45,2026-05-16,Manchester,Delivered,PayPal,2026-07-29
+863,510,2026-05-27,Manchester,Returned,Bank Transfer,2026-07-23
+864,492,2025-12-07,Edinburgh,Cancelled,PayPal,2026-04-29
+865,432,2026-03-04,Birmingham,Returned,Card,2026-03-22
+866,322,2026-01-26,Edinburgh,Processing,Card,2026-07-05
+867,532,2025-08-03,Edinburgh,Returned,Bank Transfer,2026-04-24
+868,887,2025-10-18,London,Cancelled,PayPal,2026-01-04
+869,617,2025-09-24,Edinburgh,Returned,PayPal,2025-11-25
+870,18,2026-03-29,Edinburgh,Returned,Bank Transfer,2026-04-29
+871,846,2026-02-07,Birmingham,Cancelled,PayPal,2026-07-13
+872,966,2026-06-09,London,Returned,Bank Transfer,2026-06-25
+873,270,2025-09-18,Edinburgh,Cancelled,PayPal,2025-12-27
+874,816,2025-10-11,Edinburgh,Processing,Bank Transfer,2026-06-27
+875,8,2026-03-07,Manchester,Processing,Bank Transfer,2026-06-18
+876,699,2025-10-17,Edinburgh,Returned,PayPal,2026-05-26
+877,44,2025-12-14,Manchester,Returned,Bank Transfer,2026-06-09
+878,479,2026-01-02,Edinburgh,Processing,Bank Transfer,2026-02-05
+879,607,2025-10-29,Edinburgh,Processing,Bank Transfer,2026-06-27
+880,314,2026-04-08,Manchester,Cancelled,Bank Transfer,2026-06-20
+881,480,2026-05-25,London,Returned,PayPal,2026-06-09
+882,960,2025-10-04,Birmingham,Delivered,Card,2026-01-24
+883,203,2025-07-07,Manchester,Processing,PayPal,2026-04-30
+884,472,2025-07-23,Edinburgh,Returned,PayPal,2025-11-03
+885,502,2025-09-02,Manchester,Cancelled,Card,2026-07-25
+886,922,2025-11-18,Edinburgh,Cancelled,PayPal,2025-12-27
+887,12,2026-01-24,London,Delivered,Card,2026-05-02
+888,188,2025-08-19,Manchester,Delivered,PayPal,2025-09-14
+889,351,2026-01-23,Edinburgh,Processing,Card,2026-07-24
+890,560,2026-03-05,Edinburgh,Cancelled,Card,2026-07-11
+891,189,2025-11-15,Birmingham,Delivered,PayPal,2026-05-14
+892,120,2026-06-23,Birmingham,Delivered,Bank Transfer,2026-06-27
+893,648,2026-02-23,Manchester,Returned,PayPal,2026-05-10
+894,991,2026-04-29,Edinburgh,Delivered,PayPal,2026-07-19
+895,888,2025-08-05,Birmingham,Cancelled,Bank Transfer,2026-05-08
+896,278,2026-02-15,Edinburgh,Processing,Bank Transfer,2026-03-02
+897,539,2026-06-07,Manchester,Delivered,Card,2026-07-30
+898,329,2026-02-23,Birmingham,Returned,Card,2026-06-13
+899,695,2025-11-29,Birmingham,Processing,Bank Transfer,2026-07-03
+900,934,2025-09-14,London,Returned,Bank Transfer,2025-10-24
+901,29,2025-11-10,Edinburgh,Returned,Bank Transfer,2026-04-21
+902,853,2025-09-19,Edinburgh,Cancelled,PayPal,2026-03-07
+903,156,2025-07-30,London,Cancelled,Card,2026-04-12
+904,840,2025-07-14,Birmingham,Returned,Card,2026-04-06
+905,935,2026-05-18,Manchester,Processing,Card,2026-07-08
+906,762,2025-07-14,Manchester,Delivered,Card,2025-08-25
+907,949,2026-01-14,Manchester,Processing,Card,2026-07-18
+908,96,2025-11-18,London,Cancelled,Bank Transfer,2026-04-08
+909,580,2025-08-10,Birmingham,Returned,PayPal,2026-03-04
+910,579,2025-08-18,Edinburgh,Cancelled,Card,2025-10-13
+911,799,2025-07-24,Manchester,Processing,PayPal,2026-05-08
+912,407,2025-06-30,Manchester,Cancelled,PayPal,2026-06-01
+913,431,2026-02-11,Manchester,Cancelled,PayPal,2026-03-13
+914,76,2025-10-24,Birmingham,Processing,Bank Transfer,2026-02-22
+915,184,2026-03-23,Edinburgh,Processing,Card,2026-06-02
+916,896,2025-10-22,Birmingham,Returned,Card,2026-06-19
+917,934,2026-01-16,London,Delivered,PayPal,2026-05-17
+918,277,2025-08-14,Manchester,Delivered,Bank Transfer,2025-12-13
+919,409,2026-01-16,Manchester,Processing,PayPal,2026-05-09
+920,823,2026-03-05,Birmingham,Returned,Card,2026-04-05
+921,824,2025-08-28,Birmingham,Returned,PayPal,2026-05-07
+922,569,2026-06-16,Manchester,Returned,Bank Transfer,2026-07-27
+923,88,2026-05-21,Edinburgh,Processing,Card,2026-07-27
+924,878,2025-07-12,London,Delivered,Card,2026-05-21
+925,951,2025-10-31,Edinburgh,Processing,PayPal,2025-11-11
+926,387,2026-05-03,Birmingham,Cancelled,PayPal,2026-06-04
+927,598,2025-11-14,Edinburgh,Returned,Card,2025-12-18
+928,938,2026-02-16,Birmingham,Processing,Card,2026-03-03
+929,1000,2026-05-20,Manchester,Processing,PayPal,2026-07-11
+930,73,2026-05-06,Edinburgh,Processing,Bank Transfer,2026-06-11
+931,236,2025-08-13,Manchester,Processing,Bank Transfer,2025-09-24
+932,390,2026-04-01,Birmingham,Processing,PayPal,2026-07-05
+933,310,2025-08-25,Manchester,Cancelled,Card,2025-09-11
+934,962,2026-06-27,London,Processing,Bank Transfer,2026-07-21
+935,727,2025-08-16,Edinburgh,Delivered,Card,2026-03-08
+936,635,2025-09-11,London,Delivered,Bank Transfer,2026-07-01
+937,955,2025-12-12,Manchester,Delivered,Bank Transfer,2025-12-21
+938,827,2026-06-12,Edinburgh,Cancelled,Card,2026-07-17
+939,145,2026-05-13,Edinburgh,Returned,Card,2026-05-30
+940,379,2026-01-26,Manchester,Delivered,PayPal,2026-04-21
+941,492,2026-04-07,Edinburgh,Processing,Bank Transfer,2026-05-08
+942,790,2025-09-21,Edinburgh,Returned,Card,2026-04-24
+943,651,2025-10-04,Edinburgh,Processing,Bank Transfer,2026-06-09
+944,225,2025-09-21,Edinburgh,Delivered,Bank Transfer,2025-10-19
+945,126,2025-08-04,Manchester,Returned,PayPal,2025-08-06
+946,944,2026-02-13,Manchester,Processing,Card,2026-04-22
+947,132,2026-01-27,Edinburgh,Delivered,Card,2026-02-10
+948,429,2025-07-25,London,Cancelled,Card,2025-09-03
+949,621,2025-10-29,Manchester,Returned,Card,2025-12-30
+950,456,2026-01-27,Birmingham,Processing,Card,2026-05-18
+951,240,2026-03-23,Birmingham,Processing,Card,2026-06-17
+952,265,2026-02-21,Edinburgh,Returned,Card,2026-03-10
+953,851,2026-05-27,Birmingham,Cancelled,Bank Transfer,2026-06-27
+954,181,2025-10-16,London,Processing,Card,2025-11-21
+955,604,2025-12-17,London,Processing,PayPal,2026-05-12
+956,932,2026-06-24,London,Delivered,Card,2026-07-08
+957,731,2025-09-04,Edinburgh,Returned,Card,2026-01-07
+958,1000,2026-04-15,Manchester,Processing,PayPal,2026-06-24
+959,781,2025-12-04,Edinburgh,Delivered,Bank Transfer,2026-06-27
+960,64,2026-06-03,Edinburgh,Cancelled,Bank Transfer,2026-07-30
+961,591,2026-05-20,Birmingham,Cancelled,Bank Transfer,2026-05-28
+962,584,2025-08-28,London,Cancelled,Bank Transfer,2025-09-29
+963,264,2025-10-25,Edinburgh,Cancelled,PayPal,2026-03-24
+964,612,2025-11-17,Edinburgh,Delivered,PayPal,2026-03-07
+965,441,2026-04-20,Edinburgh,Delivered,Card,2026-05-17
+966,800,2025-07-11,Edinburgh,Processing,PayPal,2026-04-15
+967,564,2026-04-07,London,Processing,Bank Transfer,2026-07-15
+968,604,2026-04-25,Birmingham,Returned,Card,2026-06-25
+969,855,2026-03-21,Birmingham,Delivered,Bank Transfer,2026-04-25
+970,340,2026-03-03,London,Cancelled,Bank Transfer,2026-03-16
+971,998,2025-08-26,Edinburgh,Processing,Card,2026-05-17
+972,924,2026-02-24,Edinburgh,Processing,Card,2026-03-31
+973,684,2025-12-15,London,Returned,Bank Transfer,2025-12-27
+974,331,2026-01-21,Manchester,Processing,Card,2026-05-28
+975,617,2025-12-29,Manchester,Processing,Bank Transfer,2026-06-29
+976,253,2026-03-08,Birmingham,Delivered,Card,2026-06-20
+977,51,2025-07-18,Birmingham,Returned,Bank Transfer,2026-05-03
+978,616,2026-04-03,Edinburgh,Delivered,Card,2026-07-16
+979,321,2026-01-11,Edinburgh,Returned,PayPal,2026-07-22
+980,322,2026-01-23,Birmingham,Cancelled,PayPal,2026-04-20
+981,358,2026-06-04,Birmingham,Processing,Card,2026-07-19
+982,278,2026-03-20,Edinburgh,Returned,Bank Transfer,2026-06-10
+983,18,2025-08-16,Edinburgh,Returned,PayPal,2025-09-20
+984,619,2025-07-12,London,Delivered,Bank Transfer,2026-07-05
+985,941,2026-05-27,Edinburgh,Processing,Card,2026-07-11
+986,810,2026-02-24,Birmingham,Cancelled,PayPal,2026-06-29
+987,887,2026-04-07,Manchester,Delivered,Card,2026-07-11
+988,439,2025-10-27,Birmingham,Delivered,Card,2025-11-12
+989,137,2026-04-17,Edinburgh,Cancelled,Card,2026-05-15
+990,103,2025-10-29,Edinburgh,Returned,Card,2026-05-24
+991,272,2025-11-17,Manchester,Processing,Card,2025-11-20
+992,630,2026-04-06,Manchester,Processing,Bank Transfer,2026-05-04
+993,541,2026-06-19,London,Cancelled,PayPal,2026-06-29
+994,327,2025-12-01,Birmingham,Delivered,Card,2026-06-30
+995,658,2025-12-05,Manchester,Returned,Card,2025-12-27
+996,924,2025-10-25,Manchester,Cancelled,Bank Transfer,2026-07-19
+997,675,2025-11-23,Birmingham,Cancelled,Bank Transfer,2026-05-28
+998,741,2025-09-30,Manchester,Processing,PayPal,2026-07-09
+999,495,2025-10-28,Birmingham,Processing,PayPal,2026-02-17
+1000,403,2025-10-11,Edinburgh,Cancelled,Bank Transfer,2025-10-16

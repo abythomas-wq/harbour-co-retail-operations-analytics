@@ -1,21 +1,21 @@
 supplier_id,supplier_name,country,category,lead_time_days,supplier_rating
-1,Blevins PLC,Saint Helena,Electronics,15,3.2
-2,Carter Ltd,Israel,Electronics,8,4.3
-3,Anderson Inc,Palestinian Territory,Office Supplies,3,3.9
-4,Garza-Flores,Fiji,Fitness,3,4.4
-5,Brown and Sons,Western Sahara,Office Supplies,7,3.3
-6,French LLC,Zambia,Fitness,12,3.8
-7,Henderson-Gomez,Tunisia,Accessories,14,4.2
-8,"Johnson, Parker and Rodriguez",Ghana,Accessories,9,3.8
-9,Davis Inc,Iran,Accessories,10,4.9
-10,"Alvarado, Johnson and Leon",Azerbaijan,Fitness,13,4.5
-11,Delacruz LLC,Sao Tome and Principe,Accessories,2,4.2
-12,Griffin-Patterson,Iraq,Fitness,12,3.9
-13,"Chavez, Ward and Jacobs",Tunisia,Fitness,9,3.4
-14,Fuller-Pearson,Saint Helena,Accessories,5,4.2
-15,"Baker, Campos and Casey",North Macedonia,Office Supplies,7,3.8
-16,Mcdonald-Anthony,Papua New Guinea,Accessories,15,3.4
-17,Walker-Smith,Greenland,Office Supplies,8,3.9
-18,"Donovan, Gonzales and Chen",Honduras,Accessories,4,3.3
-19,"Ramirez, Meyer and Moyer",Andorra,Electronics,14,4.7
-20,Taylor-Bryant,Tajikistan,Home & Kitchen,7,3.1
+1,King PLC,Cote d'Ivoire,Fitness,4,3.4
+2,"Mcgee, Macdonald and Nichols",Poland,Accessories,5,4.6
+3,Alexander and Sons,Cyprus,Accessories,5,3.6
+4,Jones-Powell,Czech Republic,Fitness,12,4.9
+5,"Williams, Bowman and Walker",Sierra Leone,Electronics,4,4.6
+6,Herrera Inc,Congo,Office Supplies,10,4.7
+7,"Hunt, Brennan and Harrison",Timor-Leste,Home & Kitchen,15,4.4
+8,Moon Group,Suriname,Accessories,3,3.4
+9,Gray PLC,Jamaica,Home & Kitchen,6,4.8
+10,"Leon, Robinson and Solis",Cocos (Keeling) Islands,Accessories,13,4.9
+11,"Garrison, Williams and Carlson",Italy,Fitness,12,3.4
+12,Young-Figueroa,Namibia,Electronics,3,3.8
+13,"Palmer, Rodriguez and Wall",Grenada,Electronics,14,3.4
+14,"Padilla, Simmons and Gardner",Gambia,Accessories,13,4.7
+15,"Duran, Huff and Casey",Haiti,Accessories,5,3.8
+16,Munoz PLC,Montserrat,Accessories,3,4.0
+17,"Dickerson, Chapman and Brown",Uruguay,Home & Kitchen,10,4.2
+18,Goodwin-Sexton,Colombia,Office Supplies,10,4.9
+19,Sloan and Sons,San Marino,Electronics,9,3.2
+20,Pitts Group,Kenya,Home & Kitchen,9,4.9
