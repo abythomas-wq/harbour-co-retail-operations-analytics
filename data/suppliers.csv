@@ -1,0 +1,21 @@
+supplier_id,supplier_name,country,category,lead_time_days,supplier_rating
+1,Blevins PLC,Saint Helena,Electronics,15,3.2
+2,Carter Ltd,Israel,Electronics,8,4.3
+3,Anderson Inc,Palestinian Territory,Office Supplies,3,3.9
+4,Garza-Flores,Fiji,Fitness,3,4.4
+5,Brown and Sons,Western Sahara,Office Supplies,7,3.3
+6,French LLC,Zambia,Fitness,12,3.8
+7,Henderson-Gomez,Tunisia,Accessories,14,4.2
+8,"Johnson, Parker and Rodriguez",Ghana,Accessories,9,3.8
+9,Davis Inc,Iran,Accessories,10,4.9
+10,"Alvarado, Johnson and Leon",Azerbaijan,Fitness,13,4.5
+11,Delacruz LLC,Sao Tome and Principe,Accessories,2,4.2
+12,Griffin-Patterson,Iraq,Fitness,12,3.9
+13,"Chavez, Ward and Jacobs",Tunisia,Fitness,9,3.4
+14,Fuller-Pearson,Saint Helena,Accessories,5,4.2
+15,"Baker, Campos and Casey",North Macedonia,Office Supplies,7,3.8
+16,Mcdonald-Anthony,Papua New Guinea,Accessories,15,3.4
+17,Walker-Smith,Greenland,Office Supplies,8,3.9
+18,"Donovan, Gonzales and Chen",Honduras,Accessories,4,3.3
+19,"Ramirez, Meyer and Moyer",Andorra,Electronics,14,4.7
+20,Taylor-Bryant,Tajikistan,Home & Kitchen,7,3.1
