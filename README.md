@@ -29,6 +29,12 @@ This project addresses these challenges by building a unified analytical system.
 
 Data Source & Database Design
 
+A relational database was designed to support end-to-end analysis of customer orders, products, warehouses, and fulfilment operations.
+
+### Entity Relationship Diagram
+
+[Entity Relationship Diagram](images/swiftfulfill_ERD.png)
+
 A relational database was designed to simulate a fulfilment ecosystem.
 
 Core Design Principles
