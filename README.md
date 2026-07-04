@@ -4,6 +4,11 @@ End-to-End Data Analytics System for Business Performance & Fulfilment Optimisat
 
 Executive Summary
 
+The dashboard below provides an executive overview of the key business performance indicators developed during this project.
+![Executive Dashboard](dashboards/executive_dashboard.png)
+**Download the full Executive Summary:**  
+[Executive Summary (PDF)](docs/executive_summary.pdf)
+
 This project simulates a real-world fulfilment and retail operations environment, designed to demonstrate an end-to-end analytics workflow from raw relational data to actionable business insights.
 
 A structured SQL database was developed to model customers, orders, products, warehouses, and shipments. This was then analysed using SQL and Python to generate performance metrics, identify operational trends, and build a dashboard for decision-making.
