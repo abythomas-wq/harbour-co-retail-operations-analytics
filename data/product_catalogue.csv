@@ -1,0 +1,201 @@
+product_id,product_name,category
+1,OfficeCore A4 Copy Paper Box,Office Supplies
+2,ErgoFlex Executive Office Chair,Office Supplies
+3,ProDesk Wireless Keyboard,Office Supplies
+4,ProDesk Wireless Mouse,Office Supplies
+5,OfficeMate Desktop Organiser,Office Supplies
+6,ClearView Whiteboard Marker Pack,Office Supplies
+7,OfficeCore Document Folder Set,Office Supplies
+8,ProWrite Executive Notebook,Office Supplies
+9,OfficeCore Filing Cabinet,Office Supplies
+10,ErgoFlex Standing Desk Converter,Office Supplies
+11,SecureStore Archive Box,Office Supplies
+12,ProPrint Toner Cartridge,Office Supplies
+13,OfficeMate Stapler Kit,Office Supplies
+14,ClearView Presentation Folder,Office Supplies
+15,OfficeCore Envelope Pack,Office Supplies
+16,ProWrite Ballpoint Pen Set,Office Supplies
+17,OfficeMate Desk Lamp,Office Supplies
+18,ErgoFlex Monitor Stand,Office Supplies
+19,SecureStore Document Wallet,Office Supplies
+20,OfficeCore Label Printer,Office Supplies
+21,ProTech USB Office Hub,Office Supplies
+22,OfficeMate Calculator,Office Supplies
+23,ClearView Notice Board,Office Supplies
+24,OfficeCore Paper Shredder,Office Supplies
+25,ErgoFlex Foot Rest,Office Supplies
+26,ProDesk Laptop Stand,Office Supplies
+27,OfficeMate Visitor Register,Office Supplies
+28,SecureStore Storage Tray,Office Supplies
+29,ProWrite Highlighter Set,Office Supplies
+30,OfficeCore Clipboard Set,Office Supplies
+31,ProPrint Ink Cartridge,Office Supplies
+32,OfficeMate Desk Calendar,Office Supplies
+33,ErgoFlex Keyboard Tray,Office Supplies
+34,SecureStore Lockable Drawer,Office Supplies
+35,ClearView Magnetic Whiteboard,Office Supplies
+36,OfficeCore Receipt Book,Office Supplies
+37,ProWrite Marker Set,Office Supplies
+38,OfficeMate Mail Sorter,Office Supplies
+39,ProDesk Conference Speaker,Office Supplies
+40,SecureStore ID Card Holder Pack,Office Supplies
+41,OfficeCore Binding Machine,Office Supplies
+42,ProPrint Laminating Pouch Pack,Office Supplies
+43,ErgoFlex Office Footrest,Office Supplies
+44,OfficeMate Paper Cutter,Office Supplies
+45,ProTech Webcam,Office Supplies
+46,OfficeCore Meeting Notebook,Office Supplies
+47,SecureStore Storage Labels,Office Supplies
+48,ClearView Flip Chart Stand,Office Supplies
+49,ProWrite Sticky Note Pack,Office Supplies
+50,OfficeMate Desktop Clock,Office Supplies
+51,ProDesk Cable Management Kit,Office Supplies
+52,OfficeCore Printer Stand,Office Supplies
+53,SecureStore Security File Box,Office Supplies
+54,ProTech Business Laptop Stand,Electronics
+55,SecureConnect USB-C Docking Station,Electronics
+56,VisionPro Conference Webcam,Electronics
+57,NetLink Enterprise Network Switch,Electronics
+58,ProTech Wireless Presentation Remote,Electronics
+59,SecureScan Barcode Scanner,Electronics
+60,VisionPro LED Business Monitor,Electronics
+61,ProTech Bluetooth Conference Speaker,Electronics
+62,ConnectPlus HDMI Adapter,Electronics
+63,NetLink Wireless Router,Electronics
+64,ProTech External Hard Drive,Electronics
+65,VisionPro Document Scanner,Electronics
+66,SecureConnect USB Hub,Electronics
+67,ProTech Business Tablet Stand,Electronics
+68,NetLink Ethernet Cable Pack,Electronics
+69,VisionPro Desktop Webcam,Electronics
+70,ProTech Noise Cancelling Headset,Electronics
+71,SecureConnect Power Adapter,Electronics
+72,NetLink Network Cable Tester,Electronics
+73,VisionPro Digital Display Panel,Electronics
+74,ProTech Wireless Presenter,Electronics
+75,SecureScan QR Code Scanner,Electronics
+76,ConnectPlus Charging Station,Electronics
+77,NetLink Office Access Point,Electronics
+78,VisionPro Interactive Display,Electronics
+79,ProTech Smart Card Reader,Electronics
+80,SecureConnect Laptop Charger,Electronics
+81,VisionPro Portable Projector,Electronics
+82,NetLink Server Rack Accessory,Electronics
+83,ProTech External SSD Drive,Electronics
+84,ConnectPlus Cable Adapter Kit,Electronics
+85,SecureScan Inventory Scanner,Electronics
+86,VisionPro Conference Microphone,Electronics
+87,ActiveCore Commercial Yoga Mat,Fitness
+88,PowerFlex Adjustable Dumbbell Set,Fitness
+89,ProFit Resistance Training Kit,Fitness
+90,ActiveCore Performance Running Shoes,Fitness
+91,PowerFlex Kettlebell Set,Fitness
+92,FitPro Exercise Resistance Bands,Fitness
+93,ActiveCore Foam Roller,Fitness
+94,PowerFlex Weight Training Bench,Fitness
+95,FitPro Fitness Tracker,Fitness
+96,ActiveCore Sports Water Bottle,Fitness
+97,PowerFlex Olympic Barbell Set,Fitness
+98,FitPro Training Gloves,Fitness
+99,ActiveCore Balance Board,Fitness
+100,PowerFlex Adjustable Weight Plates,Fitness
+101,FitPro Gym Storage Rack,Fitness
+102,ActiveCore Exercise Bike,Fitness
+103,PowerFlex Commercial Treadmill,Fitness
+104,FitPro Skipping Rope Set,Fitness
+105,ActiveCore Pilates Mat,Fitness
+106,PowerFlex Strength Training Machine,Fitness
+107,FitPro Fitness Ball,Fitness
+108,ActiveCore Workout Bench,Fitness
+109,PowerFlex Medicine Ball Set,Fitness
+110,FitPro Speed Ladder,Fitness
+111,ActiveCore Resistance Loop Bands,Fitness
+112,PowerFlex Pull Up Bar,Fitness
+113,FitPro Agility Training Kit,Fitness
+114,ActiveCore Heart Rate Monitor,Fitness
+115,PowerFlex Rowing Machine,Fitness
+116,FitPro Balance Trainer,Fitness
+117,ActiveCore Gym Flooring Tiles,Fitness
+118,PowerFlex Boxing Training Bag,Fitness
+119,FitPro Ankle Weight Set,Fitness
+120,ActiveCore Wrist Support Band,Fitness
+121,PowerFlex Foam Exercise Block,Fitness
+122,FitPro Stretching Strap,Fitness
+123,ActiveCore Recovery Massage Gun,Fitness
+124,PowerFlex Fitness Step Platform,Fitness
+125,FitPro Sports Towel Pack,Fitness
+126,ActiveCore Exercise Mat Set,Fitness
+127,PowerFlex Adjustable Bench System,Fitness
+128,FitPro Hand Grip Strengthener,Fitness
+129,ActiveCore Gym Equipment Storage,Fitness
+130,PowerFlex Commercial Elliptical Trainer,Fitness
+131,FitPro Training Cone Set,Fitness
+132,SecureCarry Business Laptop Sleeve,Accessories
+133,ProTech Cable Management Kit,Accessories
+134,OfficeSafe ID Card Holder Pack,Accessories
+135,ActiveCore Sports Backpack,Accessories
+136,ConnectPlus USB Cable Pack,Accessories
+137,SecureStore Storage Labels,Accessories
+138,ProTech Wireless Charger,Accessories
+139,VisionPro Screen Cleaning Kit,Accessories
+140,OfficeMate Desk Organiser Set,Accessories
+141,SecureCarry Executive Briefcase,Accessories
+142,ConnectPlus Adapter Collection,Accessories
+143,ProTech Portable Power Bank,Accessories
+144,OfficeSafe Key Storage Box,Accessories
+145,ActiveCore Fitness Accessories Kit,Accessories
+146,SecureCarry Travel Laptop Bag,Accessories
+147,ProTech Bluetooth Adapter,Accessories
+148,ConnectPlus Multi-Port Hub,Accessories
+149,OfficeMate Desk Accessory Set,Accessories
+150,SecureStore Filing Labels,Accessories
+151,VisionPro Monitor Cleaning Cloth,Accessories
+152,ProTech Rechargeable Battery Pack,Accessories
+153,OfficeSafe Visitor Badge Pack,Accessories
+154,SecureCarry Protective Laptop Case,Accessories
+155,ConnectPlus Charging Cable Set,Accessories
+156,ActiveCore Training Accessory Pack,Accessories
+157,OfficeMate Pen Holder,Accessories
+158,SecureStore Storage Bins,Accessories
+159,ProTech Wireless Adapter,Accessories
+160,VisionPro Webcam Privacy Cover,Accessories
+161,SecureCarry Document Bag,Accessories
+162,ConnectPlus Display Cable Kit,Accessories
+163,OfficeSafe Security Tags,Accessories
+164,ProTech Device Stand,Accessories
+165,ActiveCore Gym Carry Bag,Accessories
+166,OfficeMate Desk Mat,Accessories
+167,SecureStore Inventory Labels,Accessories
+168,ConnectPlus Connector Kit,Accessories
+169,ThermoCore Stainless Steel Bottle,Home & Kitchen
+170,KitchenPro Commercial Coffee Machine,Home & Kitchen
+171,HomeEase Food Storage Container Set,Home & Kitchen
+172,KitchenPro Electric Kettle,Home & Kitchen
+173,ThermoCore Insulated Beverage Flask,Home & Kitchen
+174,HomeEase Stainless Steel Lunch Box,Home & Kitchen
+175,KitchenPro Catering Tray Set,Home & Kitchen
+176,HomeEase Microwave Storage Set,Home & Kitchen
+177,KitchenPro Professional Knife Set,Home & Kitchen
+178,ThermoCore Travel Mug,Home & Kitchen
+179,HomeEase Kitchen Organiser,Home & Kitchen
+180,KitchenPro Food Preparation Board,Home & Kitchen
+181,HomeEase Cleaning Supply Kit,Home & Kitchen
+182,KitchenPro Commercial Blender,Home & Kitchen
+183,ThermoCore Water Dispenser,Home & Kitchen
+184,HomeEase Storage Basket Set,Home & Kitchen
+185,KitchenPro Serving Equipment Set,Home & Kitchen
+186,HomeEase Dining Cutlery Pack,Home & Kitchen
+187,ThermoCore Vacuum Flask,Home & Kitchen
+188,KitchenPro Dish Rack,Home & Kitchen
+189,HomeEase Kitchen Shelf Organiser,Home & Kitchen
+190,KitchenPro Baking Equipment Set,Home & Kitchen
+191,ThermoCore Beverage Container Set,Home & Kitchen
+192,HomeEase Waste Storage Bin,Home & Kitchen
+193,KitchenPro Measuring Tool Set,Home & Kitchen
+194,HomeEase Refrigerator Storage Pack,Home & Kitchen
+195,KitchenPro Restaurant Utensil Set,Home & Kitchen
+196,ThermoCore Food Transport Container,Home & Kitchen
+197,HomeEase Cleaning Equipment Pack,Home & Kitchen
+198,KitchenPro Stainless Steel Pan Set,Home & Kitchen
+199,ThermoCore Thermal Container,Home & Kitchen
+200,HomeEase Workplace Pantry Kit,Home & Kitchen

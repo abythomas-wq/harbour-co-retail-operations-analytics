@@ -1,0 +1,201 @@
+product_id,product_name,category,cost_price,selling_price,supplier_id
+1,Call Max,Fitness,94.06,187.42,15
+2,Ask Max,Office Supplies,22.11,32.54,17
+3,Base Max,Office Supplies,81.55,147.54,19
+4,Only Pro,Fitness,78.56,178.23,18
+5,Could Plus,Home & Kitchen,75.17,164.07,2
+6,Research Pro,Office Supplies,55.94,96.73,4
+7,Quite Standard,Office Supplies,87.83,211.83,10
+8,Like Pro,Accessories,27.73,48.01,14
+9,Ask Plus,Home & Kitchen,62.09,83.76,1
+10,Some Plus,Electronics,52.2,93.26,6
+11,Film Plus,Office Supplies,10.93,20.93,19
+12,Wall Max,Office Supplies,35.64,74.05,15
+13,Second Standard,Electronics,19.05,23.13,4
+14,Throw Standard,Fitness,16.56,25.52,2
+15,Whose Plus,Home & Kitchen,78.51,192.02,12
+16,Some Max,Electronics,24.82,49.55,12
+17,Past Pro,Home & Kitchen,77.68,172.64,14
+18,Police Standard,Electronics,64.93,123.15,17
+19,Occur Pro,Accessories,58.9,145.09,12
+20,Director Plus,Fitness,16.63,35.15,9
+21,Go Max,Office Supplies,23.08,47.0,12
+22,Quality Pro,Home & Kitchen,72.82,96.6,19
+23,Blood Standard,Accessories,65.08,159.59,18
+24,Himself Standard,Electronics,38.8,54.8,9
+25,Beyond Pro,Accessories,33.63,56.63,1
+26,Move Plus,Home & Kitchen,38.38,60.51,20
+27,Lawyer Max,Office Supplies,44.97,91.49,5
+28,Leg Standard,Office Supplies,80.66,100.22,6
+29,Size Standard,Electronics,9.44,21.4,15
+30,Former Pro,Accessories,61.82,136.03,18
+31,Whether Max,Electronics,99.65,232.16,14
+32,Five Standard,Accessories,28.86,56.43,14
+33,Bar Standard,Home & Kitchen,78.21,112.18,8
+34,First Plus,Fitness,64.93,100.33,8
+35,Serious Max,Fitness,9.67,13.55,7
+36,More Plus,Fitness,9.4,22.06,3
+37,Trade Standard,Office Supplies,49.58,88.06,3
+38,Alone Standard,Accessories,78.6,164.9,15
+39,Allow Max,Office Supplies,41.47,91.81,1
+40,Even Max,Electronics,85.16,142.68,16
+41,Blue Max,Fitness,7.78,15.2,20
+42,Everything Standard,Electronics,19.34,29.21,6
+43,Animal Max,Office Supplies,51.98,88.54,2
+44,A Plus,Office Supplies,12.71,28.53,6
+45,Down Pro,Accessories,20.56,44.51,19
+46,Pass Pro,Electronics,33.8,43.98,6
+47,Bag Plus,Home & Kitchen,86.84,133.43,5
+48,Apply Max,Accessories,92.89,205.49,18
+49,Then Max,Office Supplies,91.48,163.21,16
+50,Future Pro,Fitness,48.98,106.15,15
+51,Here Standard,Fitness,55.46,78.21,14
+52,Style Max,Electronics,85.33,180.83,15
+53,Give Max,Electronics,93.71,120.05,2
+54,Allow Standard,Fitness,22.02,44.3,2
+55,Usually Pro,Electronics,8.91,11.49,6
+56,Guy Pro,Fitness,78.99,121.72,2
+57,Economic Standard,Accessories,48.6,94.61,4
+58,Food Plus,Fitness,15.79,31.02,6
+59,Pm Plus,Fitness,95.5,145.55,3
+60,Spend Plus,Office Supplies,43.72,87.91,3
+61,Media Max,Office Supplies,81.93,110.18,11
+62,Charge Plus,Home & Kitchen,97.73,208.89,17
+63,Consumer Standard,Fitness,56.28,130.9,4
+64,Section Pro,Office Supplies,21.42,29.77,12
+65,Tonight Plus,Fitness,56.08,104.97,5
+66,Coach Max,Office Supplies,82.74,182.24,18
+67,Leader Max,Accessories,18.3,34.52,13
+68,And Standard,Home & Kitchen,47.76,110.39,4
+69,Level Max,Fitness,81.64,200.79,6
+70,Color Plus,Electronics,48.74,80.19,5
+71,These Pro,Accessories,28.96,47.6,20
+72,Best Pro,Office Supplies,92.86,170.93,10
+73,Prepare Standard,Office Supplies,33.98,41.84,12
+74,Safe Standard,Home & Kitchen,74.13,153.7,9
+75,Want Standard,Home & Kitchen,90.77,186.02,5
+76,At Standard,Office Supplies,94.8,162.74,16
+77,Research Pro,Accessories,71.36,126.99,16
+78,None Pro,Electronics,23.44,40.48,5
+79,Knowledge Plus,Home & Kitchen,42.08,55.94,5
+80,War Standard,Accessories,46.2,76.64,11
+81,Executive Standard,Home & Kitchen,26.03,61.18,12
+82,Current Max,Accessories,85.47,152.74,1
+83,Popular Plus,Fitness,61.77,104.86,3
+84,North Pro,Fitness,48.1,95.29,15
+85,Data Plus,Fitness,45.46,108.03,8
+86,Cause Plus,Home & Kitchen,5.12,12.58,16
+87,Three Max,Home & Kitchen,88.85,199.93,9
+88,Really Pro,Home & Kitchen,53.28,90.72,1
+89,Learn Standard,Office Supplies,76.77,162.36,2
+90,Eat Max,Home & Kitchen,39.33,96.24,10
+91,Chance Max,Office Supplies,31.77,60.76,1
+92,Evidence Max,Electronics,75.9,144.05,16
+93,Eye Max,Electronics,28.41,34.85,11
+94,Natural Pro,Accessories,81.17,113.91,1
+95,May Plus,Office Supplies,87.99,139.87,3
+96,Power Plus,Accessories,48.45,60.09,20
+97,Spring Max,Fitness,73.2,95.0,13
+98,Style Standard,Fitness,26.13,51.65,18
+99,Phone Plus,Home & Kitchen,21.3,29.31,19
+100,Window Plus,Office Supplies,23.25,47.81,6
+101,Particular Plus,Office Supplies,6.86,10.52,18
+102,Friend Max,Electronics,48.18,111.76,6
+103,Indeed Pro,Fitness,16.9,27.8,6
+104,Three Pro,Home & Kitchen,79.89,141.79,16
+105,Image Pro,Accessories,12.4,30.18,16
+106,Generation Standard,Office Supplies,98.54,165.17,18
+107,Home Pro,Office Supplies,11.07,15.48,8
+108,Claim Pro,Office Supplies,69.25,106.1,2
+109,Measure Pro,Fitness,63.37,110.41,14
+110,Staff Max,Home & Kitchen,15.04,27.61,4
+111,Picture Standard,Office Supplies,93.36,117.05,11
+112,Drop Pro,Office Supplies,59.0,73.34,6
+113,Pattern Pro,Accessories,80.06,193.35,17
+114,Claim Pro,Office Supplies,79.25,194.05,9
+115,Though Pro,Electronics,32.01,61.32,19
+116,Though Max,Accessories,67.85,88.96,17
+117,Cup Standard,Accessories,22.86,27.94,7
+118,Population Pro,Office Supplies,94.15,126.16,12
+119,Any Pro,Accessories,65.65,148.77,9
+120,Case Standard,Fitness,16.18,37.22,4
+121,Wrong Pro,Office Supplies,95.3,171.87,12
+122,Economic Max,Office Supplies,17.52,24.18,7
+123,Have Standard,Accessories,60.05,87.71,4
+124,Person Pro,Fitness,90.21,212.13,6
+125,Because Max,Fitness,12.42,25.33,19
+126,Tough Max,Fitness,13.11,30.56,18
+127,Job Plus,Fitness,47.04,112.64,5
+128,Day Pro,Office Supplies,29.56,45.57,1
+129,Young Pro,Accessories,31.01,76.93,5
+130,Without Standard,Home & Kitchen,33.28,69.28,20
+131,Model Pro,Accessories,14.52,26.77,2
+132,Speech Plus,Accessories,48.21,90.86,4
+133,Choose Pro,Electronics,53.75,92.37,2
+134,We Pro,Accessories,41.35,82.04,9
+135,Finally Plus,Electronics,56.81,117.24,15
+136,Very Pro,Electronics,40.15,50.16,16
+137,Along Plus,Fitness,93.1,134.03,20
+138,Interview Plus,Electronics,41.42,74.27,11
+139,War Max,Office Supplies,64.49,93.07,3
+140,Necessary Standard,Fitness,12.91,24.8,4
+141,Because Pro,Home & Kitchen,52.18,129.26,4
+142,Wind Standard,Fitness,89.06,112.47,20
+143,Son Pro,Fitness,68.83,102.97,13
+144,Success Plus,Fitness,63.04,122.03,2
+145,Church Pro,Office Supplies,29.64,48.62,1
+146,Street Standard,Electronics,76.48,139.83,18
+147,Trade Plus,Fitness,40.48,95.3,6
+148,Affect Plus,Fitness,80.09,104.87,20
+149,Gun Pro,Office Supplies,25.46,54.33,7
+150,Relationship Pro,Electronics,88.66,118.0,4
+151,Simple Max,Accessories,95.38,187.65,7
+152,Less Standard,Fitness,16.56,38.46,15
+153,Nor Standard,Fitness,75.47,152.47,9
+154,Throughout Max,Accessories,43.0,69.53,8
+155,Management Standard,Office Supplies,38.52,55.65,3
+156,Painting Plus,Electronics,33.89,79.73,10
+157,True Pro,Electronics,52.49,67.6,14
+158,Sport Standard,Office Supplies,99.45,153.29,4
+159,Drive Plus,Office Supplies,66.36,140.44,20
+160,Senior Pro,Electronics,70.19,144.72,18
+161,Really Standard,Electronics,66.16,133.85,7
+162,Itself Plus,Accessories,97.98,123.01,6
+163,Dark Plus,Accessories,37.64,68.87,19
+164,Then Plus,Accessories,84.74,149.69,15
+165,Method Max,Office Supplies,80.46,118.24,13
+166,Fact Max,Accessories,82.7,141.83,9
+167,Its Plus,Electronics,18.8,43.29,16
+168,Compare Max,Office Supplies,21.78,50.16,2
+169,Bed Standard,Home & Kitchen,42.01,104.93,12
+170,Level Pro,Home & Kitchen,44.29,63.45,12
+171,Place Standard,Fitness,25.88,50.58,11
+172,Others Max,Office Supplies,28.64,42.61,19
+173,Will Plus,Office Supplies,26.77,57.12,18
+174,Which Max,Electronics,86.58,165.15,11
+175,Single Max,Electronics,90.22,112.17,14
+176,Better Max,Fitness,6.65,12.2,19
+177,Plant Max,Home & Kitchen,32.05,59.45,15
+178,Rock Standard,Accessories,33.95,63.13,3
+179,Impact Plus,Fitness,8.81,17.54,5
+180,Hit Max,Office Supplies,36.66,50.92,4
+181,Enjoy Pro,Accessories,33.36,48.8,19
+182,Morning Standard,Home & Kitchen,91.33,207.37,3
+183,By Standard,Electronics,32.9,63.51,5
+184,Evidence Plus,Office Supplies,52.21,89.37,13
+185,Despite Plus,Home & Kitchen,50.36,121.77,6
+186,Relate Plus,Office Supplies,43.17,91.12,1
+187,Report Max,Home & Kitchen,57.26,135.51,9
+188,Soldier Standard,Fitness,44.53,98.91,10
+189,To Plus,Office Supplies,66.32,163.8,7
+190,Call Pro,Office Supplies,65.63,124.93,13
+191,Line Pro,Accessories,72.05,101.23,10
+192,My Plus,Office Supplies,38.64,66.07,11
+193,Party Pro,Home & Kitchen,26.02,51.01,17
+194,There Standard,Accessories,68.03,164.94,5
+195,Chance Pro,Office Supplies,15.66,29.46,1
+196,Only Pro,Home & Kitchen,89.48,156.33,13
+197,Garden Pro,Home & Kitchen,96.04,220.06,10
+198,Down Pro,Fitness,74.49,131.96,9
+199,Four Standard,Fitness,66.46,87.55,16
+200,Nearly Pro,Fitness,74.75,131.67,9

@@ -1,21 +1,21 @@
 supplier_id,supplier_name,country,category,lead_time_days,supplier_rating
-1,King PLC,Cote d'Ivoire,Fitness,4,3.4
-2,"Mcgee, Macdonald and Nichols",Poland,Accessories,5,4.6
-3,Alexander and Sons,Cyprus,Accessories,5,3.6
-4,Jones-Powell,Czech Republic,Fitness,12,4.9
-5,"Williams, Bowman and Walker",Sierra Leone,Electronics,4,4.6
-6,Herrera Inc,Congo,Office Supplies,10,4.7
-7,"Hunt, Brennan and Harrison",Timor-Leste,Home & Kitchen,15,4.4
-8,Moon Group,Suriname,Accessories,3,3.4
-9,Gray PLC,Jamaica,Home & Kitchen,6,4.8
-10,"Leon, Robinson and Solis",Cocos (Keeling) Islands,Accessories,13,4.9
-11,"Garrison, Williams and Carlson",Italy,Fitness,12,3.4
-12,Young-Figueroa,Namibia,Electronics,3,3.8
-13,"Palmer, Rodriguez and Wall",Grenada,Electronics,14,3.4
-14,"Padilla, Simmons and Gardner",Gambia,Accessories,13,4.7
-15,"Duran, Huff and Casey",Haiti,Accessories,5,3.8
-16,Munoz PLC,Montserrat,Accessories,3,4.0
-17,"Dickerson, Chapman and Brown",Uruguay,Home & Kitchen,10,4.2
-18,Goodwin-Sexton,Colombia,Office Supplies,10,4.9
-19,Sloan and Sons,San Marino,Electronics,9,3.2
-20,Pitts Group,Kenya,Home & Kitchen,9,4.9
+1,Jones Ltd,Lesotho,Office Supplies,6,4.5
+2,Jones and Sons,Kenya,Office Supplies,11,4.1
+3,"Morgan, Velez and Reese",Myanmar,Office Supplies,10,4.5
+4,"Morrison, Costa and Cooper",Lithuania,Office Supplies,5,4.5
+5,George Ltd,French Polynesia,Office Supplies,5,4.6
+6,Thomas-Jackson,Cook Islands,Office Supplies,12,4.5
+7,"Lee, Morris and Lee",Tuvalu,Office Supplies,2,4.4
+8,Andrews-Collins,Argentina,Office Supplies,6,3.8
+9,Mann-Lozano,Moldova,Office Supplies,10,4.1
+10,Conley-Smith,Brunei Darussalam,Office Supplies,7,4.5
+11,"Henson, Weiss and Smith",Antigua and Barbuda,Office Supplies,15,4.2
+12,Schultz-Curtis,Papua New Guinea,Office Supplies,9,4.0
+13,Watson-Payne,Ecuador,Office Supplies,15,3.1
+14,"Brooks, Washington and Jordan",Chile,Office Supplies,9,5.0
+15,"Bell, Hooper and Ingram",Northern Mariana Islands,Office Supplies,11,4.2
+16,"Garcia, Thomas and Wagner",Bolivia,Office Supplies,12,4.3
+17,"Brooks, Henry and Hunt",Malawi,Office Supplies,7,3.3
+18,Cowan Group,United Kingdom,Office Supplies,4,3.0
+19,Romero-Stewart,Martinique,Office Supplies,14,4.7
+20,"Oneill, Perez and Torres",Djibouti,Office Supplies,2,4.5

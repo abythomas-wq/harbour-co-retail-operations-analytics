@@ -1,6 +1,9 @@
 import pandas as pd
 import numpy as np
 from faker import Faker
+product_catalogue = pd.read_csv(
+    "data/product_catalogue.csv"
+)
 import random
 from datetime import date, timedelta
 
@@ -70,16 +73,7 @@ print("Customers dataset created successfully!")
 print(customers_df.head())
 
 # Generate Products Dataset
-
 products = []
-
-categories = [
-    "Electronics",
-    "Home & Kitchen",
-    "Office Supplies",
-    "Fitness",
-    "Accessories"
-]
 
 for i in range(1, 201):
     
@@ -88,13 +82,8 @@ for i in range(1, 201):
 
     products.append({
         "product_id": i,
-        "product_name": fake.word().title() + " " + random.choice([
-            "Pro",
-            "Plus",
-            "Max",
-            "Standard"
-        ]),
-        "category": random.choice(categories),
+        "product_name": product_catalogue.loc[i-1, "product_name"],       
+        "category": product_catalogue.loc[i-1, "category"],
         "cost_price": cost_price,
         "selling_price": selling_price,
         "supplier_id": random.randint(1, 20)
@@ -126,7 +115,7 @@ for i in range(1, 21):
         "supplier_id": i,
         "supplier_name": fake.company(),
         "country": fake.country(),
-        "category": random.choice(supplier_categories),
+        "category": product_catalogue.loc[i-1, "category"],
         "lead_time_days": random.randint(2, 15),
         "supplier_rating": round(random.uniform(3, 5), 1)
     })
@@ -141,87 +130,271 @@ suppliers_df.to_csv(
 
 print("Suppliers dataset created successfully!")
 print(suppliers_df.head())
-# Generate Orders Dataset
+
+# =========================
+# SEGMENT CONFIGURATION (REALISTIC VERSION)
+# =========================
+
+segment_product_bias = {
+    "Standard": (5, 70),
+    "Premium": (60, 140),
+    "Enterprise": (120, 300)
+}
+
+segment_config = {
+    "Standard": {
+        "orders_per_customer": (1, 3),
+        "quantity_range": (1, 2),
+        "basket_size": (1, 3)
+    },
+    "Premium": {
+        "orders_per_customer": (2, 5),
+        "quantity_range": (1, 4),
+        "basket_size": (2, 6)
+    },
+    "Enterprise": {
+        "orders_per_customer": (4, 8),
+        "quantity_range": (2, 8),
+        "basket_size": (3, 10)
+    }
+}
+
+# stronger category realism
+segment_category_bias = {
+    "Standard": ["Accessories", "Office Supplies"],
+    "Premium": ["Office Supplies", "Fitness", "Accessories"],
+    "Enterprise": ["Electronics", "Office Supplies"]
+}
+
+# =========================
+# Generate Orders + Order Items
+# =========================
 
 orders = []
+order_items = []
+order_id = 1
 
-warehouses = [
-    "London",
+for customer in customers:
+
+    segment = customer["customer_segment"]
+    config = segment_config[segment]
+
+    num_orders = random.randint(*config["orders_per_customer"])
+
+    for _ in range(num_orders):
+
+        # -------------------------
+        # ORDER HEADER
+        # -------------------------
+        orders.append({
+            "order_id": order_id,
+            "customer_id": customer["customer_id"],
+            "order_date": fake.date_between(start_date="-2y", end_date="today"),
+            "warehouse": random.choice(["Manchester", "London", "Birmingham", "Leeds"]),
+            "order_status": random.choices(
+                ["Completed", "Returned", "Cancelled"],
+                weights=[0.85, 0.10, 0.05]
+            )[0],
+            "payment_method": random.choice(["Card", "PayPal", "Cash"]),
+            "delivery_date": fake.date_between(start_date="-2y", end_date="today")
+        })
+
+        # -------------------------
+        # ORDER ITEMS
+        # -------------------------
+        num_items = random.randint(*config["basket_size"])
+
+        for _ in range(num_items):
+
+            allowed_categories = segment_category_bias[segment]
+            price_min, price_max = segment_product_bias[segment]
+
+            eligible_products = [
+                p for p in products
+                if (p["category"] in allowed_categories)
+                and (price_min <= p["selling_price"] <= price_max)
+            ]
+
+            # safety fallback (rare, but safe)
+            if not eligible_products:
+                eligible_products = [
+                    p for p in products
+                    if price_min <= p["selling_price"] <= price_max
+                ]
+
+            # weighted selection (enterprise bias amplified)
+            weights = [
+                (p["selling_price"] ** 1.3) *
+                (1.0 if segment == "Standard"
+                 else 1.4 if segment == "Premium"
+                 else 2.2)
+                for p in eligible_products
+            ]
+
+            product = random.choices(
+                eligible_products,
+                weights=weights,
+                k=1
+            )[0]
+
+            quantity = random.randint(*config["quantity_range"])
+
+            order_items.append({
+                "order_id": order_id,
+                "product_id": product["product_id"],
+                "quantity": quantity
+            })
+
+        order_id += 1
+
+print("Orders dataset created successfully!")
+print("Order items dataset created successfully!")
+# Generate Departments Dataset
+
+departments = []
+
+department_names = [
+    "Warehouse",
+    "Sales",
+    "Finance",
+    "Customer Service",
+    "Logistics"
+]
+
+department_locations = [
     "Manchester",
+    "London",
     "Birmingham",
-    "Edinburgh"
+    "Leeds",
+    "Liverpool"
 ]
 
-order_statuses = [
-    "Delivered",
-    "Processing",
-    "Cancelled",
-    "Returned"
-]
 
-payment_methods = [
-    "Card",
-    "PayPal",
-    "Bank Transfer"
-]
+for i in range(1, 6):
 
-for i in range(1, 1001):
+    departments.append({
+        "department_id": i,
+        "department_name": department_names[i-1],
+        "location": department_locations[i-1]
+    })
 
-    order_date = fake.date_between(
-        start_date="-1y",
-        end_date="today"
-    )
 
-    orders.append({
-        "order_id": i,
-        "customer_id": random.randint(1, number_of_customers),
-        "order_date": order_date,
-        "warehouse": random.choice(warehouses),
-        "order_status": random.choice(order_statuses),
-        "payment_method": random.choice(payment_methods),
-        "delivery_date": fake.date_between(
-            start_date=order_date,
-            end_date="+30d"
+departments_df = pd.DataFrame(departments)
+
+departments_df.to_csv(
+    "data/departments.csv",
+    index=False
+)
+
+print("Departments dataset created successfully!")
+print(departments_df.head())
+
+
+# Generate Employees Dataset
+
+employees = []
+
+department_roles = {
+    1: [
+        "Warehouse Associate",
+        "Supervisor",
+        "Manager"
+    ],
+    2: [
+        "Sales Representative",
+        "Supervisor",
+        "Manager"
+    ],
+    3: [
+        "Analyst",
+        "Accountant",
+        "Manager"
+    ],
+    4: [
+        "Customer Advisor",
+        "Supervisor",
+        "Manager"
+    ],
+    5: [
+        "Logistics Coordinator",
+        "Supervisor",
+        "Manager"
+    ]
+}
+
+
+for i in range(1, 51):
+
+    department_id = random.randint(1, 5)
+
+    employees.append({
+        "employee_id": i,
+        "first_name": fake.first_name(),
+        "last_name": fake.last_name(),
+        "department_id": department_id,
+        "job_role": random.choice(
+            department_roles[department_id]
+        ),
+        "hire_date": fake.date_between(
+            start_date="-5y",
+            end_date="today"
         )
     })
 
 
-orders_df = pd.DataFrame(orders)
+employees_df = pd.DataFrame(employees)
 
-orders_df.to_csv(
-    "data/orders.csv",
+employees_df.to_csv(
+    "data/employees.csv",
     index=False
 )
 
-print("Orders dataset created successfully!")
-print(orders_df.head())
-# Generate Order Items Dataset
+print("Employees dataset created successfully!")
+print(employees_df.head())
 
-order_items = []
+
+# Generate Shipments Dataset
+
+shipments = []
+
+carriers = [
+    "DHL",
+    "UPS",
+    "Royal Mail",
+    "FedEx"
+]
+
+
+shipment_statuses = [
+    "Delivered",
+    "In Transit",
+    "Delayed"
+]
+
 
 for order_id in range(1, 1001):
 
-    number_of_items = random.randint(1, 5)
-
-    selected_products = random.sample(
-        range(1, 201),
-        number_of_items
+    shipment_date = fake.date_between(
+        start_date="-1y",
+        end_date="today"
     )
 
-    for product_id in selected_products:
-        order_items.append({
-            "order_id": order_id,
-            "product_id": product_id,
-            "quantity": random.randint(1, 5)
-        })
+    shipments.append({
+        "shipment_id": order_id,
+        "order_id": order_id,
+        "shipment_date": shipment_date,
+        "carrier": random.choice(carriers),
+        "shipment_status": random.choice(shipment_statuses),
+        "delivery_days": random.randint(1, 7)
+    })
 
 
-order_items_df = pd.DataFrame(order_items)
+shipments_df = pd.DataFrame(shipments)
 
-order_items_df.to_csv(
-    "data/order_items.csv",
+shipments_df.to_csv(
+    "data/shipments.csv",
     index=False
 )
 
-print("Order Items dataset created successfully!")
-print(order_items_df.head()) 
+print("Shipments dataset created successfully!")
+print(shipments_df.head())

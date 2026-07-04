@@ -1,0 +1,51 @@
+employee_id,first_name,last_name,department_id,job_role,hire_date
+1,Andrew,Price,4,Manager,2022-02-10
+2,Lauren,Smith,4,Customer Advisor,2025-06-07
+3,Gary,King,1,Warehouse Associate,2021-12-14
+4,George,Collins,3,Analyst,2022-03-03
+5,Timothy,Taylor,2,Manager,2025-01-11
+6,Abigail,Malone,1,Warehouse Associate,2025-08-26
+7,Kimberly,Perry,1,Supervisor,2025-09-30
+8,Melanie,Dillon,5,Supervisor,2023-08-17
+9,Shirley,Moore,3,Manager,2024-04-04
+10,Sherry,Wilson,1,Warehouse Associate,2024-03-31
+11,Andrew,Hickman,4,Supervisor,2023-03-18
+12,Suzanne,Hughes,3,Manager,2024-01-15
+13,Darlene,James,3,Accountant,2023-09-18
+14,Henry,Shah,1,Warehouse Associate,2022-06-09
+15,Bernard,Carroll,2,Supervisor,2023-06-21
+16,Sharon,Walker,5,Manager,2025-12-03
+17,Frank,Buchanan,1,Supervisor,2026-03-29
+18,Tammy,Oconnor,4,Customer Advisor,2023-07-17
+19,Madison,Lyons,1,Supervisor,2022-01-02
+20,Steven,Evans,5,Logistics Coordinator,2024-05-02
+21,Jennifer,Ellis,3,Analyst,2024-06-04
+22,Chad,Chen,1,Supervisor,2022-02-24
+23,Kristen,Palmer,5,Manager,2024-08-31
+24,Heather,Krause,1,Supervisor,2022-10-12
+25,Dillon,Johnson,1,Supervisor,2023-12-30
+26,Tracy,Camacho,5,Manager,2025-02-19
+27,Cindy,Howard,3,Manager,2022-03-01
+28,Susan,Smith,3,Manager,2022-03-22
+29,Jennifer,Brown,5,Logistics Coordinator,2021-10-31
+30,Lisa,Torres,2,Sales Representative,2023-03-18
+31,Mary,Gomez,1,Manager,2022-07-11
+32,James,Cruz,3,Accountant,2024-02-03
+33,Dawn,Mcguire,4,Supervisor,2021-07-24
+34,Nancy,Stevens,4,Manager,2021-08-08
+35,David,Wang,2,Manager,2024-05-29
+36,Michele,Pitts,1,Supervisor,2023-10-24
+37,Richard,Garza,3,Manager,2022-05-08
+38,Michael,Bryan,2,Supervisor,2023-03-17
+39,Brandi,Hart,2,Sales Representative,2024-02-22
+40,Jeffrey,Hines,1,Supervisor,2022-12-16
+41,Derek,Brown,1,Warehouse Associate,2023-12-20
+42,Alyssa,Smith,4,Customer Advisor,2025-04-04
+43,Jill,Walters,1,Supervisor,2022-02-19
+44,Paul,Estrada,3,Accountant,2022-12-27
+45,Christian,Medina,5,Logistics Coordinator,2023-02-09
+46,Carol,Garrison,5,Manager,2023-02-08
+47,Eileen,Allen,5,Supervisor,2022-02-20
+48,Jeffrey,Velasquez,4,Customer Advisor,2021-11-28
+49,Daniel,Kirby,3,Manager,2025-11-15
+50,Andrew,Zimmerman,2,Supervisor,2026-05-16
