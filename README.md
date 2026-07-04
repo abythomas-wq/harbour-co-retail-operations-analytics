@@ -5,7 +5,7 @@ End-to-End Data Analytics System for Business Performance & Fulfilment Optimisat
 Executive Summary
 
 The dashboard below provides an executive overview of the key business performance indicators developed during this project.
-![Executive Dashboard](dashboards/executive_dashboard.png)
+![Executive Dashboard](dashboard/executive_dashboard.png)
 **Download the full Executive Summary:**  
 [Executive Summary (PDF)](docs/executive_summary.pdf)
 
