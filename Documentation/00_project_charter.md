@@ -7,7 +7,7 @@ All financial and operational figures used within this project are simulated ass
 Project Name
 	Harbour & Co. Retail Operations Analytics
 Project Role
-	Senior Business Analyst (Simulated)
+	Senior Business Analyst — Retail Operations Analytics (Simulated)
 Business Area
 	Retail Operations, Supply Chain & Digital Transformation
 Organisation
@@ -72,8 +72,7 @@ Financial Context
 		operational cost control
 
 6. Strategic Context
-	Digital Transformation Programme
-	Background
+	Project Horizon — Omnichannel Transformation Programme	Background
 	Historically, Harbour & Co. built its success through its premium high-street presence.
 	However, consumer purchasing behaviour has shifted significantly towards digital channels.
 	Competitive pressure from:
@@ -83,8 +82,7 @@ Financial Context
 	has accelerated the need for operational transformation.
 
 Strategic Objective
-	Harbour & Co. aims to strengthen its e-commerce operations by creating a scalable omnichannel retail model.
-	Key objectives:
+	To support Project Horizon, Harbour & Co. requires an analytics capability that provides leadership with visibility into operational performance and identifies opportunities for improvement.	Key 		objectives:
 		Increase online revenue contribution
 		Improve fulfilment capability
 		Optimise inventory allocation
@@ -102,13 +100,12 @@ Strategic Objective
 		Provide recommendations to support operational improvement
 
 8. Business Problem Statement
-	Despite strong commercial performance, Harbour & Co. is experiencing increasing operational complexity.
-	The company currently lacks a consolidated analytical view across its retail ecosystem.
+	Despite strong commercial performance and rapid digital growth, Harbour & Co. Retail's operational infrastructure has not scaled at the same pace as customer demand. The organisation requires greater 	analytical visibility to identify inefficiencies, optimise resources and support sustainable growth. The company currently lacks a consolidated analytical view across its retail ecosystem.
 	Leadership requires greater visibility into:
-	where inventory is positioned
-	how efficiently orders are fulfilled
-	which suppliers create operational risks
-	which products and channels generate sustainable value
+		where inventory is positioned
+		how efficiently orders are fulfilled
+		which suppliers create operational risks
+		which products and channels generate sustainable value
 
 9. Project Objective
 	The objective of this project is to design an operations analytics solution that enables Harbour & Co. leadership to make informed decisions by providing visibility into operational performance.
@@ -118,4 +115,42 @@ Strategic Objective
 		fulfilment operations
 		supplier reliability
 		customer behaviour
+
+10. Stakeholder Overview
+
+	
+	Stakeholder			Responsibility					Key Business Need
+Chief Operating Officer		Overall operational performance			Executive visibility of business efficiency
+Supply Chain Director		Inventory and logistics	Optimise 		stock movement and fulfilment
+Warehouse Managers		Distribution operations	Identify 		operational bottlenecks
+Procurement Director		Supplier relationships	Monitor 		supplier reliability
+Commercial Director		Revenue and profitability			Understand product/channel performance
+Customer Experience Lead	Customer satisfaction				Improve delivery experience
+
+11. Project Scope
+
+The project will analyse:
+	Customer orders and purchasing behaviour
+	Product and category performance
+	Inventory availability and efficiency
+	Warehouse fulfilment performance
+	Shipment and delivery performance
+	Supplier reliability
+	Sales channel performance
+
+The project will not include:
+	Real-time inventory management
+	Automated replenishment systems
+	Predictive machine learning models
+	Changes to operational processes
+	Customer-facing applications
+
+12. Success Criteria
+
+The project will be considered successful if it enables Harbour & Co. leadership to:
+	Understand operational performance across stores, warehouses and digital channels
+	Identify causes of inventory inefficiency
+	Improve visibility of fulfilment performance
+	Evaluate supplier reliability
+	Make evidence-based operational decisions
 
