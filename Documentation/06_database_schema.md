@@ -30,6 +30,7 @@ The design prioritises:
 | customers | Customer master data | 50,000 rows |
 | products | Product catalogue | 2,000 rows |
 | suppliers | Supplier information | 250 rows |
+| locations | Central reference table for all operational sites | 63 rows
 | stores | Retail locations | 60 rows |
 | warehouses | Distribution centres | 3 rows |
 | orders | Customer transactions | 250,000 rows |
@@ -143,7 +144,47 @@ None
 - Procurement Performance
 - Supply Chain Risk Assessment
 
-# 4.4 Stores
+# 4.4 Locations
+
+## Business Purpose
+
+Stores information about all physical operational locations within Harbour & Co.
+
+The location entity provides a central reference structure for inventory management by representing all sites where products may be stored, processed or distributed.
+
+This includes retail stores and distribution centres.
+
+## Primary Key
+
+`location_id`
+
+## Foreign Keys
+
+None
+
+## Columns
+
+| Column | Data Type | Description |
+|---|---|---|
+| location_id | INT | Unique location identifier |
+| location_name | VARCHAR(100) | Operational location name |
+| location_type | VARCHAR(50) | Store, Warehouse or Distribution Centre |
+| address | VARCHAR(150) | Physical address |
+| city | VARCHAR(50) | Location city |
+| region | VARCHAR(50) | UK operating region |
+| postcode | VARCHAR(20) | UK postcode |
+| operational_status | VARCHAR(20) | Active or inactive status |
+| opening_date | DATE | Date location became operational |
+
+## Supports
+
+- Inventory Visibility Analysis
+- Stock Allocation Analysis
+- Location Performance Analysis
+- Store and Warehouse Integration
+
+
+# 4.5 Stores
 
 ### Business Purpose
 
@@ -180,7 +221,7 @@ None
 - Omnichannel Performance Analysis
 - Click & Collect Analysis
 
-# 4.5 Warehouses
+# 4.6 Warehouses
 
 ### Business Purpose
 
@@ -216,7 +257,7 @@ None
 - Distribution Capacity Planning
 - Inventory Location Analysis
 
-# 4.6 Orders
+# 4.7 Orders
 
 ### Business Purpose
 
@@ -265,7 +306,7 @@ References:
 - Customer Behaviour Analysis
 - Store Performance Analysis
 
-# 4.7 Order Items
+# 4.8 Order Items
 
 ### Business Purpose
 
@@ -311,7 +352,7 @@ References:
 - Basket Analysis
 - Supplier Value Analysis
 
-# 4.8 Inventory Snapshots
+# 4.9 Inventory Snapshots
 
 ### Business Purpose
 
@@ -360,7 +401,7 @@ References:
 - Stock Optimisation
 - Location-Level Inventory Analysis
 
-# 4.9. Schema Design Decisions
+# 4.10 Schema Design Decisions
 
 ## Decision 001 — Introduction of Location Entity
 
@@ -416,7 +457,7 @@ The updated design improves:
 - Scalability
 - Support for future operational sites
 
-# 4.10 Shipments
+# 4.11 Shipments
 
 ### Business Purpose
 
@@ -466,7 +507,7 @@ References:
 - Delivery Experience Analysis
 - E-commerce Operations Optimisation
 
-# 4.11 Purchase Orders
+# 4.12 Purchase Orders
 
 ### Business Purpose
 
