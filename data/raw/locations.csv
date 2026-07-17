@@ -1,64 +1,64 @@
 location_id,location_name,location_type,address,city,region,postcode,operational_status,opening_date
-1,London Oxford Street,Store,"Flat 17s, Cooper parkways",London,London,MK0E 0LT,Active,2024-01-15
-2,Manchester Arndale,Store,"Flat 07J, Howell street",Manchester,North West,BR2 0XU,Active,2012-06-20
-3,Birmingham Bullring,Store,150 Davies ferry,Birmingham,West Midlands,EX2R 1DG,Active,2015-01-01
-4,Leeds Trinity,Store,"Studio 29E, Jacqueline street",Leeds,Yorkshire,B79 8QX,Active,2023-09-30
-5,Glasgow Buchanan Street,Store,"Studio 0, Kelly heights",Glasgow,Scotland,BA73 3JY,Active,2019-12-27
-6,Bristol Cabot Circus,Store,"Studio 54, Newton meadows",Bristol,South West,S0J 5RQ,Active,2023-05-12
-7,Liverpool ONE,Store,1 Skinner mews,Liverpool,North West,B3G 0EY,Active,2025-01-25
-8,Edinburgh Princes Street,Store,"Flat 73i, Skinner plains",Edinburgh,Scotland,DA3B 3ZP,Active,2013-08-14
-9,Cardiff St David's,Store,"Flat 9, Josephine branch",Cardiff,Wales,WF3 0RN,Active,2019-06-12
-10,Nottingham Victoria Centre,Store,"Flat 0, Richard road",Nottingham,East Midlands,GU6R 2PU,Active,2015-02-15
-11,Harbour & Co. New Clairebury,Store,"Studio 82p, Jasmine plaza",New Clairebury,South West,G73 0TA,Active,2012-06-01
-12,Harbour & Co. Richardton,Store,"Studio 75, Reynolds cape",Richardton,Scotland,IM18 4FF,Active,2020-04-15
-13,Harbour & Co. Port Arthur,Store,"Flat 09N, Irene ferry",Port Arthur,Scotland,M7J 0WX,Active,2024-11-12
-14,Harbour & Co. Russellview,Store,"Studio 93i, Sophie gateway",Russellview,South East,AB3 3TF,Active,2019-08-21
-15,Harbour & Co. Lake Duncan,Store,"Studio 35L, French mountain",Lake Duncan,South East,EC9 8RZ,Active,2021-04-25
-16,Harbour & Co. North Marcus,Store,"Studio 23, Ben plains",North Marcus,London,EH1 3RS,Active,2021-05-04
-17,Harbour & Co. Elliottshire,Store,"Studio 76, Mary river",Elliottshire,London,EX8 1RB,Active,2012-05-20
-18,Harbour & Co. South Rachael,Store,230 Kathryn port,South Rachael,Midlands,W30 3YB,Active,2012-07-08
-19,Harbour & Co. Cliffordstad,Store,"Studio 90r, Sylvia gardens",Cliffordstad,North West,CA7 7TZ,Active,2011-10-17
-20,Harbour & Co. Port Heatherhaven,Store,0 Robin port,Port Heatherhaven,Midlands,NE5 1RB,Active,2022-11-12
-21,Harbour & Co. Lake Sophieberg,Store,741 Cooper fork,Lake Sophieberg,Scotland,W79 1RX,Active,2024-08-06
-22,Harbour & Co. Lydiatown,Store,"Studio 93, Lucy cove",Lydiatown,London,G4 4LH,Active,2012-04-24
-23,Harbour & Co. Boltonland,Store,128 Murray plains,Boltonland,South West,PE3N 8FX,Active,2024-12-06
-24,Harbour & Co. Grahamstad,Store,"Studio 22G, Shaw trafficway",Grahamstad,Wales,CM4 5EL,Active,2014-06-01
-25,Harbour & Co. Terenceton,Store,"Flat 62, Alex neck",Terenceton,Wales,M1J 2QU,Active,2014-08-23
-26,Harbour & Co. McLeanborough,Store,121 Leigh park,McLeanborough,Midlands,SY54 6YE,Active,2023-07-30
-27,Harbour & Co. South Thomas,Store,044 Jennifer squares,South Thomas,Scotland,HG44 4LB,Active,2021-11-17
-28,Harbour & Co. Thomsontown,Store,9 Richards shore,Thomsontown,South East,M4 1WW,Active,2022-09-20
-29,Harbour & Co. South Nicole,Store,"Studio 3, John cape",South Nicole,North East,PE36 2SF,Active,2018-01-25
-30,Harbour & Co. East Susanmouth,Store,49 Stevens ville,East Susanmouth,Wales,N4 5EZ,Active,2023-10-10
-31,Harbour & Co. Jeffreyville,Store,"Flat 53z, Frederick streets",Jeffreyville,Scotland,SW9 0FD,Active,2024-07-26
-32,Harbour & Co. Martinchester,Store,"Flat 61R, Antony street",Martinchester,South East,SE3X 9WH,Active,2020-01-21
-33,Harbour & Co. West Joelfort,Store,"Flat 11, Hughes estate",West Joelfort,North West,EX1M 0GY,Active,2018-05-07
-34,Harbour & Co. Josephineland,Store,"Flat 42n, Graham circle",Josephineland,Midlands,GY0 3GD,Active,2020-10-31
-35,Harbour & Co. Damientown,Store,0 Kieran parks,Damientown,North West,RH3M 1BB,Active,2017-09-25
-36,Harbour & Co. Richardmouth,Store,38 Paige mission,Richardmouth,Scotland,LN13 0UU,Active,2018-04-13
-37,Harbour & Co. North Peterton,Store,"Flat 02, Joyce springs",North Peterton,North West,N48 9GT,Active,2025-07-09
-38,Harbour & Co. Howardhaven,Store,843 Debra tunnel,Howardhaven,Wales,CR04 7BQ,Active,2017-02-22
-39,Harbour & Co. Katebury,Store,"Flat 09f, Hall lake",Katebury,North East,W7D 7WZ,Active,2012-11-27
-40,Harbour & Co. East Kellyport,Store,83 Dennis overpass,East Kellyport,North East,S93 3ER,Active,2022-08-04
-41,Harbour & Co. Gibbonsfort,Store,"Flat 80, Butler greens",Gibbonsfort,South West,L8 0QG,Active,2023-07-28
-42,Harbour & Co. Tuckermouth,Store,5 Hawkins lakes,Tuckermouth,North West,W3 1JR,Active,2015-03-29
-43,Harbour & Co. Leeberg,Store,"Flat 47e, Karen crescent",Leeberg,Midlands,DY4Y 4NQ,Active,2025-02-24
-44,Harbour & Co. Payneport,Store,3 Jay spring,Payneport,North East,B5J 1DX,Active,2015-04-20
-45,Harbour & Co. Port Mariaburgh,Store,25 Jones freeway,Port Mariaburgh,North East,B14 5FX,Active,2020-04-09
-46,Harbour & Co. South Dennisstad,Store,"Studio 68f, Naomi canyon",South Dennisstad,North East,N1 0FF,Active,2013-09-08
-47,Harbour & Co. East Bryanfurt,Store,"Studio 1, Jenna well",East Bryanfurt,Wales,E9 4AG,Active,2017-09-18
-48,Harbour & Co. Lake Paulineport,Store,"Flat 56, Jacob curve",Lake Paulineport,North East,FK98 0UR,Active,2020-07-31
-49,Harbour & Co. East Ryanfurt,Store,"Studio 0, Jordan roads",East Ryanfurt,Midlands,DA5A 0EF,Active,2015-05-06
-50,Harbour & Co. Port Gregory,Store,"Studio 5, Harris isle",Port Gregory,North East,CB2R 1SH,Active,2018-01-10
-51,Harbour & Co. Peacockville,Store,7 David gateway,Peacockville,Midlands,RH2 7FE,Active,2018-06-28
-52,Harbour & Co. Port Sarahside,Store,"Flat 1, Rebecca tunnel",Port Sarahside,Wales,W82 8YW,Active,2012-08-27
-53,Harbour & Co. Jonesville,Store,46 Duncan circles,Jonesville,North East,L43 2ZG,Active,2020-10-10
-54,Harbour & Co. West Hannahshire,Store,659 Sharp spring,West Hannahshire,North East,L1T 3AZ,Active,2015-04-19
-55,Harbour & Co. West Tobyberg,Store,"Studio 72, Josephine valleys",West Tobyberg,North West,B7 0HE,Active,2016-06-27
-56,Harbour & Co. Port Lydia,Store,24 Hutchinson mission,Port Lydia,North East,L97 5BA,Active,2019-10-12
-57,Harbour & Co. South Carly,Store,"Flat 21, Hayley corner",South Carly,South East,FY58 0RA,Active,2021-06-28
-58,Harbour & Co. South Katymouth,Store,13 Sandra valleys,South Katymouth,North East,G14 1TQ,Active,2021-08-16
-59,Harbour & Co. Howardmouth,Store,"Flat 1, Anthony dale",Howardmouth,South West,PR6 4FJ,Active,2012-04-11
-60,Harbour & Co. New Anthony,Store,"Flat 4, Edwards drive",New Anthony,North East,S43 3DW,Active,2019-06-04
-61,Midlands Distribution Centre,Warehouse,2 Cole brooks,Birmingham,West Midlands,TA0 0FW,Active,2018-12-11
-62,Northern Distribution Centre,Warehouse,"Flat 02, Nicholas court",Leeds,Yorkshire,E64 6TD,Active,2023-09-13
-63,Southern Distribution Centre,Warehouse,"Studio 90w, Amelia key",Reading,South East,NG0E 9ZH,Active,2024-12-30
+1,London Oxford Street,Store,4 Francis dam,London,London,CF8B 0AD,Active,2014-08-07
+2,Manchester Arndale,Store,386 Lucy radial,Manchester,North West,TS0 6PL,Active,2013-09-18
+3,Birmingham Bullring,Store,"Flat 1, Glover vista",Birmingham,West Midlands,PL4 7XE,Active,2025-02-28
+4,Leeds Trinity,Store,"Flat 8, Norton river",Leeds,Yorkshire,OX3 0JN,Active,2025-05-01
+5,Glasgow Buchanan Street,Store,6 Price village,Glasgow,Scotland,CW5 3LD,Active,2020-01-25
+6,Bristol Cabot Circus,Store,327 Dixon route,Bristol,South West,NW3X 0JB,Active,2022-10-23
+7,Liverpool ONE,Store,"Flat 13K, Kelly parks",Liverpool,North West,WV72 2JX,Active,2019-01-31
+8,Edinburgh Princes Street,Store,"Studio 65, Ashley pass",Edinburgh,Scotland,CA01 2SZ,Active,2012-06-05
+9,Cardiff St David's,Store,"Studio 78, Coates wall",Cardiff,Wales,E8 5EN,Active,2017-08-16
+10,Nottingham Victoria Centre,Store,"Flat 4, Kathleen coves",Nottingham,East Midlands,GU8W 2QG,Active,2019-02-02
+11,Harbour & Co. New Brandonfort,Store,5 Smith garden,New Brandonfort,South East,E1T 1XF,Active,2013-05-03
+12,Harbour & Co. Mayburgh,Store,"Studio 96, Sheila throughway",Mayburgh,London,SM3Y 6QT,Active,2024-02-18
+13,Harbour & Co. O'Neillbury,Store,09 Joan forges,O'Neillbury,North East,E0 1BP,Active,2012-07-13
+14,Harbour & Co. West Aimee,Store,"Flat 82, Smith mountains",West Aimee,North West,DG11 5SS,Active,2018-01-28
+15,Harbour & Co. Lake Hilaryville,Store,51 Alex field,Lake Hilaryville,North West,W2G 4TJ,Active,2023-10-13
+16,Harbour & Co. South Georginaville,Store,801 Mohammed lodge,South Georginaville,South West,LS36 2RA,Active,2025-05-01
+17,Harbour & Co. Sandraport,Store,"Studio 87j, Bryan forge",Sandraport,South East,B5 0YU,Active,2018-07-31
+18,Harbour & Co. North Natasha,Store,1 Frances wall,North Natasha,South East,S19 9ZB,Active,2020-03-17
+19,Harbour & Co. Mossshire,Store,"Flat 35p, Byrne skyway",Mossshire,Scotland,GU7N 0TZ,Active,2025-07-08
+20,Harbour & Co. North Shannonborough,Store,"Flat 51, Lauren haven",North Shannonborough,London,W84 8NE,Active,2024-09-06
+21,Harbour & Co. West Connor,Store,824 Butler stravenue,West Connor,London,DL4 4BD,Active,2020-06-02
+22,Harbour & Co. Samueltown,Store,"Flat 42, Fisher meadow",Samueltown,South East,B1B 8BQ,Active,2019-09-11
+23,Harbour & Co. South Scott,Store,50 Kelly gateway,South Scott,North West,CF5V 9FJ,Active,2023-08-23
+24,Harbour & Co. South Peter,Store,563 Walsh squares,South Peter,North West,S0 3HT,Active,2016-06-07
+25,Harbour & Co. East Peter,Store,54 Ricky keys,East Peter,London,ML6X 0EL,Active,2014-01-15
+26,Harbour & Co. Ianville,Store,"Flat 56M, Emma ports",Ianville,North West,M06 8XH,Active,2016-08-21
+27,Harbour & Co. Lake Mohamedmouth,Store,484 Rose square,Lake Mohamedmouth,Scotland,NR2 6RG,Active,2020-02-27
+28,Harbour & Co. Carolside,Store,43 Thornton rest,Carolside,North West,HG7R 3WU,Active,2022-08-26
+29,Harbour & Co. Lake Graham,Store,"Studio 95, Damian spring",Lake Graham,Wales,DT3 0BJ,Active,2025-04-24
+30,Harbour & Co. South Elizabethshire,Store,676 Sean shoal,South Elizabethshire,North East,AB1P 2WT,Active,2012-03-29
+31,Harbour & Co. Port Adrian,Store,"Flat 78, Giles mills",Port Adrian,London,S8H 7TL,Active,2022-01-23
+32,Harbour & Co. Mariafort,Store,71 Henry isle,Mariafort,South West,YO8 2FJ,Active,2016-11-25
+33,Harbour & Co. Lake Allan,Store,65 Sanderson ford,Lake Allan,Scotland,IP90 7AQ,Active,2015-09-20
+34,Harbour & Co. Davischester,Store,34 Jones loaf,Davischester,Midlands,SG6 7FZ,Active,2019-01-06
+35,Harbour & Co. Wrighttown,Store,627 Adam green,Wrighttown,North East,HG37 5RL,Active,2022-01-25
+36,Harbour & Co. Smithland,Store,"Flat 8, Bruce fork",Smithland,South West,BR0A 3AZ,Active,2013-09-03
+37,Harbour & Co. South Aimee,Store,374 Thompson rest,South Aimee,North West,SP1E 1YA,Active,2024-07-17
+38,Harbour & Co. Frostborough,Store,314 Anna tunnel,Frostborough,Midlands,N8 5DW,Active,2020-08-08
+39,Harbour & Co. Port Emilyfort,Store,57 Tracy fall,Port Emilyfort,South East,NE4W 7SY,Active,2015-04-19
+40,Harbour & Co. Port Nicholas,Store,"Studio 3, Pearce skyway",Port Nicholas,South East,HR07 2UH,Active,2016-07-04
+41,Harbour & Co. Mauriceview,Store,"Studio 08, Graham garden",Mauriceview,Scotland,KA7V 7UT,Active,2022-08-22
+42,Harbour & Co. West Rossfurt,Store,95 Fisher key,West Rossfurt,South East,SW85 7LN,Active,2015-01-22
+43,Harbour & Co. Lake Alexmouth,Store,823 Pamela harbor,Lake Alexmouth,Midlands,PE8W 1HN,Active,2014-09-22
+44,Harbour & Co. West Stephen,Store,00 Harrison crossroad,West Stephen,Midlands,WR7B 9NU,Active,2018-03-29
+45,Harbour & Co. Jeffreyton,Store,"Studio 1, Joanne overpass",Jeffreyton,North East,B2 9ND,Active,2025-06-14
+46,Harbour & Co. New Helenbury,Store,"Studio 7, Taylor meadow",New Helenbury,London,OL9 9EH,Active,2020-04-18
+47,Harbour & Co. Ireneland,Store,2 Charles alley,Ireneland,Wales,LD97 0JN,Active,2021-06-08
+48,Harbour & Co. Hammondbury,Store,"Studio 93B, Paige fork",Hammondbury,South East,CV4E 0GN,Active,2019-11-14
+49,Harbour & Co. Jenniferville,Store,"Studio 46r, Williams rapid",Jenniferville,Scotland,S5 0DJ,Active,2025-01-02
+50,Harbour & Co. Port Ellieview,Store,7 Chadwick falls,Port Ellieview,South East,S7B 5SP,Active,2016-01-13
+51,Harbour & Co. Port Shaunmouth,Store,"Studio 74Q, Bradley plaza",Port Shaunmouth,North East,W1 4PE,Active,2025-02-13
+52,Harbour & Co. Taylortown,Store,"Studio 0, Maureen lake",Taylortown,Midlands,W7U 3LX,Active,2013-05-16
+53,Harbour & Co. Jenniferfort,Store,9 Carolyn estate,Jenniferfort,North West,NR0 1JE,Active,2017-12-31
+54,Harbour & Co. Lake Carlfort,Store,"Studio 46, Robinson gardens",Lake Carlfort,South East,NR26 9WF,Active,2023-08-20
+55,Harbour & Co. Elizabethmouth,Store,"Flat 4, Smart prairie",Elizabethmouth,London,LU2R 5PX,Active,2022-03-21
+56,Harbour & Co. Murphymouth,Store,396 Victoria cape,Murphymouth,North West,SW7 6FU,Active,2025-01-17
+57,Harbour & Co. New Marie,Store,"Flat 7, Kerry motorway",New Marie,North East,G6 1UL,Active,2016-04-12
+58,Harbour & Co. Brooksmouth,Store,"Flat 78c, Damian roads",Brooksmouth,South East,GL3Y 6EE,Active,2017-10-01
+59,Harbour & Co. Matthewton,Store,"Flat 4, Patel drive",Matthewton,North West,S92 2DZ,Active,2023-09-24
+60,Harbour & Co. South Carole,Store,7 Nicholls shores,South Carole,South East,W4 1TQ,Active,2025-05-13
+61,Midlands Distribution Centre,Warehouse,"Studio 64D, Ryan lights",Birmingham,West Midlands,CF36 9NN,Active,2016-09-26
+62,Northern Distribution Centre,Warehouse,"Flat 09R, Lynda summit",Leeds,Yorkshire,WA43 3HZ,Active,2018-10-17
+63,Southern Distribution Centre,Warehouse,104 Rhodes lakes,Reading,South East,CO1M 6GH,Active,2017-09-23

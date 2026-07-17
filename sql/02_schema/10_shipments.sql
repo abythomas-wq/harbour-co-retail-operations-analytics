@@ -23,3 +23,12 @@ CREATE TABLE IF NOT EXISTS shipments (
         FOREIGN KEY (warehouse_id)
         REFERENCES warehouses(warehouse_id)
 );
+
+
+
+
+
+
+
+
+

@@ -1,61 +1,61 @@
 store_id,location_id,store_name,store_type,opening_date,store_size_sqft,store_status
-1,1,Harbour & Co. London Oxford Street,Flagship,2014-04-21,4021,Active
-2,2,Harbour & Co. Manchester Arndale,Outlet,2015-12-20,3899,Active
-3,3,Harbour & Co. Birmingham Bullring,Standard,2021-05-12,11436,Active
-4,4,Harbour & Co. Leeds Trinity,Flagship,2022-06-16,15364,Active
-5,5,Harbour & Co. Glasgow Buchanan Street,Standard,2019-01-08,24696,Active
-6,6,Harbour & Co. Bristol Cabot Circus,Flagship,2025-06-23,6581,Active
-7,7,Harbour & Co. Liverpool ONE,Outlet,2023-11-24,4546,Active
-8,8,Harbour & Co. Edinburgh Princes Street,Standard,2012-11-04,10445,Active
-9,9,Harbour & Co. Cardiff St David's,Flagship,2019-05-09,9766,Active
-10,10,Harbour & Co. Nottingham Victoria Centre,Outlet,2023-12-28,3604,Active
-11,11,Harbour & Co. Harbour & Co. New Clairebury,Flagship,2020-05-16,10558,Active
-12,12,Harbour & Co. Harbour & Co. Richardton,Standard,2024-03-26,18383,Active
-13,13,Harbour & Co. Harbour & Co. Port Arthur,Standard,2012-03-09,19447,Active
-14,14,Harbour & Co. Harbour & Co. Russellview,Flagship,2017-10-19,17360,Active
-15,15,Harbour & Co. Harbour & Co. Lake Duncan,Standard,2015-07-04,18759,Active
-16,16,Harbour & Co. Harbour & Co. North Marcus,Flagship,2015-10-02,18580,Active
-17,17,Harbour & Co. Harbour & Co. Elliottshire,Outlet,2011-11-16,10762,Active
-18,18,Harbour & Co. Harbour & Co. South Rachael,Flagship,2025-03-19,5269,Active
-19,19,Harbour & Co. Harbour & Co. Cliffordstad,Outlet,2015-07-30,16808,Active
-20,20,Harbour & Co. Harbour & Co. Port Heatherhaven,Flagship,2020-11-19,6315,Active
-21,21,Harbour & Co. Harbour & Co. Lake Sophieberg,Outlet,2015-06-15,4996,Active
-22,22,Harbour & Co. Harbour & Co. Lydiatown,Flagship,2021-10-27,20369,Active
-23,23,Harbour & Co. Harbour & Co. Boltonland,Flagship,2022-10-11,7235,Active
-24,24,Harbour & Co. Harbour & Co. Grahamstad,Standard,2016-08-17,20032,Active
-25,25,Harbour & Co. Harbour & Co. Terenceton,Standard,2023-08-16,8735,Active
-26,26,Harbour & Co. Harbour & Co. McLeanborough,Outlet,2024-01-11,15968,Active
-27,27,Harbour & Co. Harbour & Co. South Thomas,Standard,2024-02-21,17960,Active
-28,28,Harbour & Co. Harbour & Co. Thomsontown,Flagship,2014-02-09,9351,Active
-29,29,Harbour & Co. Harbour & Co. South Nicole,Standard,2017-05-13,17274,Active
-30,30,Harbour & Co. Harbour & Co. East Susanmouth,Flagship,2013-05-29,21283,Active
-31,31,Harbour & Co. Harbour & Co. Jeffreyville,Outlet,2021-02-01,19935,Active
-32,32,Harbour & Co. Harbour & Co. Martinchester,Flagship,2018-05-01,18987,Active
-33,33,Harbour & Co. Harbour & Co. West Joelfort,Standard,2020-07-17,4772,Active
-34,34,Harbour & Co. Harbour & Co. Josephineland,Outlet,2018-01-22,20570,Active
-35,35,Harbour & Co. Harbour & Co. Damientown,Outlet,2018-08-15,13909,Active
-36,36,Harbour & Co. Harbour & Co. Richardmouth,Outlet,2022-03-10,17161,Active
-37,37,Harbour & Co. Harbour & Co. North Peterton,Outlet,2019-07-09,24458,Active
-38,38,Harbour & Co. Harbour & Co. Howardhaven,Standard,2020-10-09,20641,Active
-39,39,Harbour & Co. Harbour & Co. Katebury,Flagship,2014-02-03,7210,Active
-40,40,Harbour & Co. Harbour & Co. East Kellyport,Flagship,2024-02-15,3714,Active
-41,41,Harbour & Co. Harbour & Co. Gibbonsfort,Standard,2019-04-23,23372,Active
-42,42,Harbour & Co. Harbour & Co. Tuckermouth,Outlet,2018-12-20,24688,Active
-43,43,Harbour & Co. Harbour & Co. Leeberg,Outlet,2023-04-26,15551,Active
-44,44,Harbour & Co. Harbour & Co. Payneport,Standard,2014-09-21,16090,Active
-45,45,Harbour & Co. Harbour & Co. Port Mariaburgh,Flagship,2015-12-21,16174,Active
-46,46,Harbour & Co. Harbour & Co. South Dennisstad,Outlet,2019-08-10,10372,Active
-47,47,Harbour & Co. Harbour & Co. East Bryanfurt,Outlet,2025-06-18,19080,Active
-48,48,Harbour & Co. Harbour & Co. Lake Paulineport,Outlet,2025-01-09,3351,Active
-49,49,Harbour & Co. Harbour & Co. East Ryanfurt,Outlet,2019-12-19,22465,Active
-50,50,Harbour & Co. Harbour & Co. Port Gregory,Standard,2020-02-28,21579,Active
-51,51,Harbour & Co. Harbour & Co. Peacockville,Standard,2013-08-24,18204,Active
-52,52,Harbour & Co. Harbour & Co. Port Sarahside,Outlet,2021-10-02,7230,Active
-53,53,Harbour & Co. Harbour & Co. Jonesville,Standard,2017-08-18,17005,Active
-54,54,Harbour & Co. Harbour & Co. West Hannahshire,Flagship,2011-09-04,4368,Active
-55,55,Harbour & Co. Harbour & Co. West Tobyberg,Flagship,2016-06-01,21645,Active
-56,56,Harbour & Co. Harbour & Co. Port Lydia,Outlet,2017-12-14,5047,Active
-57,57,Harbour & Co. Harbour & Co. South Carly,Flagship,2017-05-27,6680,Active
-58,58,Harbour & Co. Harbour & Co. South Katymouth,Outlet,2021-12-17,9228,Active
-59,59,Harbour & Co. Harbour & Co. Howardmouth,Standard,2021-05-23,14631,Active
-60,60,Harbour & Co. Harbour & Co. New Anthony,Outlet,2024-08-30,24119,Active
+1,1,Harbour & Co. London Oxford Street,Outlet,2020-06-28,6648,Active
+2,2,Harbour & Co. Manchester Arndale,Outlet,2011-11-21,12012,Active
+3,3,Harbour & Co. Birmingham Bullring,Flagship,2015-05-23,7572,Active
+4,4,Harbour & Co. Leeds Trinity,Outlet,2014-08-31,20870,Active
+5,5,Harbour & Co. Glasgow Buchanan Street,Outlet,2021-11-06,16825,Active
+6,6,Harbour & Co. Bristol Cabot Circus,Flagship,2021-01-04,6070,Active
+7,7,Harbour & Co. Liverpool ONE,Flagship,2024-01-11,19559,Active
+8,8,Harbour & Co. Edinburgh Princes Street,Outlet,2012-10-03,9515,Active
+9,9,Harbour & Co. Cardiff St David's,Flagship,2017-06-12,17719,Active
+10,10,Harbour & Co. Nottingham Victoria Centre,Flagship,2011-12-16,8231,Active
+11,11,Harbour & Co. Harbour & Co. New Brandonfort,Standard,2014-08-07,12105,Active
+12,12,Harbour & Co. Harbour & Co. Mayburgh,Flagship,2018-08-12,14029,Active
+13,13,Harbour & Co. Harbour & Co. O'Neillbury,Flagship,2011-11-29,15449,Active
+14,14,Harbour & Co. Harbour & Co. West Aimee,Standard,2014-04-28,14270,Active
+15,15,Harbour & Co. Harbour & Co. Lake Hilaryville,Flagship,2020-08-20,18054,Active
+16,16,Harbour & Co. Harbour & Co. South Georginaville,Standard,2019-03-03,5582,Active
+17,17,Harbour & Co. Harbour & Co. Sandraport,Outlet,2014-08-17,23267,Active
+18,18,Harbour & Co. Harbour & Co. North Natasha,Outlet,2019-10-15,9300,Active
+19,19,Harbour & Co. Harbour & Co. Mossshire,Flagship,2022-11-14,24668,Active
+20,20,Harbour & Co. Harbour & Co. North Shannonborough,Standard,2011-08-19,5614,Active
+21,21,Harbour & Co. Harbour & Co. West Connor,Flagship,2022-10-27,15455,Active
+22,22,Harbour & Co. Harbour & Co. Samueltown,Standard,2021-04-24,23830,Active
+23,23,Harbour & Co. Harbour & Co. South Scott,Flagship,2016-04-20,15130,Active
+24,24,Harbour & Co. Harbour & Co. South Peter,Flagship,2013-09-18,24960,Active
+25,25,Harbour & Co. Harbour & Co. East Peter,Outlet,2024-12-09,24234,Active
+26,26,Harbour & Co. Harbour & Co. Ianville,Outlet,2016-04-02,23806,Active
+27,27,Harbour & Co. Harbour & Co. Lake Mohamedmouth,Outlet,2012-11-02,11021,Active
+28,28,Harbour & Co. Harbour & Co. Carolside,Standard,2012-11-22,15433,Active
+29,29,Harbour & Co. Harbour & Co. Lake Graham,Outlet,2023-05-28,21250,Active
+30,30,Harbour & Co. Harbour & Co. South Elizabethshire,Outlet,2019-12-28,13626,Active
+31,31,Harbour & Co. Harbour & Co. Port Adrian,Flagship,2022-11-02,4051,Active
+32,32,Harbour & Co. Harbour & Co. Mariafort,Standard,2021-10-03,11773,Active
+33,33,Harbour & Co. Harbour & Co. Lake Allan,Flagship,2019-01-17,21585,Active
+34,34,Harbour & Co. Harbour & Co. Davischester,Flagship,2025-02-28,24477,Active
+35,35,Harbour & Co. Harbour & Co. Wrighttown,Standard,2016-11-02,24064,Active
+36,36,Harbour & Co. Harbour & Co. Smithland,Flagship,2019-04-08,11679,Active
+37,37,Harbour & Co. Harbour & Co. South Aimee,Flagship,2023-02-24,21394,Active
+38,38,Harbour & Co. Harbour & Co. Frostborough,Outlet,2020-03-13,22155,Active
+39,39,Harbour & Co. Harbour & Co. Port Emilyfort,Outlet,2023-08-08,16087,Active
+40,40,Harbour & Co. Harbour & Co. Port Nicholas,Flagship,2019-08-16,7532,Active
+41,41,Harbour & Co. Harbour & Co. Mauriceview,Flagship,2021-05-27,4543,Active
+42,42,Harbour & Co. Harbour & Co. West Rossfurt,Flagship,2012-03-07,23560,Active
+43,43,Harbour & Co. Harbour & Co. Lake Alexmouth,Outlet,2014-09-24,16833,Active
+44,44,Harbour & Co. Harbour & Co. West Stephen,Standard,2015-08-04,15504,Active
+45,45,Harbour & Co. Harbour & Co. Jeffreyton,Outlet,2012-08-27,11238,Active
+46,46,Harbour & Co. Harbour & Co. New Helenbury,Outlet,2014-10-19,6753,Active
+47,47,Harbour & Co. Harbour & Co. Ireneland,Outlet,2012-12-14,14146,Active
+48,48,Harbour & Co. Harbour & Co. Hammondbury,Standard,2015-06-07,17246,Active
+49,49,Harbour & Co. Harbour & Co. Jenniferville,Standard,2020-06-09,3106,Active
+50,50,Harbour & Co. Harbour & Co. Port Ellieview,Outlet,2016-08-24,8854,Active
+51,51,Harbour & Co. Harbour & Co. Port Shaunmouth,Outlet,2016-09-20,12779,Active
+52,52,Harbour & Co. Harbour & Co. Taylortown,Flagship,2014-06-22,15252,Active
+53,53,Harbour & Co. Harbour & Co. Jenniferfort,Outlet,2015-04-12,20378,Active
+54,54,Harbour & Co. Harbour & Co. Lake Carlfort,Outlet,2024-08-26,13621,Active
+55,55,Harbour & Co. Harbour & Co. Elizabethmouth,Flagship,2020-08-11,6665,Active
+56,56,Harbour & Co. Harbour & Co. Murphymouth,Standard,2020-01-25,10846,Active
+57,57,Harbour & Co. Harbour & Co. New Marie,Flagship,2013-12-08,21591,Active
+58,58,Harbour & Co. Harbour & Co. Brooksmouth,Flagship,2021-09-30,18924,Active
+59,59,Harbour & Co. Harbour & Co. Matthewton,Outlet,2013-10-29,7120,Active
+60,60,Harbour & Co. Harbour & Co. South Carole,Outlet,2016-11-07,18574,Active

@@ -25,9 +25,7 @@ CREATE TABLE IF NOT EXISTS purchase_orders (
         REFERENCES products(product_id)
 );
 
-describe purchase_orders;
 
-SHOW CREATE TABLE purchase_orders;
 
 
 

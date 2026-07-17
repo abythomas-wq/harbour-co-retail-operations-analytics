@@ -23,3 +23,5 @@ CREATE TABLE IF NOT EXISTS orders (
         FOREIGN KEY (store_id)
         REFERENCES stores(store_id)
 );
+
+SELECT COUNT(*) FROM orders;

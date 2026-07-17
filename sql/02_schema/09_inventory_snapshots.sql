@@ -23,3 +23,4 @@ CREATE TABLE IF NOT EXISTS inventory_snapshots (
         FOREIGN KEY (location_id)
         REFERENCES locations(location_id)
 );
+

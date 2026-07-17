@@ -1,251 +1,251 @@
 supplier_id,supplier_name,supplier_region,supplier_category,contact_country,contract_start_date,supplier_status
-1,Dawson-James Ltd,Europe,Home,Netherlands,2025-01-02,Inactive
-2,Rowley-White Ltd,UK,Beauty,United Kingdom,2024-12-20,Active
-3,"Brown, Jones and White Ltd",UK,Home,United Kingdom,2024-12-28,Active
-4,Lewis-Hardy Ltd,North America,Home,Canada,2022-12-11,Inactive
-5,Ali LLC Ltd,UK,Beauty,United Kingdom,2025-05-11,Active
-6,Thompson Ltd Ltd,North America,Home,Canada,2018-09-08,Active
-7,"Thomas, West and Hurst Ltd",North America,Home,United States,2019-12-27,Inactive
-8,"Bird, Martin and Woodward Ltd",Europe,Lifestyle,Spain,2024-10-09,Active
-9,"Ford, Anderson and Clarke Ltd",Asia,Lifestyle,Bangladesh,2024-06-23,Active
-10,"Frost, Leonard and Buckley Ltd",Europe,Beauty,Germany,2016-08-09,Active
-11,"Jones, Richardson and Butler Ltd",Asia,Fashion,India,2023-01-01,Active
-12,Sullivan-Scott Ltd,Europe,Beauty,France,2018-08-05,Active
-13,Gill and Sons Ltd,Europe,Consumer Goods,France,2019-04-10,Active
-14,"Brown, Bibi and Smith Ltd",North America,Lifestyle,Mexico,2021-09-23,Active
-15,Mason-Scott Ltd,Europe,Beauty,Netherlands,2019-05-11,Active
-16,Owen-Walker Ltd,UK,Lifestyle,United Kingdom,2022-05-18,Active
-17,Watkins Ltd Ltd,UK,Lifestyle,United Kingdom,2025-06-02,Active
-18,West-Barnett Ltd,North America,Home,Canada,2022-10-17,Active
-19,Bailey-Fisher Ltd,Asia,Home,China,2023-08-18,Active
-20,Patel-Davies Ltd,Asia,Home,Vietnam,2024-01-20,Inactive
-21,"Davidson, Williams and Duffy Ltd",Asia,Lifestyle,China,2021-02-14,Active
-22,Day Ltd Ltd,Asia,Beauty,Vietnam,2018-03-18,Active
-23,"Dixon, Oliver and Evans Ltd",Europe,Fashion,Spain,2025-01-11,Active
-24,Robinson-Mitchell Ltd,North America,Lifestyle,United States,2021-06-18,Inactive
-25,"Long, Gill and Hill Ltd",North America,Consumer Goods,United States,2020-05-20,Inactive
-26,"Hall, Smith and Wright Ltd",UK,Beauty,United Kingdom,2025-04-15,Active
-27,King-Thomas Ltd,Asia,Lifestyle,South Korea,2017-07-17,Inactive
-28,Morrison and Sons Ltd,Europe,Consumer Goods,Germany,2016-11-12,Active
-29,Armstrong PLC Ltd,Asia,Lifestyle,South Korea,2018-05-25,Active
-30,Evans-Lewis Ltd,UK,Fashion,United Kingdom,2017-09-25,Active
-31,Campbell Inc Ltd,North America,Consumer Goods,Canada,2022-06-20,Active
-32,Noble and Sons Ltd,UK,Lifestyle,United Kingdom,2022-04-22,Active
-33,"Ellis, Williams and Gordon Ltd",Asia,Beauty,India,2024-02-23,Active
-34,Porter Group Ltd,North America,Fashion,Canada,2020-02-29,Inactive
-35,"Saunders, Oliver and Pugh Ltd",Asia,Beauty,South Korea,2024-10-23,Active
-36,Hall Ltd Ltd,Asia,Beauty,China,2023-05-27,Active
-37,Duncan Ltd Ltd,UK,Beauty,United Kingdom,2019-07-21,Active
-38,"Hammond, Newman and King Ltd",Asia,Lifestyle,India,2024-11-04,Active
-39,"Kirby, Carter and Watson Ltd",Europe,Beauty,Germany,2021-11-11,Inactive
-40,Atkins-Dale Ltd,UK,Fashion,United Kingdom,2019-11-11,Active
-41,"Goddard, Dobson and Preston Ltd",Asia,Consumer Goods,China,2024-11-03,Inactive
-42,"Steele, Tucker and Wilson Ltd",Europe,Consumer Goods,Netherlands,2017-03-11,Active
-43,"Day, Davies and Dean Ltd",Asia,Lifestyle,India,2020-01-19,Active
-44,Jones-Thomas Ltd,North America,Lifestyle,United States,2018-09-29,Active
-45,"Williams, Taylor and Parry Ltd",UK,Home,United Kingdom,2020-03-05,Active
-46,Begum-Jones Ltd,Asia,Home,Vietnam,2024-07-16,Inactive
-47,Ward-Taylor Ltd,UK,Consumer Goods,United Kingdom,2020-08-21,Inactive
-48,"Storey, Kennedy and Walsh Ltd",Europe,Home,France,2023-09-06,Active
-49,"Rowe, Holmes and Moore Ltd",North America,Beauty,United States,2022-05-12,Active
-50,Stanley and Sons Ltd,UK,Home,United Kingdom,2023-12-30,Inactive
-51,"Richardson, Barker and Fletcher Ltd",Europe,Beauty,Italy,2025-05-15,Active
-52,Curtis-Wheeler Ltd,Asia,Home,South Korea,2021-06-29,Active
-53,Edwards-Hardy Ltd,Europe,Home,Spain,2024-11-22,Active
-54,Russell-Richards Ltd,Europe,Fashion,Germany,2024-08-24,Inactive
-55,"Williams, Walsh and Woods Ltd",Asia,Lifestyle,Japan,2018-05-05,Active
-56,Ashton-Gill Ltd,Europe,Home,Germany,2022-11-21,Active
-57,Smith Inc Ltd,Asia,Home,India,2018-02-18,Inactive
-58,Gardiner PLC Ltd,Asia,Consumer Goods,Vietnam,2016-11-16,Active
-59,Hopkins-Williams Ltd,UK,Fashion,United Kingdom,2020-08-04,Inactive
-60,"Barlow, King and Ryan Ltd",Europe,Beauty,Netherlands,2024-04-08,Active
-61,Lyons and Sons Ltd,Europe,Fashion,Germany,2022-12-03,Inactive
-62,"Burton, Richards and Reynolds Ltd",North America,Consumer Goods,Mexico,2018-07-31,Active
-63,Kay-Rogers Ltd,Europe,Beauty,Netherlands,2017-03-09,Active
-64,Bailey-Jones Ltd,North America,Home,United States,2020-09-08,Active
-65,Gill-Ahmed Ltd,UK,Beauty,United Kingdom,2017-03-17,Active
-66,Duffy-Dyer Ltd,Asia,Home,Bangladesh,2021-05-02,Active
-67,Houghton Group Ltd,UK,Lifestyle,United Kingdom,2024-10-20,Inactive
-68,"Ellis, Connor and Dunn Ltd",Asia,Fashion,China,2021-06-06,Inactive
-69,Morgan PLC Ltd,UK,Consumer Goods,United Kingdom,2019-01-06,Active
-70,Gould Ltd Ltd,North America,Lifestyle,United States,2022-08-24,Active
-71,Kemp-Clayton Ltd,Europe,Fashion,Italy,2018-01-03,Active
-72,O'Connor PLC Ltd,North America,Lifestyle,Canada,2023-09-04,Active
-73,"Wyatt, Collier and Owen Ltd",North America,Lifestyle,Canada,2020-09-11,Inactive
-74,Hill LLC Ltd,North America,Consumer Goods,Mexico,2024-01-01,Active
-75,Jones-Sutton Ltd,UK,Beauty,United Kingdom,2017-08-24,Inactive
-76,Greenwood Group Ltd,Asia,Consumer Goods,Japan,2018-04-12,Active
-77,"Thomas, Scott and Green Ltd",North America,Consumer Goods,Mexico,2022-03-20,Active
-78,Jones Group Ltd,UK,Lifestyle,United Kingdom,2020-09-24,Inactive
-79,"Ellis, Jones and Parkin Ltd",Asia,Beauty,China,2019-11-07,Inactive
-80,Williams-Tucker Ltd,Europe,Home,Germany,2024-06-07,Active
-81,Foster-Holmes Ltd,UK,Home,United Kingdom,2017-07-06,Active
-82,Connor-Burton Ltd,North America,Consumer Goods,Mexico,2024-08-07,Inactive
-83,"Hobbs, Bennett and Fox Ltd",UK,Fashion,United Kingdom,2019-03-01,Active
-84,Holt and Sons Ltd,Europe,Lifestyle,Spain,2017-07-27,Inactive
-85,Brown Inc Ltd,Europe,Home,Italy,2020-01-15,Active
-86,"Knight, Smith and Brown Ltd",North America,Beauty,Canada,2019-01-22,Active
-87,"Crawford, Dennis and Taylor Ltd",UK,Home,United Kingdom,2020-10-02,Active
-88,Patel-Thomas Ltd,Asia,Lifestyle,Japan,2020-08-12,Active
-89,Johnson-Lyons Ltd,North America,Consumer Goods,Mexico,2020-02-12,Active
-90,Jackson Group Ltd,UK,Beauty,United Kingdom,2016-12-21,Active
-91,"Gray, Thomas and Joyce Ltd",Asia,Home,China,2025-02-24,Active
-92,"Ryan, Lewis and Jones Ltd",Europe,Consumer Goods,Spain,2025-07-04,Active
-93,"Smith, Lewis and Turner Ltd",North America,Consumer Goods,United States,2017-08-27,Inactive
-94,"Warner, Preston and Newton Ltd",North America,Fashion,Mexico,2023-09-01,Active
-95,Cox PLC Ltd,UK,Beauty,United Kingdom,2018-04-25,Active
-96,"Smith, Shaw and Bailey Ltd",Europe,Lifestyle,Netherlands,2022-04-13,Inactive
-97,Mahmood Inc Ltd,North America,Consumer Goods,United States,2024-09-29,Inactive
-98,Chambers Group Ltd,Asia,Consumer Goods,South Korea,2018-11-24,Inactive
-99,"Young, Williams and Booth Ltd",Europe,Beauty,Italy,2019-05-30,Active
-100,Sinclair-Fry Ltd,Asia,Fashion,South Korea,2016-10-18,Active
-101,"Short, Stephenson and Allen Ltd",Asia,Consumer Goods,Japan,2019-11-27,Active
-102,Smith-Moss Ltd,North America,Fashion,Canada,2021-03-06,Active
-103,Anderson LLC Ltd,Asia,Lifestyle,Japan,2020-10-17,Active
-104,"Gill, Smith and Barnett Ltd",Europe,Beauty,Germany,2017-04-08,Inactive
-105,Burns-Shah Ltd,UK,Consumer Goods,United Kingdom,2018-01-05,Active
-106,Roberts-Wong Ltd,Europe,Home,Spain,2020-02-20,Active
-107,Heath and Sons Ltd,Europe,Beauty,Spain,2023-10-16,Active
-108,"Phillips, Walton and Ali Ltd",UK,Fashion,United Kingdom,2021-02-27,Active
-109,Jarvis PLC Ltd,Europe,Beauty,Germany,2019-06-08,Active
-110,Byrne and Sons Ltd,Asia,Consumer Goods,Bangladesh,2021-02-13,Active
-111,Thompson LLC Ltd,North America,Fashion,Mexico,2023-08-05,Active
-112,Morgan Group Ltd,North America,Home,United States,2018-05-29,Active
-113,"Hodgson, Smith and Rees Ltd",Europe,Consumer Goods,Germany,2020-11-10,Inactive
-114,Thompson PLC Ltd,North America,Lifestyle,Mexico,2016-12-24,Inactive
-115,"Stephens, Brown and Smith Ltd",Asia,Home,Bangladesh,2024-04-16,Active
-116,"Smith, Davidson and Peters Ltd",North America,Fashion,United States,2022-04-07,Inactive
-117,Morgan and Sons Ltd,UK,Home,United Kingdom,2022-08-14,Active
-118,"Roberts, Murphy and Holmes Ltd",Asia,Consumer Goods,India,2021-12-29,Inactive
-119,West Inc Ltd,Europe,Home,Spain,2025-02-18,Inactive
-120,"Price, Hall and Davies Ltd",Asia,Lifestyle,South Korea,2022-05-23,Active
-121,Evans-Wood Ltd,North America,Home,Canada,2016-08-14,Active
-122,Murphy-Edwards Ltd,North America,Fashion,United States,2020-03-28,Inactive
-123,Stone-George Ltd,Europe,Lifestyle,Spain,2021-06-23,Active
-124,"Ward, Morris and Nash Ltd",Europe,Consumer Goods,Netherlands,2023-09-05,Active
-125,Collins Inc Ltd,Asia,Fashion,Bangladesh,2016-12-12,Active
-126,Green Ltd Ltd,UK,Beauty,United Kingdom,2024-04-11,Active
-127,"Burrows, Byrne and Bates Ltd",Europe,Fashion,Netherlands,2022-02-07,Inactive
-128,Sykes Inc Ltd,UK,Fashion,United Kingdom,2023-01-12,Active
-129,Robson LLC Ltd,Asia,Beauty,Vietnam,2023-01-02,Active
-130,Smith Inc Ltd,North America,Consumer Goods,United States,2020-06-28,Active
-131,"Harvey, Davies and Stevens Ltd",Asia,Home,South Korea,2022-08-12,Active
-132,Palmer-Evans Ltd,North America,Consumer Goods,United States,2018-01-27,Inactive
-133,Smith Inc Ltd,UK,Consumer Goods,United Kingdom,2023-12-02,Inactive
-134,Davidson LLC Ltd,Asia,Consumer Goods,Japan,2023-11-25,Active
-135,Jones-Stanley Ltd,North America,Fashion,Canada,2019-04-02,Active
-136,Burrows and Sons Ltd,UK,Consumer Goods,United Kingdom,2019-12-10,Active
-137,Hall-Whittaker Ltd,Asia,Lifestyle,Japan,2017-01-18,Active
-138,Smith PLC Ltd,North America,Consumer Goods,United States,2020-04-02,Active
-139,"Townsend, Clarke and Palmer Ltd",Asia,Consumer Goods,South Korea,2022-06-10,Active
-140,"Holmes, Black and Barnes Ltd",Europe,Home,Spain,2018-05-11,Active
-141,Randall-Harris Ltd,North America,Consumer Goods,Mexico,2018-06-04,Active
-142,"Rice, Walsh and Hughes Ltd",Asia,Fashion,South Korea,2022-09-12,Active
-143,"Murray, Green and Turner Ltd",UK,Lifestyle,United Kingdom,2022-03-17,Active
-144,"Baker, Brown and Evans Ltd",North America,Lifestyle,United States,2019-05-07,Active
-145,Bolton-Collins Ltd,UK,Home,United Kingdom,2020-01-08,Active
-146,Marshall-Evans Ltd,Europe,Fashion,Italy,2016-11-19,Active
-147,"Miah, Osborne and Roberts Ltd",Asia,Consumer Goods,Bangladesh,2022-06-16,Active
-148,Bell Inc Ltd,Asia,Home,South Korea,2021-05-08,Active
-149,Smith-Collins Ltd,Europe,Consumer Goods,Portugal,2024-11-01,Active
-150,Fletcher Inc Ltd,Asia,Beauty,Japan,2021-10-06,Active
-151,Hanson and Sons Ltd,UK,Lifestyle,United Kingdom,2025-05-21,Inactive
-152,Clarke-Lee Ltd,UK,Home,United Kingdom,2018-07-13,Inactive
-153,Wallace LLC Ltd,North America,Lifestyle,Canada,2020-06-14,Active
-154,"Hunt, Duffy and Ellis Ltd",Asia,Home,China,2024-11-25,Active
-155,Owens Ltd Ltd,Asia,Home,Bangladesh,2021-01-15,Active
-156,Burton-Harding Ltd,Asia,Lifestyle,China,2021-04-01,Active
-157,Bailey-Bradley Ltd,North America,Fashion,United States,2019-08-03,Active
-158,Williamson Inc Ltd,UK,Lifestyle,United Kingdom,2020-09-04,Active
-159,"Bevan, Thomas and Dyer Ltd",North America,Beauty,Mexico,2019-07-23,Active
-160,"Brown, Flynn and Storey Ltd",Asia,Lifestyle,China,2020-04-02,Active
-161,Woods Inc Ltd,Asia,Home,Japan,2021-10-25,Active
-162,"Ahmed, Green and Wilson Ltd",UK,Beauty,United Kingdom,2019-03-02,Active
-163,"Bailey, Hunter and Roberts Ltd",Europe,Lifestyle,Spain,2021-09-06,Active
-164,Norton and Sons Ltd,Europe,Fashion,Germany,2018-02-23,Active
-165,"Steele, Harrison and Taylor Ltd",Asia,Consumer Goods,China,2022-08-07,Inactive
-166,Hill-Hale Ltd,UK,Lifestyle,United Kingdom,2021-05-02,Active
-167,"Cook, Carr and Hutchinson Ltd",North America,Lifestyle,Mexico,2020-11-17,Inactive
-168,Baker Inc Ltd,UK,Fashion,United Kingdom,2020-08-23,Active
-169,Watson-Smith Ltd,Asia,Beauty,India,2025-01-28,Active
-170,Berry-Godfrey Ltd,UK,Consumer Goods,United Kingdom,2021-12-24,Active
-171,"Ingram, Ward and Connor Ltd",Europe,Home,France,2023-07-22,Inactive
-172,"Buckley, Phillips and Bailey Ltd",UK,Consumer Goods,United Kingdom,2025-02-03,Active
-173,Williams-Clements Ltd,UK,Beauty,United Kingdom,2021-03-05,Active
-174,Miller PLC Ltd,Asia,Fashion,Japan,2018-01-11,Active
-175,Turner Ltd Ltd,UK,Consumer Goods,United Kingdom,2018-06-30,Active
-176,"Carter, Fraser and Harvey Ltd",North America,Beauty,United States,2025-04-02,Active
-177,Johnson Group Ltd,North America,Home,United States,2017-09-22,Active
-178,"Johnson, Nelson and Yates Ltd",Europe,Consumer Goods,Netherlands,2024-10-01,Active
-179,"Nicholls, Bryant and Hammond Ltd",UK,Lifestyle,United Kingdom,2023-02-13,Inactive
-180,"Rose, Barrett and Foster Ltd",Asia,Consumer Goods,Vietnam,2022-09-02,Active
-181,"Jones, Williamson and Lane Ltd",UK,Lifestyle,United Kingdom,2021-01-30,Active
-182,"Oliver, Butler and Martin Ltd",UK,Lifestyle,United Kingdom,2020-07-04,Inactive
-183,"Harrison, Newton and Carter Ltd",UK,Consumer Goods,United Kingdom,2020-09-25,Active
-184,Wallis-Cook Ltd,Asia,Home,Japan,2023-07-11,Active
-185,Scott Group Ltd,Asia,Home,Japan,2022-11-23,Active
-186,Henderson Inc Ltd,UK,Home,United Kingdom,2024-06-21,Active
-187,"Willis, Walton and Howard Ltd",Asia,Lifestyle,Japan,2022-01-28,Active
-188,Thompson-Smith Ltd,UK,Beauty,United Kingdom,2019-11-09,Active
-189,Cook and Sons Ltd,Asia,Beauty,Bangladesh,2018-11-24,Active
-190,Whitehouse Group Ltd,Europe,Fashion,Portugal,2022-04-04,Inactive
-191,Jones-Moran Ltd,Asia,Beauty,China,2024-11-01,Inactive
-192,Atkinson LLC Ltd,Asia,Beauty,South Korea,2020-06-21,Active
-193,Brown-Bull Ltd,Asia,Consumer Goods,South Korea,2021-09-17,Active
-194,Moss and Sons Ltd,UK,Beauty,United Kingdom,2020-10-09,Active
-195,Pugh-Spencer Ltd,UK,Lifestyle,United Kingdom,2020-05-04,Active
-196,Smith Inc Ltd,Asia,Home,Japan,2020-08-15,Active
-197,Fisher-Gray Ltd,UK,Consumer Goods,United Kingdom,2019-06-13,Active
-198,Jones Ltd Ltd,Europe,Beauty,Portugal,2020-05-11,Inactive
-199,"Todd, Swift and Bates Ltd",Asia,Fashion,South Korea,2023-07-22,Active
-200,Lucas-Jones Ltd,Asia,Home,Japan,2023-06-23,Inactive
-201,Collins PLC Ltd,Asia,Fashion,Vietnam,2022-09-13,Active
-202,"White, Rogers and Pope Ltd",Europe,Beauty,Netherlands,2023-05-01,Active
-203,Taylor-Mills Ltd,North America,Lifestyle,United States,2022-07-10,Active
-204,Turner-Ingram Ltd,Asia,Fashion,China,2021-03-21,Active
-205,Mitchell Inc Ltd,Europe,Lifestyle,Spain,2020-01-27,Active
-206,"Kelly, Baker and Cunningham Ltd",Asia,Fashion,India,2018-08-20,Inactive
-207,Jenkins and Sons Ltd,UK,Home,United Kingdom,2022-10-17,Active
-208,Smith and Sons Ltd,UK,Home,United Kingdom,2021-11-02,Active
-209,Daniels-Woods Ltd,UK,Beauty,United Kingdom,2021-01-05,Active
-210,Perkins-Hammond Ltd,North America,Consumer Goods,Mexico,2024-07-06,Inactive
-211,Page Ltd Ltd,UK,Fashion,United Kingdom,2018-01-08,Inactive
-212,Cooper-Wilkinson Ltd,Asia,Beauty,India,2022-06-30,Active
-213,"Robertson, Mills and Ward Ltd",UK,Fashion,United Kingdom,2018-04-03,Active
-214,Read PLC Ltd,North America,Consumer Goods,Mexico,2023-11-05,Active
-215,Peters Ltd Ltd,Asia,Fashion,South Korea,2023-03-17,Inactive
-216,"Middleton, Gibbs and Lloyd Ltd",Asia,Beauty,Japan,2023-12-01,Active
-217,Lee PLC Ltd,UK,Home,United Kingdom,2019-12-19,Active
-218,Thomas PLC Ltd,Asia,Fashion,China,2024-11-25,Active
-219,Martin and Sons Ltd,Europe,Home,Italy,2021-05-05,Active
-220,"Turner, Donnelly and Duffy Ltd",Asia,Consumer Goods,China,2019-09-18,Active
-221,Porter-Grant Ltd,UK,Consumer Goods,United Kingdom,2019-01-04,Active
-222,Woods-Smith Ltd,Europe,Fashion,Spain,2019-10-27,Active
-223,"Hunt, Thomas and Potter Ltd",UK,Beauty,United Kingdom,2019-05-27,Active
-224,Collier-Howell Ltd,Asia,Fashion,Bangladesh,2023-04-06,Active
-225,Holmes-Young Ltd,Europe,Consumer Goods,Netherlands,2020-03-30,Active
-226,Baker Ltd Ltd,UK,Fashion,United Kingdom,2018-07-05,Active
-227,"Brown, Murphy and Warren Ltd",UK,Home,United Kingdom,2021-07-07,Active
-228,"Tucker, Cole and Matthews Ltd",UK,Home,United Kingdom,2016-09-27,Inactive
-229,Adams-Bird Ltd,Europe,Beauty,Spain,2019-02-21,Active
-230,"Smith, Nicholson and Collins Ltd",Asia,Fashion,China,2017-12-08,Active
-231,Hussain Group Ltd,North America,Consumer Goods,Canada,2023-09-03,Active
-232,Richardson Ltd Ltd,Asia,Beauty,Japan,2020-08-07,Active
-233,Smith-Lee Ltd,North America,Lifestyle,United States,2021-08-29,Active
-234,"Ryan, Rhodes and O'Donnell Ltd",Asia,Fashion,China,2025-01-08,Active
-235,Hayward-Hughes Ltd,Europe,Lifestyle,Spain,2025-06-05,Active
-236,Thompson-Williams Ltd,UK,Lifestyle,United Kingdom,2021-06-11,Inactive
-237,Ward Group Ltd,North America,Consumer Goods,Canada,2021-11-01,Active
-238,Jones-Gordon Ltd,North America,Lifestyle,Mexico,2016-08-26,Inactive
-239,Ross-Johnson Ltd,Asia,Lifestyle,Bangladesh,2023-03-10,Active
-240,"Hutchinson, Riley and Steele Ltd",North America,Consumer Goods,Mexico,2018-06-03,Active
-241,Murphy LLC Ltd,North America,Lifestyle,United States,2021-03-01,Active
-242,Taylor-Lawrence Ltd,North America,Home,Mexico,2020-05-02,Inactive
-243,Wood and Sons Ltd,Europe,Beauty,Italy,2022-01-14,Active
-244,Brown-Robinson Ltd,Europe,Fashion,Spain,2016-11-25,Inactive
-245,Williams-Anderson Ltd,UK,Lifestyle,United Kingdom,2017-03-20,Active
-246,"Khan, Harris and Bates Ltd",North America,Beauty,United States,2025-06-08,Active
-247,"Parker, Brown and Harris Ltd",Europe,Beauty,France,2020-06-19,Active
-248,"Roberts, Hall and Clarke Ltd",North America,Consumer Goods,Mexico,2018-02-03,Inactive
-249,"Pearson, Wallace and Davis Ltd",UK,Lifestyle,United Kingdom,2020-08-02,Active
-250,Lewis-Price Ltd,Europe,Fashion,Spain,2019-12-22,Active
+1,"Griffiths, Cox and Smith Ltd",UK,Fashion,United Kingdom,2017-10-17,Active
+2,Davies PLC Ltd,Europe,Home,Netherlands,2017-04-27,Active
+3,Higgins-Green Ltd,UK,Consumer Goods,United Kingdom,2018-08-19,Active
+4,"Payne, Ryan and Brooks Ltd",UK,Fashion,United Kingdom,2021-06-11,Active
+5,Patterson LLC Ltd,UK,Consumer Goods,United Kingdom,2023-10-28,Inactive
+6,Reed and Sons Ltd,Europe,Beauty,Portugal,2022-10-27,Active
+7,White-Stevens Ltd,UK,Home,United Kingdom,2023-05-30,Active
+8,Green Inc Ltd,Asia,Home,India,2019-10-08,Active
+9,Butler-Gough Ltd,UK,Fashion,United Kingdom,2023-02-08,Active
+10,"Harvey, Woodward and Ferguson Ltd",Asia,Lifestyle,Japan,2019-03-06,Active
+11,"Hurst, Taylor and Mellor Ltd",UK,Beauty,United Kingdom,2022-11-17,Inactive
+12,Adams LLC Ltd,UK,Consumer Goods,United Kingdom,2025-05-28,Active
+13,Taylor Group Ltd,Europe,Fashion,France,2019-01-15,Active
+14,"Lee, Marsden and Evans Ltd",Asia,Fashion,India,2022-07-27,Active
+15,"Cross, Miah and John Ltd",North America,Lifestyle,Canada,2018-01-29,Active
+16,"Smith, Hall and Dixon Ltd",Europe,Lifestyle,Italy,2024-11-12,Active
+17,"Randall, Richardson and Watts Ltd",Asia,Fashion,Japan,2023-07-10,Active
+18,Fuller LLC Ltd,Europe,Home,Spain,2020-02-24,Inactive
+19,Kelly PLC Ltd,Asia,Consumer Goods,India,2024-06-04,Active
+20,Kelly-Morley Ltd,UK,Home,United Kingdom,2024-07-01,Active
+21,"Hale, Pritchard and Smith Ltd",North America,Lifestyle,United States,2021-08-04,Active
+22,Morris-Rowe Ltd,Asia,Home,South Korea,2021-10-16,Inactive
+23,Lloyd-Turner Ltd,North America,Beauty,United States,2021-02-14,Active
+24,Davey Inc Ltd,Europe,Home,Netherlands,2017-11-30,Active
+25,James Group Ltd,North America,Consumer Goods,Canada,2021-11-27,Active
+26,Palmer-Turner Ltd,Europe,Home,Portugal,2021-04-20,Inactive
+27,"Taylor, Brown and Atkinson Ltd",UK,Fashion,United Kingdom,2022-09-03,Active
+28,"Myers, Read and Cook Ltd",Europe,Beauty,Portugal,2019-03-07,Active
+29,Price Ltd Ltd,North America,Beauty,Mexico,2024-06-02,Inactive
+30,Page-Carter Ltd,Asia,Consumer Goods,China,2021-02-08,Active
+31,Taylor LLC Ltd,Asia,Lifestyle,China,2024-02-11,Active
+32,"John, Gould and Carter Ltd",North America,Home,Canada,2021-05-23,Active
+33,"Bell, Anderson and Jones Ltd",Asia,Consumer Goods,India,2017-07-18,Active
+34,Shaw-Holden Ltd,Asia,Consumer Goods,Japan,2019-04-22,Active
+35,Smith PLC Ltd,Europe,Lifestyle,Germany,2025-01-22,Active
+36,Chandler Inc Ltd,Asia,Beauty,China,2025-05-04,Active
+37,"Miller, Clarke and Jones Ltd",Asia,Lifestyle,India,2021-06-27,Active
+38,Hill-Jenkins Ltd,Europe,Consumer Goods,France,2025-03-20,Active
+39,"Mitchell, Marshall and Edwards Ltd",North America,Fashion,Mexico,2020-02-17,Active
+40,"Brooks, Williams and Weston Ltd",Europe,Beauty,Portugal,2017-08-17,Active
+41,Collins Inc Ltd,Asia,Consumer Goods,Japan,2021-10-31,Inactive
+42,Fox Inc Ltd,Europe,Consumer Goods,Netherlands,2017-03-06,Active
+43,"Howard, Townsend and Higgins Ltd",Asia,Beauty,South Korea,2019-07-07,Active
+44,"Smith, King and Stevens Ltd",North America,Consumer Goods,Canada,2017-09-23,Active
+45,"Allen, Smith and Jones Ltd",Europe,Home,France,2020-03-15,Active
+46,Glover Group Ltd,UK,Consumer Goods,United Kingdom,2019-09-23,Active
+47,Jones-Briggs Ltd,UK,Fashion,United Kingdom,2022-08-07,Active
+48,"Gibson, Ahmed and Cook Ltd",UK,Fashion,United Kingdom,2024-04-17,Active
+49,Bates PLC Ltd,Europe,Lifestyle,Netherlands,2020-07-29,Inactive
+50,Akhtar-Hall Ltd,Europe,Consumer Goods,Germany,2024-05-29,Inactive
+51,Williams PLC Ltd,Europe,Beauty,Spain,2017-06-02,Active
+52,"Watkins, Lee and Morgan Ltd",UK,Fashion,United Kingdom,2024-11-15,Active
+53,Thompson Group Ltd,North America,Beauty,Canada,2020-11-14,Active
+54,Poole-O'Brien Ltd,UK,Fashion,United Kingdom,2016-07-23,Active
+55,Pritchard-Leonard Ltd,UK,Home,United Kingdom,2020-08-19,Active
+56,Booth-Elliott Ltd,North America,Home,Canada,2023-08-03,Active
+57,"Edwards, Nash and Doyle Ltd",Asia,Beauty,India,2025-04-04,Active
+58,"Newman, Long and Sinclair Ltd",North America,Consumer Goods,United States,2016-12-27,Active
+59,Kerr-Davis Ltd,UK,Fashion,United Kingdom,2017-12-15,Active
+60,"Francis, Skinner and Wright Ltd",North America,Beauty,Canada,2022-08-13,Active
+61,Ahmed PLC Ltd,North America,Fashion,United States,2018-10-03,Inactive
+62,"Thomas, Reeves and Moss Ltd",UK,Beauty,United Kingdom,2021-08-16,Inactive
+63,Hudson-Martin Ltd,Asia,Beauty,South Korea,2022-12-26,Inactive
+64,Phillips and Sons Ltd,Europe,Home,Italy,2022-08-01,Active
+65,Murphy-Murray Ltd,UK,Consumer Goods,United Kingdom,2024-12-16,Active
+66,Hale PLC Ltd,UK,Fashion,United Kingdom,2025-07-03,Active
+67,Powell PLC Ltd,UK,Consumer Goods,United Kingdom,2018-12-04,Active
+68,Wallace-Shaw Ltd,UK,Consumer Goods,United Kingdom,2019-11-12,Active
+69,Williams PLC Ltd,North America,Fashion,Mexico,2022-11-14,Active
+70,"Robinson, Gough and Hill Ltd",UK,Consumer Goods,United Kingdom,2022-07-20,Inactive
+71,"Burns, Adams and Singh Ltd",Asia,Lifestyle,India,2017-09-30,Active
+72,Ball Ltd Ltd,Europe,Lifestyle,Spain,2021-07-08,Active
+73,Bird-Kelly Ltd,Asia,Beauty,Vietnam,2019-08-17,Active
+74,"Thomson, Pritchard and Jones Ltd",UK,Beauty,United Kingdom,2024-09-07,Active
+75,Green Group Ltd,Europe,Consumer Goods,Italy,2024-01-02,Active
+76,Harper and Sons Ltd,Asia,Fashion,India,2022-04-10,Active
+77,Wade-Williams Ltd,Asia,Home,Bangladesh,2022-11-21,Active
+78,"Potts, Tucker and Young Ltd",UK,Consumer Goods,United Kingdom,2024-09-03,Active
+79,"Fowler, Connolly and Fisher Ltd",Europe,Lifestyle,France,2020-05-28,Active
+80,Brookes Inc Ltd,Europe,Lifestyle,Italy,2024-08-17,Active
+81,Richardson Ltd Ltd,Asia,Home,South Korea,2017-06-18,Active
+82,"Young, Stevenson and Houghton Ltd",North America,Lifestyle,United States,2017-12-06,Active
+83,Taylor and Sons Ltd,North America,Lifestyle,United States,2024-06-21,Active
+84,Gardner LLC Ltd,Asia,Home,South Korea,2023-07-31,Active
+85,Roberts-Taylor Ltd,Europe,Beauty,Portugal,2023-11-01,Inactive
+86,Walsh-Harrison Ltd,UK,Fashion,United Kingdom,2019-12-25,Active
+87,Taylor and Sons Ltd,UK,Lifestyle,United Kingdom,2018-05-02,Inactive
+88,Stone-Perry Ltd,Europe,Fashion,Italy,2024-05-19,Active
+89,Brown and Sons Ltd,UK,Lifestyle,United Kingdom,2020-02-15,Active
+90,Taylor-Morgan Ltd,UK,Lifestyle,United Kingdom,2019-01-19,Active
+91,"Bond, Davies and Watts Ltd",Europe,Home,Germany,2019-07-09,Inactive
+92,Clark LLC Ltd,UK,Home,United Kingdom,2018-02-22,Inactive
+93,Thomas-Anderson Ltd,Europe,Lifestyle,Germany,2019-08-26,Active
+94,Williams-Robinson Ltd,North America,Fashion,Canada,2017-07-31,Active
+95,"Bates, Thomas and Williams Ltd",Europe,Beauty,Italy,2021-03-20,Active
+96,"Holmes, Singh and Pratt Ltd",Europe,Home,France,2018-04-24,Active
+97,Rees-Adams Ltd,North America,Lifestyle,Canada,2019-07-06,Active
+98,Adams-Harvey Ltd,Asia,Lifestyle,South Korea,2024-08-21,Inactive
+99,"Gordon, Miles and Ahmed Ltd",Asia,Fashion,China,2019-03-14,Active
+100,Lucas Ltd Ltd,Europe,Consumer Goods,Italy,2024-12-31,Active
+101,"Morris, Coleman and Pearce Ltd",UK,Consumer Goods,United Kingdom,2020-03-11,Active
+102,Rogers and Sons Ltd,Asia,Beauty,Japan,2020-05-29,Active
+103,"Jenkins, Stanley and Williams Ltd",North America,Consumer Goods,United States,2022-08-14,Active
+104,"Jones, Hutchinson and Coles Ltd",UK,Beauty,United Kingdom,2018-01-24,Active
+105,Abbott Ltd Ltd,Asia,Beauty,China,2022-03-27,Active
+106,Green-Watson Ltd,Asia,Fashion,South Korea,2018-08-27,Active
+107,Wilson-Ryan Ltd,Asia,Beauty,Vietnam,2016-10-04,Inactive
+108,Robinson PLC Ltd,Asia,Consumer Goods,India,2024-03-09,Active
+109,Murphy Ltd Ltd,North America,Beauty,Mexico,2021-09-20,Active
+110,"Booth, Hughes and Smith Ltd",Asia,Beauty,Japan,2022-06-11,Active
+111,Lawrence Inc Ltd,Asia,Lifestyle,India,2023-07-18,Inactive
+112,Jarvis Ltd Ltd,Asia,Beauty,Bangladesh,2021-03-14,Inactive
+113,Bevan Inc Ltd,Europe,Consumer Goods,Spain,2020-08-24,Active
+114,King-Scott Ltd,UK,Lifestyle,United Kingdom,2021-11-24,Active
+115,Osborne-Peters Ltd,Europe,Lifestyle,Germany,2021-01-30,Active
+116,"Williams, Walsh and Taylor Ltd",Europe,Fashion,France,2020-08-03,Active
+117,Gray LLC Ltd,North America,Consumer Goods,United States,2023-06-07,Inactive
+118,"Jones, Smith and Williams Ltd",North America,Consumer Goods,United States,2022-12-17,Inactive
+119,Dixon LLC Ltd,North America,Beauty,United States,2024-07-29,Active
+120,Khan and Sons Ltd,UK,Fashion,United Kingdom,2019-12-27,Active
+121,Cole Inc Ltd,Europe,Consumer Goods,Spain,2020-04-09,Active
+122,Freeman-Sanderson Ltd,Europe,Fashion,Spain,2018-05-26,Active
+123,McCarthy-Moran Ltd,North America,Consumer Goods,Mexico,2025-01-19,Active
+124,Baxter PLC Ltd,North America,Consumer Goods,Mexico,2019-12-18,Inactive
+125,Hewitt LLC Ltd,North America,Home,Mexico,2023-04-27,Inactive
+126,Powell-Hunter Ltd,North America,Lifestyle,United States,2023-09-27,Active
+127,Jones LLC Ltd,North America,Home,Canada,2020-06-17,Inactive
+128,McCarthy Ltd Ltd,UK,Lifestyle,United Kingdom,2022-08-26,Active
+129,Wood-Gray Ltd,Asia,Lifestyle,Japan,2024-10-24,Active
+130,"Wilkinson, Walker and Wright Ltd",Europe,Home,Germany,2022-07-04,Inactive
+131,Graham and Sons Ltd,Europe,Home,France,2024-05-04,Inactive
+132,Parker Group Ltd,North America,Lifestyle,Mexico,2019-06-27,Inactive
+133,Mills-Carter Ltd,North America,Fashion,United States,2019-12-14,Inactive
+134,Smith-Reeves Ltd,North America,Consumer Goods,Mexico,2016-09-17,Active
+135,"Barnett, Watson and Wilson Ltd",North America,Beauty,United States,2017-02-26,Active
+136,"Thomas, Holland and Smith Ltd",Asia,Beauty,Bangladesh,2024-02-03,Active
+137,"Wyatt, Clarke and Davies Ltd",North America,Home,Canada,2021-08-12,Inactive
+138,Hall LLC Ltd,North America,Fashion,Canada,2023-06-10,Active
+139,Butler Ltd Ltd,North America,Home,Canada,2023-01-02,Active
+140,Arnold Inc Ltd,UK,Beauty,United Kingdom,2021-09-30,Active
+141,Allen-Walker Ltd,North America,Home,Canada,2019-12-01,Active
+142,"Ryan, Wright and Burke Ltd",UK,Lifestyle,United Kingdom,2018-09-22,Active
+143,"Clements, Baker and Foster Ltd",Europe,Beauty,Italy,2017-08-17,Active
+144,"Gill, Ward and Rowe Ltd",North America,Lifestyle,Canada,2019-11-16,Active
+145,"Miah, Brown and Burton Ltd",UK,Beauty,United Kingdom,2020-12-13,Active
+146,Hunt-Woods Ltd,Asia,Home,South Korea,2023-12-30,Active
+147,"Gould, Noble and Bishop Ltd",UK,Fashion,United Kingdom,2022-05-24,Active
+148,"Mann, Powell and Jones Ltd",UK,Consumer Goods,United Kingdom,2020-06-16,Active
+149,"Wright, Stanley and Smith Ltd",Europe,Beauty,Netherlands,2024-12-13,Active
+150,Wallace-Smith Ltd,Europe,Beauty,Netherlands,2020-09-20,Active
+151,"King, Holt and Hughes Ltd",Asia,Home,Japan,2019-06-19,Active
+152,Kelly-Roberts Ltd,Europe,Lifestyle,France,2019-08-08,Active
+153,"Harrison, White and Boyle Ltd",Asia,Consumer Goods,South Korea,2025-01-26,Inactive
+154,Smith Group Ltd,North America,Home,United States,2020-12-07,Active
+155,Marshall Ltd Ltd,UK,Lifestyle,United Kingdom,2022-12-11,Active
+156,James-Green Ltd,Asia,Consumer Goods,Bangladesh,2018-07-14,Active
+157,"Smith, Adams and Connolly Ltd",UK,Consumer Goods,United Kingdom,2021-07-09,Active
+158,Field-Morris Ltd,North America,Beauty,United States,2019-07-08,Inactive
+159,"Price, Parkes and Wilson Ltd",Asia,Beauty,South Korea,2023-01-11,Active
+160,Baldwin-Wilkinson Ltd,North America,Home,Mexico,2023-05-26,Active
+161,Bates Ltd Ltd,North America,Beauty,Canada,2020-11-23,Active
+162,"Wright, Carter and Anderson Ltd",Asia,Home,China,2025-05-12,Active
+163,Doyle LLC Ltd,North America,Home,Canada,2018-02-25,Inactive
+164,Walters and Sons Ltd,Asia,Fashion,Bangladesh,2019-01-03,Active
+165,Fisher Ltd Ltd,Europe,Beauty,Germany,2025-01-13,Active
+166,"Taylor, Hughes and Wong Ltd",Asia,Lifestyle,Vietnam,2021-09-14,Active
+167,Jones-Cook Ltd,UK,Consumer Goods,United Kingdom,2025-03-24,Active
+168,Singh-Jones Ltd,Europe,Beauty,Spain,2023-12-09,Active
+169,Hughes-Mellor Ltd,North America,Beauty,Canada,2022-09-19,Active
+170,Burrows PLC Ltd,UK,Lifestyle,United Kingdom,2025-01-29,Inactive
+171,Turner Inc Ltd,Europe,Lifestyle,Netherlands,2021-07-24,Active
+172,Butler-James Ltd,North America,Consumer Goods,Mexico,2018-07-27,Active
+173,"Palmer, Walker and Jordan Ltd",North America,Consumer Goods,Canada,2021-11-01,Active
+174,Rogers-Houghton Ltd,North America,Lifestyle,Canada,2022-01-09,Active
+175,"Gibson, Carter and Johnson Ltd",Europe,Fashion,Netherlands,2018-12-02,Active
+176,Fraser and Sons Ltd,Asia,Fashion,South Korea,2021-07-04,Active
+177,Harper Group Ltd,Europe,Home,Netherlands,2022-09-28,Inactive
+178,Harris-Barnes Ltd,Asia,Consumer Goods,Japan,2022-11-25,Active
+179,"Taylor, Hammond and Barnes Ltd",UK,Home,United Kingdom,2018-12-02,Active
+180,"Wright, Roberts and Chapman Ltd",Asia,Home,Vietnam,2017-07-28,Active
+181,Miah LLC Ltd,Europe,Lifestyle,France,2023-12-24,Active
+182,Howard LLC Ltd,Asia,Home,South Korea,2021-11-22,Inactive
+183,"Woodward, Williams and Jones Ltd",UK,Fashion,United Kingdom,2019-04-11,Inactive
+184,Hewitt-Knight Ltd,North America,Beauty,Canada,2020-12-25,Active
+185,Anderson Group Ltd,UK,Lifestyle,United Kingdom,2023-02-24,Active
+186,"Smith, Green and Hunt Ltd",UK,Beauty,United Kingdom,2024-01-23,Active
+187,"Fox, Brown and Miller Ltd",UK,Home,United Kingdom,2023-12-07,Active
+188,"Thomas, Davey and Jones Ltd",UK,Home,United Kingdom,2022-05-27,Inactive
+189,Clayton-Grant Ltd,Europe,Consumer Goods,Spain,2022-04-02,Inactive
+190,Morgan-Jones Ltd,North America,Lifestyle,Mexico,2020-03-19,Inactive
+191,Davies-Taylor Ltd,Asia,Consumer Goods,Japan,2019-07-05,Active
+192,"Hughes, Adams and Matthews Ltd",UK,Home,United Kingdom,2023-05-20,Active
+193,Murphy LLC Ltd,UK,Home,United Kingdom,2018-10-23,Active
+194,Morgan Group Ltd,UK,Home,United Kingdom,2024-04-27,Inactive
+195,Moss PLC Ltd,North America,Consumer Goods,Canada,2020-09-11,Active
+196,Kay LLC Ltd,UK,Home,United Kingdom,2022-02-21,Active
+197,Johnson-Carter Ltd,North America,Fashion,Mexico,2018-05-16,Active
+198,"Clarke, Barber and Wallace Ltd",Asia,Consumer Goods,South Korea,2020-11-25,Active
+199,Simpson PLC Ltd,North America,Fashion,Mexico,2023-09-25,Active
+200,"Steele, Walton and Fisher Ltd",Europe,Lifestyle,Germany,2017-05-18,Active
+201,Hall Inc Ltd,UK,Home,United Kingdom,2022-05-15,Active
+202,Morley Ltd Ltd,North America,Fashion,Canada,2019-03-02,Active
+203,"Robertson, Lee and Robinson Ltd",North America,Lifestyle,Mexico,2018-09-25,Inactive
+204,"Daly, Bates and Foster Ltd",North America,Fashion,Mexico,2023-04-04,Active
+205,Taylor LLC Ltd,North America,Lifestyle,Mexico,2023-06-29,Active
+206,Cook-Greenwood Ltd,UK,Fashion,United Kingdom,2018-12-11,Active
+207,Bird LLC Ltd,Asia,Consumer Goods,China,2024-01-28,Active
+208,"Watkins, Jones and Bray Ltd",North America,Consumer Goods,Mexico,2021-05-21,Inactive
+209,Ross-Miller Ltd,Asia,Home,Japan,2019-12-07,Inactive
+210,Taylor-Robinson Ltd,North America,Fashion,Canada,2018-09-08,Active
+211,Barnes-Russell Ltd,North America,Lifestyle,Canada,2016-12-06,Active
+212,"Jones, Johnston and Palmer Ltd",Europe,Lifestyle,Spain,2025-06-07,Inactive
+213,"Robinson, Hughes and Sims Ltd",Asia,Beauty,Japan,2021-01-22,Active
+214,"Ross, Spencer and Brady Ltd",North America,Fashion,Canada,2017-06-08,Active
+215,Brown-Connor Ltd,Asia,Fashion,Bangladesh,2024-05-17,Active
+216,Tucker LLC Ltd,North America,Beauty,United States,2019-08-02,Active
+217,"Simmons, Francis and Mills Ltd",Asia,Consumer Goods,Bangladesh,2022-08-10,Inactive
+218,"Palmer, Saunders and Edwards Ltd",UK,Home,United Kingdom,2023-05-17,Active
+219,"Fowler, Rees and Yates Ltd",Asia,Beauty,South Korea,2024-10-29,Inactive
+220,Morris Group Ltd,UK,Fashion,United Kingdom,2025-05-05,Active
+221,"Campbell, Spencer and Thompson Ltd",Asia,Consumer Goods,China,2019-03-27,Inactive
+222,Thomas Inc Ltd,UK,Home,United Kingdom,2019-03-07,Inactive
+223,Crawford-Smith Ltd,UK,Home,United Kingdom,2020-03-31,Active
+224,"James, Thompson and Hooper Ltd",Asia,Beauty,Bangladesh,2024-05-17,Inactive
+225,"Richardson, Stephenson and Jackson Ltd",Europe,Beauty,Portugal,2018-08-18,Active
+226,"Smith, Smith and Potts Ltd",North America,Home,Mexico,2023-10-12,Active
+227,Davies-Steele Ltd,UK,Lifestyle,United Kingdom,2020-07-06,Active
+228,Scott-Burns Ltd,Asia,Fashion,Vietnam,2025-03-13,Active
+229,"Smith, Brady and Ryan Ltd",North America,Home,Canada,2020-01-01,Inactive
+230,Dean-Palmer Ltd,Asia,Lifestyle,Japan,2019-10-08,Inactive
+231,Turner-Harris Ltd,North America,Lifestyle,United States,2025-05-04,Active
+232,"Byrne, Bailey and Taylor Ltd",North America,Home,Canada,2023-07-18,Active
+233,Walker Ltd Ltd,Asia,Beauty,South Korea,2021-01-03,Inactive
+234,Russell-Wilson Ltd,North America,Home,Canada,2023-10-03,Active
+235,Woods PLC Ltd,Europe,Consumer Goods,Portugal,2018-10-17,Active
+236,"Read, Davies and Khan Ltd",UK,Beauty,United Kingdom,2017-05-31,Inactive
+237,"Willis, Herbert and Williams Ltd",UK,Home,United Kingdom,2021-10-03,Active
+238,"Clarke, Walker and Rose Ltd",UK,Beauty,United Kingdom,2020-04-11,Active
+239,Daniels PLC Ltd,North America,Fashion,Canada,2024-06-04,Inactive
+240,Hill-Johnston Ltd,Asia,Beauty,Japan,2024-01-05,Active
+241,Johnston-Curtis Ltd,UK,Home,United Kingdom,2025-03-30,Active
+242,Morris-Cook Ltd,UK,Beauty,United Kingdom,2017-07-29,Active
+243,Dale and Sons Ltd,North America,Home,Mexico,2024-04-12,Active
+244,"Davies, Simmons and Baker Ltd",UK,Fashion,United Kingdom,2021-07-21,Active
+245,Pearson Inc Ltd,Asia,Lifestyle,Vietnam,2018-12-02,Inactive
+246,Murphy Ltd Ltd,Europe,Home,Portugal,2023-04-13,Inactive
+247,Jackson-Fuller Ltd,Europe,Home,Germany,2024-12-31,Active
+248,Davies Group Ltd,North America,Consumer Goods,Mexico,2016-10-06,Active
+249,"Mills, Morrison and Miah Ltd",North America,Consumer Goods,United States,2022-04-04,Active
+250,Walker-Atkins Ltd,North America,Lifestyle,Canada,2020-03-19,Active
