@@ -1,5 +1,12 @@
 import pandas as pd
+from pathlib import Path
+import random
+from faker import Faker
 
+random.seed(42)
+Faker.seed(42)
+
+fake = Faker("en_GB")
 
 orders = pd.read_csv(
     "data/raw/orders.csv"

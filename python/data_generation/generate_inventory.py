@@ -1,3 +1,4 @@
+import pandas as pd
 """
 Harbour & Co. Retail Operations Analytics
 
@@ -19,14 +20,13 @@ quantity_damaged
 reorder_level
 """
 
-import pandas as pd
 import random
 from faker import Faker
-from datetime import date
 
+random.seed(42)
+Faker.seed(42)
 
 fake = Faker("en_GB")
-
 
 # -----------------------------------------------------
 # Configuration

@@ -1,3 +1,4 @@
+import pandas as pd
 """
 Harbour & Co. Retail Operations Analytics
 
@@ -6,10 +7,11 @@ Product Data Generator
 Generates product catalogue linked to existing suppliers.
 """
 
-import pandas as pd
 import random
 from faker import Faker
 
+random.seed(42)
+Faker.seed(42)
 
 fake = Faker("en_GB")
 

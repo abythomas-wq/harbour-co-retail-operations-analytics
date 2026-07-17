@@ -20,6 +20,10 @@ import random
 from faker import Faker
 from pathlib import Path
 
+random.seed(42)
+Faker.seed(42)
+
+fake = Faker("en_GB")
 
 # -----------------------------------------------------
 # Reproducibility

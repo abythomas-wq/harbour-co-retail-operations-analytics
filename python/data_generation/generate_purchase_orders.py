@@ -1,3 +1,14 @@
+import pandas as pd
+import random
+from faker import Faker
+from datetime import timedelta
+
+random.seed(42)
+Faker.seed(42)
+
+fake = Faker("en_GB")
+
+
 """
 Harbour & Co. Retail Operations Analytics
 
@@ -20,13 +31,6 @@ purchase_order_status
 unit_cost
 """
 
-import pandas as pd
-import random
-from faker import Faker
-from datetime import timedelta
-
-
-fake = Faker("en_GB")
 
 
 # -----------------------------------------------------

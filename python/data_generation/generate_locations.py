@@ -1,3 +1,4 @@
+import pandas as pd
 """
 Harbour & Co. Retail Operations Analytics
 Location Data Generator
@@ -7,14 +8,13 @@ Generates operational locations including:
 - Distribution centres
 """
 
-import pandas as pd
-from faker import Faker
-from datetime import date
 import random
+from faker import Faker
 
+random.seed(42)
+Faker.seed(42)
 
 fake = Faker("en_GB")
-
 
 locations = []
 

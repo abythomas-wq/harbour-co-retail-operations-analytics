@@ -1,3 +1,4 @@
+import pandas as pd
 """
 Harbour & Co. Retail Operations Analytics
 
@@ -12,9 +13,13 @@ Creates transactional detail required for revenue,
 basket analysis and product performance analytics.
 """
 
-import pandas as pd
 import random
+from faker import Faker
 
+random.seed(42)
+Faker.seed(42)
+
+fake = Faker("en_GB")
 
 # -----------------------------------------------------
 # Configuration

@@ -1,3 +1,4 @@
+import pandas as pd
 """
 Harbour & Co. Retail Operations Analytics
 Supplier Data Generator
@@ -5,10 +6,11 @@ Supplier Data Generator
 Generates supplier master data.
 """
 
-import pandas as pd
-from faker import Faker
 import random
+from faker import Faker
 
+random.seed(42)
+Faker.seed(42)
 
 fake = Faker("en_GB")
 
