@@ -104,3 +104,21 @@ Examples:
 - Some products will experience stock shortages
 - Online orders will have longer fulfilment journeys than store purchases
 - Demand patterns will vary by category and season
+
+### Data Generation Order
+
+1. Locations
+2. Stores
+3. Warehouses
+4. Suppliers
+5. Products
+6. Customers
+7. Orders
+8. Order Items
+9. Inventory Snapshots
+10. Shipments
+11. Purchase Orders
+
+Reason:
+Tables are generated according to foreign key dependencies.
+Master entities are created before transactional entities.

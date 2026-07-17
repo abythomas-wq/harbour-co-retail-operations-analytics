@@ -69,7 +69,6 @@ supplier_statuses = [
 # -----------------------------------------------------
 # Generate Supplier Records
 # -----------------------------------------------------
-
 for supplier_id in range(1, TOTAL_SUPPLIERS + 1):
 
     selected_region = random.choice(
@@ -78,6 +77,7 @@ for supplier_id in range(1, TOTAL_SUPPLIERS + 1):
 
     suppliers.append(
         {
+            "supplier_id": supplier_id,
             "supplier_name": f"{fake.company()} Ltd",
             "supplier_region": selected_region,
             "supplier_category": random.choice(
@@ -95,6 +95,7 @@ for supplier_id in range(1, TOTAL_SUPPLIERS + 1):
             )
         }
     )
+
 
 # -----------------------------------------------------
 # Export CSV

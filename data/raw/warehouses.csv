@@ -1,0 +1,4 @@
+location_id,warehouse_name,warehouse_type,capacity_units,operational_status,opening_date
+61,Midlands Distribution Centre,Distribution Centre,267285,Active,2021-05-30
+62,Northern Distribution Centre,Distribution Centre,228754,Active,2018-10-31
+63,Southern Distribution Centre,Distribution Centre,364113,Active,2016-10-30
