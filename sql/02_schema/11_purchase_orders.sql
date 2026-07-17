@@ -24,3 +24,15 @@ CREATE TABLE IF NOT EXISTS purchase_orders (
         FOREIGN KEY (product_id)
         REFERENCES products(product_id)
 );
+
+describe purchase_orders;
+
+SHOW CREATE TABLE purchase_orders;
+
+
+
+
+
+
+
+
