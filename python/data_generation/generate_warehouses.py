@@ -43,11 +43,14 @@ warehouse_types = [
     "Fulfilment Centre"
 ]
 
+warehouse_id = 1
+
 
 for _, location in warehouse_locations.iterrows():
 
     warehouses.append(
         {
+            "warehouse_id": warehouse_id,
             "location_id": location["location_id"],
             "warehouse_name": location["location_name"],
             "warehouse_type": random.choice(
@@ -64,6 +67,8 @@ for _, location in warehouse_locations.iterrows():
             )
         }
     )
+
+    warehouse_id += 1
 
 
 # -----------------------------------------------------

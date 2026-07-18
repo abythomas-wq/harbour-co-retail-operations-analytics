@@ -54,10 +54,9 @@ locations = pd.read_csv(
 
 
 # Only warehouses can fulfil shipments
-warehouses = locations[
-    locations["location_type"] == "Warehouse"
-]
-
+warehouses = pd.read_csv(
+    "data/raw/warehouses.csv"
+)
 
 # -----------------------------------------------------
 # Filter Orders Requiring Shipment
@@ -168,9 +167,8 @@ shipment_id = 1
 for _, order in shipment_orders.iterrows():
 
     warehouse_id = random.choice(
-        warehouses["location_id"].tolist()
+       warehouses["warehouse_id"].tolist()
     )
-
 
     # Shipment date after order date
 
@@ -274,7 +272,7 @@ print(
 print(
     "Valid warehouse references:",
     df["warehouse_id"].isin(
-        warehouses["location_id"]
+        warehouses["warehouse_id"]
     ).all()
 )
 
