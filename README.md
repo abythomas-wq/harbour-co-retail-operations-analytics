@@ -224,7 +224,7 @@ Evaluate Harbour & Co.'s commercial health, channel performance, and profitabili
 
 ## Dashboard
 
-![Executive Business Performance Overview](./images/dashboard_1_executive_business_performance.png)
+![Executive Business Performance Overview](./Images/dashboard_1_executive_business_performance.png)
 
 ## Key Findings
 
@@ -247,7 +247,7 @@ Identify the customer segments and product categories generating the greatest co
 
 ## Dashboard
 
-![Customer & Product Value Analysis](./images/dashboard_2_customer_product_value_analysis.png)
+![Customer & Product Value Analysis](./Images/dashboard_2_customer_product_value_analysis.png)
 
 ## Key Findings
 
@@ -277,7 +277,7 @@ Assess whether Harbour & Co.'s operational capability supports continued omnicha
 
 ## Dashboard
 
-![Operations & Supply Chain Performance Review](./images/dashboard_3_operations_supply_chain_performance.png)
+![Operations & Supply Chain Performance Review](./Images/dashboard_3_operations_supply_chain_performance.png)
 
 ## Key Findings
 
