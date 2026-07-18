@@ -1,4 +1,4 @@
-CREATE OR REPLACE VIEW vw_retail_operations_analytics AS
+CREATE OR REPLACE VIEW vw_retail_operations_analysis AS
 WITH inventory_summary AS (
     SELECT
         product_id,
@@ -158,7 +158,6 @@ LEFT JOIN procurement_summary pr
 ON p.product_id = pr.product_id
 LEFT JOIN shipment_summary sh
 ON o.order_id = sh.order_id;
-
 
 
 
