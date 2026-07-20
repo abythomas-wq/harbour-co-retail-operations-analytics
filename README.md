@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**Project Name:** Harbour & Co. Retail Operations Analytics  
+**Project Name:** Harbour & Co. Commercial Performance Analytics  
 **Project Role:** Senior Business Analyst — Retail Operations & Omnichannel Transformation (Simulated)  
 **Business Area:** Retail Operations, Supply Chain & Digital Transformation  
 **Organisation:** Harbour & Co. Retail  
@@ -13,7 +13,7 @@
 
 # 1. Executive Summary
 
-Harbour & Co. Retail Operations Analytics is an end-to-end Business Analysis and data analytics project developed to support **Project Horizon** — Harbour & Co.'s Omnichannel Transformation Programme.
+Harbour & Co. Commercial Performance Analytics is an end-to-end Business Analysis and data analytics project developed to support **Project Horizon** — Harbour & Co.'s Omnichannel Transformation Programme.
 
 The project demonstrates how operational data can be transformed into actionable insights to support strategic decision-making across retail operations, supply chain, customer experience, and commercial performance.
 
